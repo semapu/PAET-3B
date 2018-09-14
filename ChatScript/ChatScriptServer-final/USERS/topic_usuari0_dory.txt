@@ -1,0 +1,31 @@
+USERS/topic_usuari0_dory.txt
+jul2116 Dec16'16-19:53:56 Dec20'16-11:22:42 0 |
+1 5 ~preguntas ~Mb s-YXb  DY 0 20 20 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~sí ) Adelante, dígame. ),checksum
+~introductions ~keywordless ~tarjeta ~gastos ~preguntas #pending
+~preguntas + 1 s-YXb ea 5 0 0 
+#`end topics
+$cs_randindex=210
+$cs_bot=Dory
+$cs_login=usuari0
+$cs_token=512
+$cs_control_main=~control
+$userprompt=usuari0: >
+$botprompt=Dory: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola\t!\t.
+ sí\tpor_favor\t.
+ haber\tperder\tmi\ttarjeta\t.
+ y\totro\tcosa\t,\tcuanto\tme\thaber\tgastar\ten\tspot_i_f_y\tdesde\t[??:??/1/??:??.??:??]\t?\t.
+ gracia\t!\t.
+#`end user
+ Bienvenido!
+ ¿Le puedo ayudar en algo?
+ Dígame.
+ Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de 
+ DATABASE C00
+ ¿Tienes alguna pregunta?
+#`end chatbot

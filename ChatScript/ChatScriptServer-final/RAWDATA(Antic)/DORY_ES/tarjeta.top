@@ -1,0 +1,25 @@
+TOPIC: ~TARJETA repeat (tarjeta PIN)
+
+u: (~bloquear * tarjeta) ^keep()
+Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.
+
+u: (~robar * tarjeta)^keep()
+Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900444333 o por Línea Abierta, si dispone de este servicio.
+
+u: ([personalizar personalizo] * tarjeta) ^keep()
+Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#__highlight
+
+u: ([cuando no] * [recibire recibido] * tarjeta) ^keep()
+Recibirás la tarjeta por correo ordinario una vez finalizado el proceso de alta. El correo ordinario puede tardar hasta dos semanas.
+
+u: ([activar alta] * tarjeta) ^keep()
+Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?
+\n
+1. Busca un cajero Caixabank
+\n
+2. Introduce la tarjeta y elige tu PIN
+\n
+3. Actívala mediante un SMS que te llegará a tu móvil
+
+u: (["no recuerdar" olvide olvidar] * pin) ^keep()
+Si olvida el PIN de su tarjeta...

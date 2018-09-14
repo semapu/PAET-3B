@@ -1,0 +1,44 @@
+TOPIC: ~PRESTAMOS keep (~prestamo)
+
+# Cuales son las condiciones de mi actual préstamo
+u: (~cual [es son] [la las el los] ~condiciones de [un mi] <<~prestamo {actual vigente}>>)^keep()
+Para saber el estado de sus prestamos o creditos, acceda al apartado Préstamos > Mis préstamos, y seleccione el contrato que desee consultar.
+\n
+En función del tipo de producto que tenga contratado puede visualizar los siguientes datos:
+\n
+Para Préstamos:
+\n
+Cuadro de amortización: le muestra el detalle del plan de amortización de su préstamo.
+Recibos pagados: le muestra el detalle de todos aquellos recibos que haya pagado desde la fecha que especifique.
+Recibos no pagados: le muestra la lista de los recibos que todavía no ha pagado y le permite efectuar el pago de cada uno de ellos o de varios a la vez (este pago se hace por orden de antigüedad, del más antiguo al más reciente).
+Para Hipotecas y Créditos Abiertos:
+\n
+Todas las disposiciones: le muestra la lista de todas las disposiciones, tanto las vigentes como las canceladas.
+Disposiciones vigentes: le muestra una lista de las disposiciones vigentes detallando los siguientes datos para cada una: la fecha de constitución, vencimientos, capital concedido, saldo, cuota y interés.
+Disposiciones canceladas: le muestra la lista de disposiciones que han sido canceladas anticipadamente o que han vencido el periodo por el cual se solicitaron.
+Recibos pagados desde una fecha: le muestra el detalle de todos aquellos recibos que haya pagado desde la fecha que especifique.
+Recibos no pagados: le muestra la lista de los recibos que todavía no ha pagado y le permite efectuar el pago de cada uno de ellos o de varios a la vez (este pago se hace por orden de antigüedad, del más antiguo al más reciente).
+Para Cuentas de crédito:
+\n
+Liquidaciones: le muestra la relación de liquidaciones hechas, de la cuenta de crédito seleccionado, clasificadas por el "periodo de liquidación".
+Si desea conocer al detalle toda la información relacionada con los préstamos y créditos comercializados por CaixaBank, clique en el siguiente enlace:
+\n
+https://www.caixabank.es/particular/prestamoshipotecas/prestamoshipotecas_es.html
+
+# Cómo puedo mejorar las condiciones de mi préstamo
+u: ( Como ~poder * las ~condiciones de [un mi] ~prestamo)^keep()
+Para mejorar las condiciones de su prestamo...
+
+# como  pedir un prestamo
+u: (~pedir * ~prestamo)^keep()
+NO FUNCIONA L'ENLLAÇ
+
+# Cuál es el importe máximo por el que puedo solicitar un préstamo hipotecario
+u: (~cual [es son] [el los] ~coste por [los el] que ~poder ~pedir [un unos] ~prestamo)^keep()
+El importe máximo de un prestamo hipotecario varia en función de diversos factores. Para obtener mas información sobre prestamos hipotecarios, consulte el siguiente enlace:
+https://www.caixabank.es/particular/prestamoshipotecas/subhomeprestamoshipotecas_es.html
+
+# Cuál es la principal diferencia entre un préstamo y un crédito
+u: (~cual [es son] [la las] [principal principales] [diferencia diferencias] entre un ~prestamo y un ~prestamo)^keep()
+En un préstamo, la entidad entrega al cliente una cantidad fija de capital que éste se compromete a devolver de forma periódica en un plazo determinado previamente pactado.
+En canvio, cuando hablamos de credito, la cantidad que el banco presta al cliente no es fija. Lo que la entidad establece es un límite máximo que está dispuesto a prestar y del que el usuario puede hacer o no uso en su totalidad

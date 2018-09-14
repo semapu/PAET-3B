@@ -1,0 +1,13 @@
+TOPIC: ~INGRESAR repeat deprioritize (~ingresos)
+
+# Mostrar todos los ingresos 'de efectivo'
+u: ([~cuánto ~mostrar] * ~ingresos * _{~tipo_ingresos})  ^keep()
+DATABASE C01 '_0
+
+u: (~ingresos * _{~nomina ~tipo_ingresos}) ^keep()
+DATABASE C01 '_0
+
+# He cobrado ya
+u: (~cobrar) ^keep()
+Perdone, puede especificar que tipo de cobro espera?
+

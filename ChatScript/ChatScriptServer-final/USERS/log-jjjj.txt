@@ -1,0 +1,98 @@
+﻿Start: user:jjjj bot:dory ip: rand:3803 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-15:25:30 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:20:46 0:Nov25'16-15:25:30 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3805 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Nov25'16-15:25:35 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:25:32 0:Nov25'16-15:25:30 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Command: :reset user
+Start: user:jjjj bot:dory ip: rand:3803 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-15:25:37 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:25:32 0:Nov25'16-15:25:30 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:jjjj bot:dory ip: (~comparar) 1   comparar gastos ==> DATABASE C05  When:Nov25'16-15:25:39 Why:~comparar.1.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 2   gastar ==> DATABASE C00  When:Nov25'16-15:25:41 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 3   comparar gastos ==> DATABASE C00  When:Nov25'16-15:25:44 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 4   comparar gastos entre enero y febrero ==> DATABASE C00  When:Nov25'16-15:25:56 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~preguntas) 5   nada ==> ¿Tienes alguna pregunta?  When:Nov25'16-15:26:10 Why:~preguntas.1.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~comparar) 6   comparar gastos ==> DATABASE C05  When:Nov25'16-15:26:13 Why:~comparar.1.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~comparar) 7   ja ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-15:26:15 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 8   gastos ==> DATABASE C00  When:Nov25'16-15:26:18 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 9   comparar ==> No consigue entender lo que me está diciendo.  When:Nov25'16-15:26:19 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 10   comparar ==> No entiendo lo que me quiere decir.  When:Nov25'16-15:26:22 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 11   comparar gastos ==> DATABASE C00  When:Nov25'16-15:26:26 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~comparar) 12   comparar ingresos ==> DATABASE C05  When:Nov25'16-15:26:30 Why:~comparar.0.0.~control.1.0  
+Command: :build dory
+Command: :build dorty
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3815 (~introductions) 12 ==> Hola!  When:Nov25'16-15:40:09 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:40:06 0:Nov25'16-15:25:30 F:0 P:Nov25'16-15:26:30 Why:~introductions.0.0.~control.0.0 
+Respond: user:jjjj bot:dory ip: (~introductions) 13   me han ingresado la nomina? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-15:40:13 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~introductions) 14   me han ingresado la nomina ==> No comprendo lo que ha dicho.  When:Nov25'16-15:40:18 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~ingresar) 15   me han ingresar nomina ==> DATABASE C01 1  When:Nov25'16-15:40:31 Why:~ingresar.1.0.~control.1.0   F:1480084831-3.1.0.7.1.0 
+Respond: user:jjjj bot:dory ip: (~ingresar) 16   ingresar nómina ==> No consigue entender lo que me está diciendo.  When:Nov25'16-15:40:45 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~ingresar) 17   ingresar nomina ==> DATABASE C01 1  When:Nov25'16-15:40:51 Why:~ingresar.1.0.~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3822 (~introductions) 17 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-15:41:52 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:41:49 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-15:40:51 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~gastos) 18   Ver las facturas de teléfono de dos mil quince y dos mil dieciséis. ==> DATABASE C00  When:Nov25'16-16:34:04 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 19   mirame los recibos del telefono de dos mil quince i dos mil dieciseis ==> No consigue entender lo que me está diciendo.  When:Nov25'16-16:34:04 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 20   ensenyame los recibos del telefono ==> No entiendo lo que me quiere decir.  When:Nov25'16-16:34:04 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 21   Ver las facturas de teléfono de dos mil quince y dos mil dieciséis. ==> DATABASE C00  When:Nov25'16-16:34:10 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 22   mirame los recibos del telefono de dos mil quince i dos mil dieciseis ==> No entiendo lo que me quiere decir.  When:Nov25'16-16:34:19 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 23   Ver las facturas de teléfono de dos mil quince y dos mil dieciséis. ==> DATABASE C00  When:Nov25'16-16:35:48 Why:~gastos.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 24   mirame los recibos del telefono de dos mil quince i dos mil dieciseis ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-16:35:57 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~gastos) 25   Muéstrame lo que he gastado en coche. ==> DATABASE C00  When:Nov25'16-16:36:57 Why:~gastos.0.0.~control.1.0  
+Command: :build dory_es
+Start: user:jjjj bot:dory ip: rand:3828 (~introductions) 25 ==> Bienvenido!  When:Nov25'16-16:50:47 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:41:49 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-16:36:57 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3830 (~introductions) 25 ==> No consigue entender lo que me está diciendo.  When:Nov25'16-16:50:52 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-16:50:49 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-16:36:57 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~sald) 26   Cuánto dinero tengo? ==> DATABASE C03  When:Nov25'16-16:50:58 Why:~sald.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 27   cuanto me queda en la cuenta ==> DATABASE C03  When:Nov25'16-16:51:02 Why:~sald.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 28   que saldo me queda ==> DATABASE C03  When:Nov25'16-16:51:06 Why:~sald.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 29     ==> No comprendo lo que ha dicho.  When:Nov25'16-16:51:06 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 30   que saldo me queda ==> DATABASE C03  When:Nov25'16-16:51:08 Why:~sald.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 31   cuanto hay en mi cuenta ==> No consigue entender lo que me está diciendo.  When:Nov25'16-16:51:11 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 32   me queda mucho dinero ==> DATABASE C03  When:Nov25'16-16:51:16 Why:~sald.1.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 33   - Mostrar el saldo que hay en la cuenta. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-16:51:20 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 34   - Mostrar el saldo que hay en la cuenta. ==> No comprendo lo que ha dicho.  When:Nov25'16-16:51:21 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 35   mostar el saldo que hay en mi cuenta ==> DATABASE C03  When:Nov25'16-16:51:27 Why:~sald.2.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 36   consultar mi saldo ==> DATABASE C03  When:Nov25'16-16:51:32 Why:~sald.0.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 37   muestrame el dinero de mi cuenta ==> DATABASE C03  When:Nov25'16-16:51:37 Why:~sald.0.0.~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3840 (~introductions) 37 ==> Hola!  When:Nov25'16-16:55:40 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-16:55:38 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-16:51:37 Why:~introductions.0.0.~control.0.0 
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3842 (~introductions) 37 ==> No consigue entender lo que me está diciendo.  When:Nov25'16-16:55:55 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-16:55:53 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-16:51:37 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~sald) 38   ¿Cómo puedo traer dinero de otra cuenta? ==> DATABASE C03  When:Nov25'16-17:04:33 Why:~sald.2.0.~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3843 (~introductions) 38 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-17:04:41 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:04:39 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:04:33 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~sald) 39   ¿Cómo puedo traer dinero de otra cuenta? ==> DATABASE C03  When:Nov25'16-17:04:42 Why:~sald.2.0.~control.1.0  
+Command: :build dory_es
+Start: user:jjjj bot:dory ip: rand:3844 (~introductions) 39 ==> No comprendo lo que ha dicho.  When:Nov25'16-17:10:43 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:04:39 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:04:42 Why:~control.1.0 
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3844 (~introductions) 39 ==> No comprendo lo que ha dicho.  When:Nov25'16-17:10:48 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:10:45 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:04:42 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~sald) 40   que tengo que hacer para mover dinero ==> DATABASE C03  When:Nov25'16-17:10:48 Why:~sald.0.0.~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3843 (~introductions) 40 ==> Bienvenido!  When:Nov25'16-17:11:11 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:11:08 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:10:48 Why:~introductions.1.0.~control.0.0 
+Respond: user:jjjj bot:dory ip: (~sald) 41   que tengo que hacer para mover dinero ==> DATABASE C03  When:Nov25'16-17:11:11 Why:~sald.0.0.~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3846 (~introductions) 41 ==> No entiendo lo que me quiere decir.  When:Nov25'16-17:12:36 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:12:33 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:11:11 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~introductions) 42   traer traspasar enviar transferir pasar transmitir ceder trasladar abona ==> No entiendo lo que me quiere decir.  When:Nov25'16-17:12:39 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~sald) 43   que tengo que hacer para mover dinero ==> DATABASE C03  When:Nov25'16-17:12:43 Why:~sald.0.0.~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3848 (~introductions) 43 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-17:13:00 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:12:57 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:12:43 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~sald) 44   mover dinero ==> DATABASE C03  When:Nov25'16-17:13:01 Why:~sald.2.0.~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3849 (~introductions) 44 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-17:13:14 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:13:11 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:13:01 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~movimientos) 45   mover dinero ==> Para transferir dinero entre cuentas...  When:Nov25'16-17:13:16 Why:~movimientos.1.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~movimientos) 46   que tengo que hacer para mover dinero ==> Para transferir dinero entre cuentas...  When:Nov25'16-17:13:22 Why:~movimientos.1.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~movimientos) 47   como envio dinero ==> No entiendo lo que me quiere decir.  When:Nov25'16-17:13:29 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~movimientos) 48   como hago transferencias ==> No consigue entender lo que me está diciendo.  When:Nov25'16-17:13:32 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~movimientos) 49   ¿Cómo puedo traer dinero de otra entidad? ==> Para transferir dinero entre cuentas...  When:Nov25'16-17:13:40 Why:~movimientos.1.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~movimientos) 50   ¿Como personalizar mi tarjeta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-17:14:58 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~movimientos) 51   ¿Puedo sacar dinero en el extranjero? ==> No consigue entender lo que me está diciendo.  When:Nov25'16-17:15:35 Why:~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3854 (~introductions) 51 ==> Hola!  When:Nov25'16-17:33:37 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:33:34 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:15:35 Why:~introductions.0.0.~control.0.0 
+Respond: user:jjjj bot:dory ip: (~tarjeta) 52   ¿Como personalizar mi tarjeta? ==> Para personalizar su tarjeta...  When:Nov25'16-17:33:41 Why:~tarjeta.2.0.~control.1.0  
+Respond: user:jjjj bot:dory ip: (~tarjeta) 53   ¿Puedo sacar dinero en el extranjero? ==> No consigue entender lo que me está diciendo.  When:Nov25'16-17:33:44 Why:~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3858 (~introductions) 53 ==> No entiendo lo que me quiere decir.  When:Nov25'16-17:34:27 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:34:24 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:33:44 Why:~control.1.0 
+Respond: user:jjjj bot:dory ip: (~introductions) 54   ¿Puedo sacar dinero en el extranjero? ==> No entiendo lo que me quiere decir.  When:Nov25'16-17:34:27 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~introductions) 55   ¿Puedo sacar dinero en el extranjero? ==> No comprendo lo que ha dicho.  When:Nov25'16-17:34:28 Why:~control.1.0  
+Command: :build dory
+Start: user:jjjj bot:dory ip: rand:3858 (~introductions) 55 ==> Bienvenido!  When:Nov25'16-17:35:13 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:35:11 0:Nov25'16-15:25:30 F:1480084831-3.1.0.7.1.0 P:Nov25'16-17:34:28 Why:~introductions.1.0.~control.0.0 
+Respond: user:jjjj bot:dory ip: (~introductions) 56   ¿Puedo sacar dinero en el extranjero? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-17:35:17 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~introductions) 57   puedo sacar dinero en el extranjero ==> No entiendo lo que me quiere decir.  When:Nov25'16-17:35:23 Why:~control.1.0  
+Respond: user:jjjj bot:dory ip: (~keywordless) 58   sacar dinero extranjero ==> Para sacar dinero en el extranjero...  When:Nov25'16-17:35:26 Why:~keywordless.7.0.~control.1.0  
+Command: :build dory

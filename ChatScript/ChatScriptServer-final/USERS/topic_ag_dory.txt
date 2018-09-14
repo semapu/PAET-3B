@@ -1,0 +1,44 @@
+USERS/topic_ag_dory.txt
+jul2116 Dec18'16-12:14:32 Dec18'16-12:24:00 0 |
+6 5 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~keywordless ~gastos ~introductions #pending
+~preguntas + 1 s-YXb ea 0 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=ag: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=ag
+$cs_bot=Dory
+$cs_randindex=1924
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ cuanto me he gastado en telefono
+ 
+ [B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B:[B[B[B[B[B[B[B[Bbui
+ como puedo sacar dinero en otro pais
+ cuanto me he gastado en telefono
+#`end user
+ Bienvenido!
+ ¿Tienes alguna pregunta?
+ DATABASE C00
+ Hola!
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ Para sacar dinero en el extranjero...
+ DATABASE C00
+ No comprendo lo que ha dicho.
+#`end chatbot

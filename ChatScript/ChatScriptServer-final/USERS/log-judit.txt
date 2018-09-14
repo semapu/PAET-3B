@@ -1,0 +1,66 @@
+﻿Start: user:judit bot:dory ip: rand:4031 (~introductions) 0 ==> Bienvenido!  When:Dec06'16-17:26:55 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec03'16-13:30:21 0:Dec06'16-17:26:55 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:judit bot:dory ip: (~keywordless) 1   hola dory ==> Hola de nuevo.  When:Dec06'16-17:27:02 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~preguntas) 2   que tal? ==> ¿Tienes alguna pregunta?  When:Dec06'16-17:27:07 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~preguntas) 3   no ==> De acuerdo, ¿le puedo ayudar en algo?  When:Dec06'16-17:27:10 Why:~preguntas.1.2   F:0 
+Respond: user:judit bot:dory ip: (~preguntas) 4   no ==> De acuerdo, me quedo esperando por si más tarde le puedo ayudar.  When:Dec06'16-17:27:13 Why:~preguntas.1.4   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 5   ok ==> ¿Le puedo ayudar en algo?  When:Dec06'16-17:27:29 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 6   si ==> Dígame.  When:Dec06'16-17:27:31 Why:~keywordless.31.1   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 7     ==> No consigue entender lo que me está diciendo.  When:Dec06'16-17:27:32 Why:~control.1.0   F:0 
+Respond: user:judit bot:dory ip: (~keywordless) 8   buenos dias ==> No entiendo lo que me quiere decir.  When:Dec06'16-17:27:42 Why:~control.1.0   F:0 
+Respond: user:judit bot:dory ip: (~keywordless) 9   buenos dias ==> No entiendo lo que me quiere decir.  When:Dec06'16-17:27:47 Why:~control.1.0   F:0 
+Respond: user:judit bot:dory ip: (~keywordless) 10   porque? ==> No consigue entender lo que me está diciendo.  When:Dec06'16-17:27:50 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 11   hola tonta ==> Hola de nuevo.  When:Dec06'16-17:27:57 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 12   hola fea ==> ¿Por qué repite usted la palabra "hola"?  When:Dec06'16-17:28:03 Why:~keywordless.3.1   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 13   porque si ==> ¿Le puedo ayudar en algo?  When:Dec06'16-17:28:14 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 14   si ==> Dígame.  When:Dec06'16-17:28:16 Why:~keywordless.31.1   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 15   como puedo activar mi cuenta? ==> No comprendo lo que ha dicho.  When:Dec06'16-17:28:25 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 16   como puedo activar mi cuenta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec06'16-17:28:34 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~ahorro) 17   como puedo abrir una cuenta? ==> Para poder dar de alta una nueva cuenta a través de Línea Abierta, debe cumplir las siguientes condiciones:  Ser usuario particular y residente en el Estado español. Tener activada la modalidad operativa de Línea Abierta. Si no es así, en el documento ¿Cómo puedo obtener la modalidad operativa de Línea Abierta? le informamos cómo obtenerla. Ser ya titular de alguna cuenta corriente o de ahorro de CaixaBank. Proceso de alta:  Acceda a Cuentas > Solicitar nuevas cuentas. Pulse el botón "Contratar" del tipo de cuenta que desee contratar. En el formulario de alta deberá introducir los datos siguientes: Titularidad de la cuenta: usted es el titular único por defecto de la nueva cuenta, pero podrá añadir más titulares copiando la relación de titularidad de alguna de las cuentas de las que ya dispone. Para ello, marque la opción "Quiero añadir más titulares", y en la lista de relaciones contractuales que se le muestra, seleccione la que desee (*). Podrá seleccionar la oficina gestora que desee. Marque la opción "Quiero una tarjeta de débito asociada a la nueva cuenta corriente" si desea asociar una nueva tarjeta de débito a su nueva cuenta. Podrá seleccionar si desea que se le envíe la tarjeta a su domicilio o si desea recogerla en la oficina (la misma que ha especificado en el paso anterior).  When:Dec06'16-17:28:44 Why:~ahorro.0.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~ahorro) 18   genial ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec06'16-17:28:52 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 19   que ok ==> ¿Tiene alguna pregunta?  When:Dec06'16-17:29:00 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 20   si ==> Dígame.  When:Dec06'16-17:29:02 Why:~keywordless.31.1   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 21   como puedo añadir alguien a mi cuenta? ==> No entiendo lo que me quiere decir.  When:Dec06'16-17:29:16 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 22   como puedo hacer para que otra persona sea titular de mi cuenta? ==> No consigue entender lo que me está diciendo.  When:Dec06'16-17:29:33 Why:~control.1.0   F:3 
+Respond: user:judit bot:dory ip: (~keywordless) 23   pues vaya ==> No entiendo lo que me quiere decir.  When:Dec06'16-17:30:01 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 24   enfin ==> No consigue entender lo que me está diciendo.  When:Dec06'16-17:30:04 Why:~control.1.0   F:0 
+Respond: user:judit bot:dory ip: (~keywordless) 25   como puedo hacer para que alguien sea titular de mi cuenta? ==> No comprendo lo que ha dicho.  When:Dec06'16-17:30:18 Why:~control.1.0   F:3 
+Respond: user:judit bot:dory ip: (~keywordless) 26   como se cambia el pin? ==> No entiendo lo que me quiere decir.  When:Dec06'16-17:30:33 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 27   como se cambia el pin de una targeta? ==> No comprendo lo que ha dicho.  When:Dec06'16-17:30:42 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 28   pin targeta ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec06'16-17:30:49 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 29   como puedo cambiar el pin de mi targeta? ==> No entiendo lo que me quiere decir.  When:Dec06'16-17:31:00 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 30   como activo mi targeta? ==> No consigue entender lo que me está diciendo.  When:Dec06'16-17:31:08 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 31   si voy a otro pais, me cobran comision por pagar con targeta? ==> ¿Le puedo ayudar en algo?  When:Dec06'16-17:32:31 Why:~keywordless.31.0.~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 32   si voy a otro pais, me cobran comision por pagar con targeta? ==> Dígame.  When:Dec06'16-17:32:39 Why:~keywordless.31.1   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 33   dw ==> No entiendo lo que me quiere decir.  When:Dec06'16-17:32:43 Why:~control.1.0   F:0 
+Respond: user:judit bot:dory ip: (~keywordless) 34   maigot ==> No consigue entender lo que me está diciendo.  When:Dec06'16-17:32:47 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 35   cuanto me cobran por sacar dinero en el extranjero? ==> Para sacar dinero en el extranjero...  When:Dec06'16-17:33:12 Why:~keywordless.16.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 36   y si pago con targeta en un establecimiento en el extranjero? ==> ¿Tiene alguna pregunta?  When:Dec06'16-17:33:34 Why:~keywordless.31.0.~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 37   como activo mi cuenta? ==> No comprendo lo que ha dicho.  When:Dec06'16-17:33:54 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 38   como activo mi cuenta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec06'16-17:34:00 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 39   como se activa una cuenta de ahorros? ==> No comprendo lo que ha dicho.  When:Dec06'16-17:34:09 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 40   como se crea una cuenta de ahorros? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec06'16-17:34:17 Why:~control.1.0   F:2 
+Respond: user:judit bot:dory ip: (~keywordless) 41   como crear una cuenta de ahorros? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec06'16-17:34:25 Why:~control.1.0   F:1 
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Sourcefile Time used 1481042076556 ms for 40 sentences 196 tokens.
+Start: user:judit bot:dory ip: rand:4072 (~introductions) 41 ==> Hola!  When:Dec07'16-20:25:14 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec03'16-13:30:21 0:Dec06'16-17:26:55 F:1481041705-8.1.0 P:Dec06'16-17:34:25 Why:~introductions.0.0.~control.0.0 
+Respond: user:judit bot:dory ip: (~introductions) 42   como puedo activar mi targeta? ==> No comprendo lo que ha dicho.  When:Dec07'16-20:25:40 Why:~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~tarjeta) 43   como puedo activar mi tarjeta ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?  1. Busca un cajero Caixabank  2. Introduce la tarjeta y elige tu PIN  3. Actívala mediante un SMS que te llegará a tu móvil  When:Dec07'16-20:26:10 Why:~tarjeta.4.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 44   hola ==> Hola de nuevo.  When:Dec07'16-20:27:29 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~keywordless) 45   como te llamas? ==> Me llamo Dory.  When:Dec07'16-20:27:36 Why:~keywordless.0.0.~control.1.0   F:0 
+Respond: user:judit bot:dory ip: (~gastos) 46   cuanto he gastado en apple? ==> DATABASE C00  When:Dec07'16-20:31:05 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:judit bot:dory ip: (~gastos) 47   este mes cuanto he gastado? ==> No consigue entender lo que me está diciendo.  When:Dec07'16-20:31:14 Why:~control.1.0   F:2 
+Sourcefile Time used 1481139100855 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100855 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100855 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100856 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100856 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100856 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100856 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100856 ms for 6 sentences 28 tokens.
+Sourcefile Time used 1481139100856 ms for 6 sentences 28 tokens.

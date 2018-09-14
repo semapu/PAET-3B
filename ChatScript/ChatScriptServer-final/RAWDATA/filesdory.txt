@@ -1,0 +1,11 @@
+# underlying conversation system
+RAWDATA/DORY_ES/	
+# quibble ability
+RAWDATA/QUIBBLE_ES/
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+﻿^dory O 0 0 A$cs_token = 512 ^addtopic ( ~introductions ) $cs_control_main = ~control $userprompt = ^"%user: >" $botprompt = ^"Dory: " 

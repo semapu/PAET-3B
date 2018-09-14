@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CaixaBank Bot</title>
+<link rel="stylesheet" href="./chat.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="./res/recorder.js"></script>
+<script src="./res/main.js"></script>
+
+
+<!--Botones botstrap CLOSE-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<button id="revealChat" class="btn btn-primary btn-lg flotante">OpenChat</button>
+<div id="chatSelect" class="chat_window">
+	<div class="top_menu">
+
+		<!--CLOSE POPUP	-->
+		<button id="closePopup" class="chat-header-button pull-right" type="button"><i class="glyphicon glyphicon-off"></i></button>
+
+		<div class="title">CaixaBank Bot</div>
+	</div>
+	<ul class="messages"></ul>
+	<div class="bottom_wrapper clearfix">
+		<div class="microphone"><img src="./microphone.png" alt="microphone button" onclick="toggleRecording(this);"></div>
+		<div class="message_input_wrapper"><input id="audio_input" class="message_input" placeholder="Puedo ayudarte?" /></div>
+		<div class="send_message">
+			<div class="icon"></div>
+			<div class="text">Send</div>
+		</div>
+	</div>
+</div>
+<div class="message_template">
+	<li class="message">
+
+
+	<!--div class="avatar"></div-->
+	<div class="text_wrapper">
+		<div class="text"></div>
+	</div>
+	</li>
+</div>
+<script src="./Chart.js"></script>
+<script src="./chat.js"></script>
+
+<!--script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/animsition/jquery.animsition.js"></script-->
+</body>

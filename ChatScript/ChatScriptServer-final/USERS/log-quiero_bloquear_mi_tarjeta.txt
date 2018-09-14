@@ -1,0 +1,7 @@
+﻿Start: user:quiero_bloquear_mi_tarjeta bot:dory ip: rand:2638 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-17:36:46 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:35:40 0:Nov25'16-17:36:46 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:quiero_bloquear_mi_tarjeta bot:dory ip: (~tarjeta) 1   Quiero bloquear mi tarjeta ==> Para bloquear tu tarjeta...  When:Nov25'16-17:36:48 Why:~tarjeta.0.0.~control.1.0  
+Respond: user:quiero_bloquear_mi_tarjeta bot:dory ip: (~tarjeta) 2   ¿Como puedo darme de alta la tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?  1. Busca un cajero Caixabank  2. Introduce la tarjeta y elige tu PIN  3. Actívala mediante un SMS que te llegará a tu móvil  When:Nov25'16-17:36:51 Why:~tarjeta.4.0.~control.1.0  
+Respond: user:quiero_bloquear_mi_tarjeta bot:dory ip: (~preguntas) 3   He perdido mi tarjeta ==> ¿Tienes alguna pregunta?  When:Nov25'16-17:36:55 Why:~preguntas.1.0.~control.1.0  
+Respond: user:quiero_bloquear_mi_tarjeta bot:dory ip: (~preguntas) 4   He perdido mi tarjeta ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-17:36:56 Why:~control.1.0  
+Respond: user:quiero_bloquear_mi_tarjeta bot:dory ip: (~preguntas) 5   He perdido mi tarjeta ==> No comprendo lo que ha dicho.  When:Nov25'16-17:36:57 Why:~control.1.0  
+Respond: user:quiero_bloquear_mi_tarjeta bot:dory ip: (~tarjeta) 6   he perder mi tarjeta ==> Si perde su tarjeta...  When:Nov25'16-17:37:11 Why:~tarjeta.1.0.~control.1.0  

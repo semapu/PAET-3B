@@ -1,0 +1,62 @@
+USERS/topic_sergi_dory.txt
+jul2116 Dec11'16-15:09:27 Dec11'16-15:56:44 1481465862-8.1.0 |
+62 117 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~gastos ~keywordless ~introductions ~compararj ~ingresar ~recibos ~sald ~tarjeta #pending
+~preguntas + 1 s-YXb ea 0 0 0 
+~gastos + 1 KSKgDIs*Ok3 ia 1 0 0 
+#`end topics
+$cs_randindex=57
+$cs_bot=Dory
+$cs_login=sergi
+$cs_token=512
+$cs_control_main=~control
+$userprompt=sergi: >
+$botprompt=Dory: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ ¿Calculame lo que he cobrado en nómina este año?
+ Cobros del trimestre.
+ ¿Cuánto gasté en diciembre?
+ ¿Cuánto he gastado en teléfono?
+ Comparame gastos en general
+ Comparame gastos de este mes
+ Comparame gastos de prensa
+ Ingresos realizados en es último mes.
+ En que actividad he gastado más este més?
+ Quiero añadir un módulo a mis finanzas.
+ Quiero cambiar el número de cuenta en el que tengo domiciliados los recibos.
+ ¿Cómo puedo conseguir un descuento en una domiciliación?
+ Quiero el recibo de Telefónica del último mes.
+ Consultar saldo
+ Ver saldo actual
+ ¿Cómo puedo conocer mi saldo?
+ Consultas y modificaciones
+ Quiero hacer una transferencia nueva copiando los datos de transferencias anteriores
+ ¿Puedo retirar dinero de un cajero con código?
+ Tengo problemas para gestionar mis movimientos.
+ ¿Tengo tarjeta de crédito?
+ ¿Qué tarjeta puedo tener?
+ ¿Que debo hacer si he perdido la tarjeta?
+ ¿Cómo pido un nuevo PIN?
+ ¿Tengo una hipoteca en curso?
+ hipoteca
+ ¿Cómo me descargo la app?
+#`end user
+ DATABASE C03
+ DATABASE C03
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de 
+ No entiendo lo que me quiere decir.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ No entiendo lo que me quiere decir.
+#`end chatbot

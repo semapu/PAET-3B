@@ -1,0 +1,22 @@
+USERS/topic_ha_dory.txt
+jul2116 Dec16'16-20:11:24 Dec16'16-20:11:25 0 |
+1 1 ~keywordless gNb ZDC@c  DY 0 20 20 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~sí ) Dígame. ),checksum
+~introductions ~keywordless #pending
+#`end topics
+$cs_randindex=2928
+$cs_bot=Dory
+$cs_login=ha
+$cs_token=512
+$cs_control_main=~control
+$userprompt=ha: >
+$botprompt=Dory: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+#`end user
+ Bienvenido!
+ ¿Tiene alguna pregunta?
+#`end chatbot

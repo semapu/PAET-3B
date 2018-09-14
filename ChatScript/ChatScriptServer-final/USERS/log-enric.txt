@@ -1,0 +1,22 @@
+﻿Start: user:enric bot:dory ip: rand:2531 (~introductions) 0 ==> Bienvenido!  When:Dec09'16-18:15:04 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec03'16-13:30:21 0:Dec09'16-18:15:04 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:enric bot:dory ip: (~keywordless) 1   me cobraran si hago una transferencia ==> ¿Le puedo ayudar en algo?  When:Dec09'16-18:15:19 Why:~keywordless.31.0.~control.1.0   F:2 
+Respond: user:enric bot:dory ip: (~preguntas) 2   cuanto cuesta hacer una transferencia ==> ¿Tienes alguna pregunta?  When:Dec09'16-18:15:32 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:enric bot:dory ip: (~preguntas) 3   costar hacer transferencia ==> No comprendo lo que ha dicho.  When:Dec09'16-18:15:46 Why:~control.1.0   F:0 
+Respond: user:enric bot:dory ip: (~preguntas) 4   costar hacer transferencia ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec09'16-18:16:14 Why:~control.1.0   F:0 
+Respond: user:enric bot:dory ip: (~movimientos) 5   transferir dinero ==> Pasos a seguir:  1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia. 2. Seleccione una cuenta origen. 3. Introduzca la cuenta destino. Entre las opciones disponibles debe escoger una cuenta de otra entidad e introducir la cuenta en formato IBAN o CCC. 4. Introduzca el importe de la transferencia. 5. Introduzca los datos adicionales que (concepto, beneficiario). Si pulsa sobre el enlace "Informe los datos adicionales que desee" podrá informar más datos adicionales, entre ellos su identificación como remitente. Si lo requiere la cuenta origen y/o la cuenta destino estará obligado a informar los datos opcionales referencias Q43. 6. Seleccione si desea enviar un aviso al beneficiario vía SMS o correo electrónico, conforme usted ha solicitado una transferencia a su favor. Esta opción tiene un precio de servicio asociado de 0,30 € por (impuestos indirectos no incluidos). A continuación, si desea recibir un justificante de la operación podrá marcar la casilla correspondiente. Antes de continuar con la operación, podrá leer detenidamente los Términos y Condiciones de la operación que desea realizar. Pulse el botón "Continuar". En la pantalla siguiente podrá visualizar un resumen de los datos que haya introducido. Una vez revisados estos datos, podrá confirmar la operación introduciendo la clave que se le solicite de su Tarjeta Línea Abierta. Una vez confirmada la operación se le mostrará la pantalla resultado, la cual podrá imprimir o guardar en formato pdf en su equipo.  When:Dec09'16-18:16:31 Why:~movimientos.1.0.~control.1.0   F:1 
+Respond: user:enric bot:dory ip: (~movimientos) 6   ver ultimas facturas ==> No comprendo lo que ha dicho.  When:Dec09'16-18:17:51 Why:~control.1.0   F:1 
+Command: :build dory
+No such bot  enric -  -  status: defaultbot word not found   in topic_enric_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+No such bot  enric -  -  status: defaultbot word not found   in topic_enric_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+No such bot  enric -  -  status: defaultbot word not found   in topic_enric_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+Start: user:enric bot:dory ip: rand:2537 (~introductions) 6 ==> Hola!  When:Dec09'16-18:29:19 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec09'16-18:29:18 0:Dec09'16-18:15:04 F:0 P:Dec09'16-18:17:51 Why:~introductions.0.0.~control.0.0 
+Respond: user:enric bot:dory ip: (~introductions) 7   telefono la caixa ==> No entiendo lo que me quiere decir.  When:Dec09'16-18:29:31 Why:~control.1.0   F:1 
+Respond: user:enric bot:dory ip: (~introductions) 8   dime el telefono de atencion al cliente de la caixa ==> No consigue entender lo que me está diciendo.  When:Dec09'16-18:29:44 Why:~control.1.0   F:2 
+Sourcefile Time used 1481304758849 ms for 8 sentences 35 tokens.
+Sourcefile Time used 1481304758849 ms for 8 sentences 35 tokens.
+Sourcefile Time used 1481304758850 ms for 8 sentences 35 tokens.
+Sourcefile Time used 1481304758850 ms for 8 sentences 35 tokens.
+Sourcefile Time used 1481304758850 ms for 8 sentences 35 tokens.

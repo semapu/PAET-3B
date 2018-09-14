@@ -1,0 +1,11 @@
+TOPIC: ~RECIBOS repeat (~recibo)
+
+u: (domiciliar * ~recibo) ^keep()
+Para poder domiciliar el pagamiento de un recibo, deberá de proceder, primeramente, a su pagamiento desde uno de los sigüientes apartados de la operativa Cuentas > Pagamientos i Impuestos
+
+u: (<<~recibo _{~tipo_gasto}>>) ^keep()
+DATABASE C00 '_0
+
+# Mostrar los últimos recibos.
+u: ([ultimo último ultimos últimos] * [recibo recibos])
+DATABASE C00

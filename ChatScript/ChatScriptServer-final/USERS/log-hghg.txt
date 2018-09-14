@@ -1,0 +1,72 @@
+﻿Start: user:hghg bot:dory ip: rand:1693 (~introductions) 0 ==> Bienvenido!  When:Nov29'16-14:04:47 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:39:05 0:Nov29'16-14:04:47 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:hghg bot:dory ip: (~preguntas) 1   hey ==> ¿Tienes alguna pregunta?  When:Nov29'16-14:04:50 Why:~preguntas.1.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~preguntas) 2   sí ==> Adelante, dígame.  When:Nov29'16-14:04:51 Why:~preguntas.1.1  
+Respond: user:hghg bot:dory ip: (~keywordless) 3   hola ==> Hola de nuevo.  When:Nov29'16-14:04:53 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~keywordless) 4   hola ==> ¿Por qué repite usted la palabra "hola"?  When:Nov29'16-14:04:54 Why:~keywordless.3.1  
+Respond: user:hghg bot:dory ip: (~keywordless) 5   hola ==> ¿No cree que ya es suficiente?  When:Nov29'16-14:04:55 Why:~keywordless.3.2  
+Respond: user:hghg bot:dory ip: (~keywordless) 6   hola ==> Hola de nuevo.  When:Nov29'16-14:04:57 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~keywordless) 7   no ==> No entiendo lo que me quiere decir.  When:Nov29'16-14:04:58 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~keywordless) 8   No recuerdo el PIN ==> No consigue entender lo que me está diciendo.  When:Nov29'16-14:10:29 Why:~control.1.0  
+Command: :build dory
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1701 (~introductions) 8 ==> Hola!  When:Nov29'16-14:11:15 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:11:13 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:10:29 Why:~introductions.0.0.~control.0.0 
+Respond: user:hghg bot:dory ip: (~introductions) 9   No recuerdo el PIN ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:11:23 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~introductions) 10   no recuerdo el pin ==> No comprendo lo que ha dicho.  When:Nov29'16-14:11:26 Why:~control.1.0  
+Command: :reseet user
+Respond: user:hghg bot:dory ip: (~introductions) 11   :reseet user ==> No comprendo lo que ha dicho.  When:Nov29'16-14:11:28 Why:~control.1.0  
+Command: :reset user
+Start: user:hghg bot:dory ip: rand:1693 (~introductions) 0 ==> Bienvenido!  When:Nov29'16-14:11:31 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:11:13 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:11:28 Why:~introductions.1.0.~control.0.0 
+Respond: user:hghg bot:dory ip: (~preguntas) 1   no recuerdo el PIN ==> ¿Tienes alguna pregunta?  When:Nov29'16-14:11:34 Why:~preguntas.1.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~preguntas) 2   no ==> De acuerdo, ¿le puedo ayudar en algo?  When:Nov29'16-14:11:36 Why:~preguntas.1.2  
+Respond: user:hghg bot:dory ip: (~preguntas) 3   sí ==> Adelante, dígame.  When:Nov29'16-14:11:39 Why:~preguntas.1.3  
+Respond: user:hghg bot:dory ip: (~tarjeta) 4   no recordar pin ==> Si olvida el PIN de su tarjeta...  When:Nov29'16-14:11:54 Why:~tarjeta.5.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~tarjeta) 5   he olvidar mi pin ==> No comprendo lo que ha dicho.  When:Nov29'16-14:12:07 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~tarjeta) 6   olvidar mi pin ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:12:11 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~tarjeta) 7   olvidar pin ==> No entiendo lo que me quiere decir.  When:Nov29'16-14:12:18 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1700 (~introductions) 7 ==> Hola!  When:Nov29'16-14:12:34 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:12:32 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:12:18 Why:~introductions.0.0.~control.0.0 
+Respond: user:hghg bot:dory ip: (~tarjeta) 8   olvidar mi pin ==> Si olvida el PIN de su tarjeta...  When:Nov29'16-14:12:38 Why:~tarjeta.5.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~tarjeta) 9   ¿A qué oficina debo ir? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:13:01 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1704 (~introductions) 9 ==> No comprendo lo que ha dicho.  When:Nov29'16-14:15:06 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:15:03 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:13:01 Why:~control.1.0 
+Respond: user:hghg bot:dory ip: (~introductions) 10   ¿A qué oficina debo ir? ==> No comprendo lo que ha dicho.  When:Nov29'16-14:15:09 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~introductions) 11     ==> No comprendo lo que ha dicho.  When:Nov29'16-14:15:09 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~introductions) 12   ¿A qué oficina debo ir? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:15:11 Why:~control.1.0  
+Command: :reset user
+Start: user:hghg bot:dory ip: rand:1693 (~introductions) 0 ==> Bienvenido!  When:Nov29'16-14:15:13 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:15:03 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:15:11 Why:~introductions.1.0.~control.0.0 
+Respond: user:hghg bot:dory ip: (~preguntas) 1   ¿A qué oficina debo ir? ==> ¿Tienes alguna pregunta?  When:Nov29'16-14:15:14 Why:~preguntas.1.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~preguntas) 2   ¿a qué oficina deber ir= ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:15:20 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~preguntas) 3   qué oficina deber ir ==> No consigue entender lo que me está diciendo.  When:Nov29'16-14:15:26 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1696 (~introductions) 3 ==> Hola!  When:Nov29'16-14:15:30 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:15:28 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:15:26 Why:~introductions.0.0.~control.0.0 
+Respond: user:hghg bot:dory ip: (~introductions) 4   oficina deber ir ==> No entiendo lo que me quiere decir.  When:Nov29'16-14:15:35 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1699 (~introductions) 4 ==> No comprendo lo que ha dicho.  When:Nov29'16-14:15:49 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:15:47 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:15:35 Why:~control.1.0 
+Respond: user:hghg bot:dory ip: (~introductions) 5   oficina deber ir ==> No comprendo lo que ha dicho.  When:Nov29'16-14:15:51 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1700 (~introductions) 5 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:16:19 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:16:16 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:15:51 Why:~control.1.0 
+Respond: user:hghg bot:dory ip: (~oficina) 6   que oficina deber ir ==> Puede ir a la oficina...  When:Nov29'16-14:16:23 Why:~oficina.2.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~oficina) 7   Dame el número de la oficina más cercana ==> No entiendo lo que me quiere decir.  When:Nov29'16-14:16:31 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1702 (~introductions) 7 ==> No consigue entender lo que me está diciendo.  When:Nov29'16-14:21:00 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:20:57 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:16:31 Why:~control.1.0 
+Respond: user:hghg bot:dory ip: (~introductions) 8   u: (<< domiciliar nómina >>) ==> No consigue entender lo que me está diciendo.  When:Nov29'16-14:30:44 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~introductions) 9   Para domiciliar su nómina.. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:30:47 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1704 (~introductions) 9 ==> No comprendo lo que ha dicho.  When:Nov29'16-14:43:17 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:43:14 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:30:47 Why:~control.1.0 
+Respond: user:hghg bot:dory ip: (~ingresar) 10   cobrar ==> DATABASE C01  When:Nov29'16-14:43:25 Why:~ingresar.2.0.~control.1.0  
+Respond: user:hghg bot:dory ip: (~ingresar) 11   cobrar ya? ==> No comprendo lo que ha dicho.  When:Nov29'16-14:43:36 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~ingresar) 12   cobrar ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov29'16-14:43:38 Why:~control.1.0  
+Respond: user:hghg bot:dory ip: (~ingresar) 13   cobrar ==> No consigue entender lo que me está diciendo.  When:Nov29'16-14:43:40 Why:~control.1.0  
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1708 (~introductions) 13 ==> No entiendo lo que me quiere decir.  When:Nov29'16-14:49:39 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-14:49:36 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:43:40 Why:~control.1.0 
+Command: :build dory
+Command: :build dory
+Command: :build dory
+Command: :build dory
+Command: :build dory
+Command: :build dory
+Command: :build dory
+Command: :build dory
+Start: user:hghg bot:dory ip: rand:1708 (~introductions) 13 ==> No entiendo lo que me quiere decir.  When:Nov29'16-15:11:59 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:11:56 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:43:40 Why:~control.1.0 
+Command: :reset user
+Start: user:hghg bot:dory ip: rand:1693 (~introductions) 0 ==> Bienvenido!  When:Nov29'16-15:12:02 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:11:56 0:Nov29'16-14:04:47 F:0 P:Nov29'16-14:43:40 Why:~introductions.1.0.~control.0.0 

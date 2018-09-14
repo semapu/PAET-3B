@@ -1,0 +1,12 @@
+https://help.ubuntu.com/lts/serverguide/mysql.html
+https://www.linode.com/docs/databases/mysql/install-mysql-on-ubuntu-14-04
+
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install mysql-server
+sudo netstat -tap | grep mysql --> Para saber si el server mysql esta escuchando.
+sudo systemctl restart mysql.service --> arrancar servidor si no esta escuchando.
+
+mysql -u root -p --> sub-terminal de mysql
+mysql> exit --> salir

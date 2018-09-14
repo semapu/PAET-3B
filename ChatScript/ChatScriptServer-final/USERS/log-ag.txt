@@ -1,0 +1,40 @@
+﻿Start: user:ag bot:dory ip: rand:1924 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-12:14:32 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:08:36 0:Dec18'16-12:14:32 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1926 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Dec18'16-12:14:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:14:33 0:Dec18'16-12:14:32 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Respond: user:ag bot:dory ip: (~gastos) 1   cuanto me he gastado en telefono ==> DATABASE C00  When:Dec18'16-12:14:39 Why:~gastos.0.0.~control.1.0   F:2 
+Command: :build dory
+No such bot  ag -  -  status: defaultbot word not found   in topic_ag_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+No such bot  ag -  -  status: defaultbot word not found   in topic_ag_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+Start: user:ag bot:dory ip: rand:1925 (~introductions) 1 ==> Hola!  When:Dec18'16-12:17:03 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:17:02 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:14:39 Why:~introductions.0.0.~control.0.0 
+Respond: user:ag bot:dory ip: (~introductions) 2     ==> No entiendo lo que me quiere decir.  When:Dec18'16-12:17:21 Why:~control.1.0   F:1 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1928 (~introductions) 2 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:17:25 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:17:24 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:17:21 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1928 (~introductions) 2 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:18:42 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:18:40 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:17:21 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1928 (~introductions) 2 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:19:02 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:19:01 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:17:21 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1928 (~introductions) 2 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:19:42 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:19:40 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:17:21 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1928 (~introductions) 2 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:20:06 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:20:04 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:17:21 Why:~control.1.0 
+Respond: user:ag bot:dory ip: (~introductions) 3   [B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B:[B[B[B[B[B[B[B[Bbui ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:20:15 Why:~control.1.0   F:5 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1929 (~introductions) 3 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:20:19 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:20:17 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:20:15 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1929 (~introductions) 3 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:21:11 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:21:09 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:20:15 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1929 (~introductions) 3 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:22:28 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:22:27 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:20:15 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1929 (~introductions) 3 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:22:57 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:22:56 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:20:15 Why:~control.1.0 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1929 (~introductions) 3 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-12:23:40 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:23:39 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:20:15 Why:~control.1.0 
+Respond: user:ag bot:dory ip: (~keywordless) 4   como puedo sacar dinero en otro pais ==> Para sacar dinero en el extranjero...  When:Dec18'16-12:23:50 Why:~keywordless.15.0.~control.1.0   F:2 
+Respond: user:ag bot:dory ip: (~gastos) 5   cuanto me he gastado en telefono ==> DATABASE C00  When:Dec18'16-12:24:00 Why:~gastos.0.0.~control.1.0   F:1 
+Command: :build dory
+Start: user:ag bot:dory ip: rand:1931 (~introductions) 5 ==> No comprendo lo que ha dicho.  When:Dec18'16-12:24:18 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:24:17 0:Dec18'16-12:14:32 F:0 P:Dec18'16-12:24:00 Why:~control.1.0 
+Sourcefile Time used 1482060261710 ms for 4 sentences 130 tokens.
+Sourcefile Time used 1482060261710 ms for 4 sentences 130 tokens.
+Sourcefile Time used 1482060261710 ms for 4 sentences 130 tokens.
+Sourcefile Time used 1482060261710 ms for 4 sentences 130 tokens.

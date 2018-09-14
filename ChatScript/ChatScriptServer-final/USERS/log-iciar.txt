@@ -1,0 +1,25 @@
+﻿Start: user:iciar bot:dory ip: rand:1545 (~introductions) 0 ==> Bienvenido!  When:Dec11'16-12:02:45 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec09'16-18:29:18 0:Dec11'16-12:02:45 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:iciar bot:dory ip: (~keywordless) 1   Hola ==> Hola de nuevo.  When:Dec11'16-12:02:50 Why:~keywordless.3.0.~control.1.0   F:98 
+Respond: user:iciar bot:dory ip: (~preguntas) 2   que tal? ==> ¿Tienes alguna pregunta?  When:Dec11'16-12:02:53 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~preguntas) 3   si ==> Adelante, dígame.  When:Dec11'16-12:02:55 Why:~preguntas.1.1   F:1 
+Respond: user:iciar bot:dory ip: (~gastos) 4   cuanto me he gastado en gasolina? ==> DATABASE C00  When:Dec11'16-12:03:04 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~gastos) 5   cuanto gaste en zara? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-12:03:24 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~gastos) 6   cuanto gaste en zara en febrero? ==> No entiendo lo que me quiere decir.  When:Dec11'16-12:03:36 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~gastos) 7   Factura de la luz ==> No consigue entender lo que me está diciendo.  When:Dec11'16-12:04:39 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~gastos) 8   me puedes enseñar la factura de ==> No entiendo lo que me quiere decir.  When:Dec11'16-12:04:53 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~gastos) 9   [A[B ==> No comprendo lo que ha dicho.  When:Dec11'16-12:04:56 Why:~control.1.0   F:0 
+Respond: user:iciar bot:dory ip: (~gastos) 10   quiero ver mis facturas de enero ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-12:05:06 Why:~control.1.0   F:2 
+Respond: user:iciar bot:dory ip: (~gastos) 11   quiero ver mis facturas ==> No entiendo lo que me quiere decir.  When:Dec11'16-12:05:11 Why:~control.1.0   F:2 
+Respond: user:iciar bot:dory ip: (~sald) 12   quiero ver mi saldo ==> DATABASE C03  When:Dec11'16-12:05:16 Why:~sald.0.0.~control.1.0   F:2 
+Respond: user:iciar bot:dory ip: (~sald) 13   quiero ver cuanto tengo en la cuenta ==> No comprendo lo que ha dicho.  When:Dec11'16-12:05:30 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~sald) 14   cuanto tengo en la cuenta? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-12:05:34 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~sald) 15   cuanto dinero tengo en la cuenta? ==> DATABASE C03  When:Dec11'16-12:05:48 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~sald) 16   cuanto dinero gaste en zara? ==> DATABASE C03  When:Dec11'16-12:06:19 Why:~sald.0.0.~control.1.0   F:1 
+Start: user:iciar bot:dory ip: rand:1561 (~introductions) 16 ==> Hola!  When:Dec11'16-12:06:57 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec09'16-18:29:18 0:Dec11'16-12:02:45 F:1481454348-7.0.0.8.1.0 P:Dec11'16-12:06:19 Why:~introductions.0.0.~control.0.0 
+Respond: user:iciar bot:dory ip: (~keywordless) 17   hola? ==> Hola de nuevo.  When:Dec11'16-12:07:01 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~keywordless) 18   cuanto me queda en la cuenta? ==> No comprendo lo que ha dicho.  When:Dec11'16-12:07:07 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~keywordless) 19   soy pobre? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-12:07:23 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~keywordless) 20   tengo 100 euros? ==> No comprendo lo que ha dicho.  When:Dec11'16-12:07:36 Why:~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~recibos) 21   quiero ver los recibos de la luz ==> DATABASE C00  When:Dec11'16-12:08:32 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~recibos) 22   quiero ver el recibo ==> DATABASE C00  When:Dec11'16-12:08:40 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:iciar bot:dory ip: (~recibos) 23   como puedo hacer una transferencia? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-12:09:38 Why:~control.1.0   F:1 

@@ -1,0 +1,11 @@
+﻿Start: user:paugg bot:dory ip: rand:1442 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-17:37:22 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:35:40 0:Nov25'16-17:37:22 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:paugg bot:dory ip: (~preguntas) 1   No recuerdo el PIN ==> ¿Tienes alguna pregunta?  When:Nov25'16-17:37:29 Why:~preguntas.1.0.~control.1.0  
+Respond: user:paugg bot:dory ip: (~preguntas) 2   No recuerdo el PIN ==> De acuerdo, ¿le puedo ayudar en algo?  When:Nov25'16-17:37:30 Why:~preguntas.1.2  
+Respond: user:paugg bot:dory ip: (~preguntas) 3   No recuerdo el PIN ==> De acuerdo, me quedo esperando por si más tarde le puedo ayudar.  When:Nov25'16-17:37:31 Why:~preguntas.1.4  
+Respond: user:paugg bot:dory ip: (~preguntas) 4   No recuerdo el PIN ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-17:37:31 Why:~control.1.0  
+Respond: user:paugg bot:dory ip: (~preguntas) 5   No recuerdo el PIN ==> No comprendo lo que ha dicho.  When:Nov25'16-17:37:31 Why:~control.1.0  
+Respond: user:paugg bot:dory ip: (~preguntas) 6   No recuerdo el PIN ==> No comprendo lo que ha dicho.  When:Nov25'16-17:37:32 Why:~control.1.0  
+Command: :build dory
+Start: user:paugg bot:dory ip: rand:1448 (~introductions) 6 ==> Hola!  When:Nov25'16-17:39:07 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-17:39:05 0:Nov25'16-17:37:22 F:0 P:Nov25'16-17:37:32 Why:~introductions.0.0.~control.0.0 
+Respond: user:paugg bot:dory ip: (~tarjeta) 7   he olvidar mi pin ==> Si olvida el PIN de su tarjeta...  When:Nov25'16-17:39:09 Why:~tarjeta.5.0.~control.1.0  
+Respond: user:paugg bot:dory ip: (~tarjeta) 8   ¿A qué oficina debo ir? ==> No consigue entender lo que me está diciendo.  When:Nov25'16-17:39:16 Why:~control.1.0  

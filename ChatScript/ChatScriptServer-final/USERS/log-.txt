@@ -1,0 +1,26 @@
+﻿
+No such bot  :build dory -  -  status: DORY   in topic__build dory.txt at 1: ^build dory
+    Respond: user: bot:dory ip: (~preguntas) 1   isdjf ==> ¿Tienes alguna pregunta?  When:Dec03'16-13:30:15 Why:~preguntas.1.0.~control.1.0   F:1 
+Command: :build dory
+Start: user: bot:dory ip: rand:1 (~introductions) 1 ==> Hola!  When:Dec03'16-13:30:23 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec03'16-13:30:21 0:Dec03'16-13:30:15 F:0 P:Dec03'16-13:30:15 Why:~introductions.0.0.~control.0.0 
+Respond: user: bot:dory ip: (~keywordless) 2   hola ==> Hola de nuevo.  When:Dec03'16-13:30:34 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user: bot:dory ip: (~keywordless) 3   que tal? ==> No comprendo lo que ha dicho.  When:Dec03'16-13:30:44 Why:~control.1.0   F:1 
+Respond: user: bot:dory ip: (~keywordless) 4   como está mi saldo? ==> No consigue entender lo que me está diciendo.  When:Dec03'16-13:31:08 Why:~control.1.0   F:1 
+Respond: user: bot:dory ip: (~keywordless) 5   mi saldo es negativo? ==> No entiendo lo que me quiere decir.  When:Dec03'16-13:31:21 Why:~control.1.0   F:1 
+Respond: user: bot:dory ip: (~ingresar) 6   me han ingresado una transferencia en mi cuenta? ==> DATABASE C01 transferencia  When:Dec03'16-13:31:42 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user: bot:dory ip: (~ingresar) 7   puedo tener una entrevista con el director de mi oficina? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec03'16-13:32:20 Why:~control.1.0   F:2 
+Respond: user: bot:dory ip: (~ingresar) 8   una reunión con el director? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec03'16-13:32:54 Why:~control.1.0   F:1 
+Respond: user: bot:dory ip: (~ingresar) 9   puedo aumentar el saldo de mi visa? ==> No comprendo lo que ha dicho.  When:Dec03'16-13:33:32 Why:~control.1.0   F:1 
+Respond: user: bot:dory ip: (~ingresar) 10   mi visa!!!!! ==> No entiendo lo que me quiere decir.  When:Dec03'16-13:33:41 Why:~control.1.0   F:1 
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.
+Sourcefile Time used 1480776299816 ms for 10 sentences 52 tokens.

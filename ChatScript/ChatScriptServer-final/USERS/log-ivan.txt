@@ -1,0 +1,26 @@
+﻿Start: user:ivan bot:dory ip: rand:2631 (~introductions) 0 ==> Bienvenido!  When:Dec02'16-17:59:50 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec02'16-17:33:38 0:Dec02'16-17:59:50 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:ivan bot:dory ip: (~keywordless) 1   hola ==> Hola de nuevo.  When:Dec02'16-17:59:52 Why:~keywordless.3.0.~control.1.0   F:0 
+Command: :build dory
+Start: user:ivan bot:dory ip: rand:2632 (~introductions) 1 ==> Hola!  When:Dec02'16-18:00:08 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec02'16-18:00:07 0:Dec02'16-17:59:50 F:0 P:Dec02'16-17:59:52 Why:~introductions.0.0.~control.0.0 
+Respond: user:ivan bot:dory ip: (~keywordless) 2   hola ==> Hola de nuevo.  When:Dec02'16-18:00:11 Why:~keywordless.3.0.~control.1.0   F:0 
+Respond: user:ivan bot:dory ip: (~gastos) 3   Cuanto he gastado en Telefonica el ultimo mes? ==> DATABASE C00  When:Dec02'16-18:00:28 Why:~gastos.0.0.~control.1.0   F:1 
+Sourcefile Time used 1480698098449 ms for 3 sentences 11 tokens.
+Sourcefile Time used 1480698098449 ms for 3 sentences 11 tokens.
+Sourcefile Time used 1480698098449 ms for 3 sentences 11 tokens.
+Sourcefile Time used 1480698098449 ms for 3 sentences 11 tokens.
+Sourcefile Time used 1480698098449 ms for 3 sentences 11 tokens.
+Sourcefile Time used 1480698098449 ms for 3 sentences 11 tokens.
+Sourcefile Time used 1480698098450 ms for 3 sentences 11 tokens.
+Start: user:ivan bot:dory ip: rand:2636 (~preguntas) 3 ==> ¿Tienes alguna pregunta?  When:Dec16'16-16:43:58 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec14'16-13:56:32 0:Dec02'16-17:59:50 F:0 P:Dec02'16-18:00:28 Why:~preguntas.1.0.~control.1.0 
+Respond: user:ivan bot:dory ip: (~preguntas) 4   _build dory ==> No entiendo lo que me quiere decir.  When:Dec16'16-16:44:02 Why:~control.1.0   F:272 
+Command: :build dory
+Start: user:ivan bot:dory ip: rand:2637 (~introductions) 4 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec16'16-16:44:10 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-16:44:07 0:Dec02'16-17:59:50 F:0 P:Dec16'16-16:44:02 Why:~control.1.0 
+Respond: user:ivan bot:dory ip: (~keywordless) 5   Hola ==> Hola de nuevo.  When:Dec16'16-16:44:12 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:ivan bot:dory ip: (~keywordless) 6   Qué tal? ==> No comprendo lo que ha dicho.  When:Dec16'16-16:44:16 Why:~control.1.0   F:84 
+Respond: user:ivan bot:dory ip: (~gastos) 7   Cuanto he gastado el último mes? ==> DATABASE C00  When:Dec16'16-16:44:24 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:ivan bot:dory ip: (~sald) 8   Donde puedo ver mi saldo? ==> DATABASE C03  When:Dec16'16-16:44:35 Why:~sald.0.0.~control.1.0   F:3 
+Respond: user:ivan bot:dory ip: (~sald) 9   Cual es mi saldo? ==> DATABASE C03  When:Dec16'16-16:44:39 Why:~sald.0.0.~control.1.0   F:836 
+Respond: user:ivan bot:dory ip: (~sald) 10   Mi saldo ==> No consigue entender lo que me está diciendo.  When:Dec16'16-16:44:43 Why:~control.1.0   F:2 
+Respond: user:ivan bot:dory ip: (~sald) 11   ¿Cuanto he gastado en Endesa el último mes' ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec16'16-16:45:00 Why:~control.1.0   F:35 
+Respond: user:ivan bot:dory ip: (~sald) 12   ¿Cuanto he gastado en endesa? ==> No comprendo lo que ha dicho.  When:Dec16'16-16:45:09 Why:~control.1.0   F:2 
+Respond: user:ivan bot:dory ip: (~sald) 13   cuanto he gastado en endesa? ==> No consigue entender lo que me está diciendo.  When:Dec16'16-16:45:16 Why:~control.1.0   F:2 

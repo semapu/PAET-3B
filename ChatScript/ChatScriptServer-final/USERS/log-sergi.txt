@@ -1,0 +1,141 @@
+﻿Start: user:sergi bot:dory ip: rand:57 (~introductions) 0 ==> Bienvenido!  When:Dec11'16-15:09:27 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec09'16-18:29:18 0:Dec11'16-15:09:27 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+Start: user:sergi bot:dory ip: rand:59 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Dec11'16-15:10:04 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:10:02 0:Dec11'16-15:09:27 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Respond: user:sergi bot:dory ip: (~gastos) 1   Dime mis gastos en transporte ==> DATABASE C00  When:Dec11'16-15:12:43 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~gastos) 2   Muéstrame mis gastos en transporte junio. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:12:51 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~gastos) 3   Muéstrame mis gastos en transporte desde junio ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:13:04 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~gastos) 4   Muéstrame mis gastos en transporte en junio ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:13:26 Why:~control.1.0   F:2 
+Start: user:sergi bot:dory ip: rand:61 (~introductions) 4 ==> Hola!  When:Dec11'16-15:15:36 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:10:02 0:Dec11'16-15:09:27 F:0 P:Dec11'16-15:13:26 Why:~introductions.0.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~introductions) 5   sergi: > Muéstrame mis gastos en transporte junio. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:15:58 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~introductions) 6   Dory:  ¿Puede repetir lo que ha dicho con otras palabras? ==> No comprendo lo que ha dicho.  When:Dec11'16-15:16:07 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~introductions) 7   sergi: > Muéstrame mis gastos en transporte desde junio        ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:16:07 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 8   Dory:  No entiendo lo que me quiere decir. ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:16:07 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~introductions) 9   sergi: > Muéstrame mis gastos en transporte en junio ==> No comprendo lo que ha dicho.  When:Dec11'16-15:16:07 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~introductions) 10   Dory:  No consigue entender lo que me est� diciendo.sergi: > Muéstrame mis gastos en transporte junio. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:16:07 Why:~control.1.0   F:2 
+Start: user:sergi bot:dory ip: rand:69 (~introductions) 10 ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:16:40 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:10:02 0:Dec11'16-15:09:27 F:0 P:Dec11'16-15:16:07 Why:~control.1.0 
+Command: :build dory
+Start: user:sergi bot:dory ip: rand:69 (~introductions) 10 ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:16:48 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:16:47 0:Dec11'16-15:09:27 F:0 P:Dec11'16-15:16:07 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 11   Gastos de gasoil de este mayo. ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:17:10 Why:~control.1.0   F:42 
+Respond: user:sergi bot:dory ip: (~introductions) 12   ¿Cuánto he gastado en transporte público? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:17:19 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~keywordless) 13   hola ==> Hola de nuevo.  When:Dec11'16-15:17:22 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 14   Dime mis gastos en transporte ==> No comprendo lo que ha dicho.  When:Dec11'16-15:17:33 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~keywordless) 15   exit ==> No comprendo lo que ha dicho.  When:Dec11'16-15:17:42 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 16   Dime mis gastos en transporte ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:18:02 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 17   endesa ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:18:06 Why:~control.1.0   F:1 
+Start: user:sergi bot:dory ip: rand:76 (~introductions) 17 ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:19:02 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:16:47 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:18:06 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 18   Dime mis gastos en transporte ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:19:51 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~introductions) 19     ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:19:51 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 20     ==> No comprendo lo que ha dicho.  When:Dec11'16-15:19:52 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 21     ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:19:53 Why:~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~introductions) 22     ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:19:53 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 23   cuanto he gastado en endesa ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:20:00 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 24     ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:20:01 Why:~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~keywordless) 25   hola ==> Hola de nuevo.  When:Dec11'16-15:20:02 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 26   como activar mis tarjetas? ==> No comprendo lo que ha dicho.  When:Dec11'16-15:20:08 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 27     ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:20:09 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 28     ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:20:09 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 29     ==> No comprendo lo que ha dicho.  When:Dec11'16-15:20:09 Why:~control.1.0   F:1 
+Start: user:sergi bot:dory ip: rand:86 (~introductions) 29 ==> Hola!  When:Dec11'16-15:21:48 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:16:47 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:20:09 Why:~introductions.0.0.~control.0.0 
+Command: :build dory
+Start: user:sergi bot:dory ip: rand:86 (~introductions) 29 ==> Bienvenido!  When:Dec11'16-15:22:02 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:22:00 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:20:09 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+Start: user:sergi bot:dory ip: rand:88 (~introductions) 29 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:22:10 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:22:08 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:20:09 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 30   Dime mis gastos en transporte ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:22:18 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~introductions) 31   ayuda ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:22:25 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 32   endesa ==> No comprendo lo que ha dicho.  When:Dec11'16-15:22:30 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 33   movistar ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:22:35 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 34   apple ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:22:37 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 35   Dime mis gastos en transporte ==> No comprendo lo que ha dicho.  When:Dec11'16-15:23:07 Why:~control.1.0   F:1 
+Start: user:sergi bot:dory ip: rand:94 (~introductions) 35 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:23:17 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:22:08 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:23:07 Why:~control.1.0 
+Start: user:sergi bot:dory ip: rand:94 (~introductions) 35 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:23:51 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:22:08 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:23:07 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 36   Dime mis gastos en transporte ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:24:03 Why:~control.1.0   F:2 
+Start: user:sergi bot:dory ip: rand:95 (~introductions) 36 ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:31:07 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:22:08 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:24:03 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~keywordless) 37   hola ==> Hola de nuevo.  When:Dec11'16-15:31:10 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~keywordless) 38   Dime mis gastos en transporte ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:31:15 Why:~control.1.0   F:2 
+Command: :build dory
+Start: user:sergi bot:dory ip: rand:97 (~introductions) 38 ==> No comprendo lo que ha dicho.  When:Dec11'16-15:31:25 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:31:23 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:31:15 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 39   Dime mis gastos en transporte ==> No comprendo lo que ha dicho.  When:Dec11'16-15:31:28 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~introductions) 40   tarjeta ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:31:33 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 41   Dime cuanto he ingresado ==> DATABASE C01  When:Dec11'16-15:32:02 Why:~ingresar.0.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 42   Dime mis gastos en transporte ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:32:10 Why:~control.1.0   F:2 
+Start: user:sergi bot:dory ip: rand:101 (~introductions) 42 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:32:59 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:31:23 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:32:10 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 43   Quiero ver un gráfico. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:33:12 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 44   Mostrar sólo los ingresos de mi cuenta. ==> DATABASE C01  When:Dec11'16-15:33:19 Why:~ingresar.0.0.~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 45   Gastos de gasoil de este mayo. ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:33:37 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 46   ¿Cuánto he gastado en transporte público? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:33:49 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 47   ¿Cuánto he pagado en iTunes este mes? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:34:29 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 48   Mostrar sólo los ingresos de mi cuenta ==> DATABASE C01  When:Dec11'16-15:34:38 Why:~ingresar.0.0.~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 49   Han cobrado este trimestre la suscripción de Netflix? ==> DATABASE C01  When:Dec11'16-15:34:46 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 50   Dime mis gastos en transporte ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:36:31 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~sald) 51   ¿Cuánto dinero he gastado en el super? ==> DATABASE C03  When:Dec11'16-15:36:42 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~sald) 52   Dime mis gastos en transporte ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:38:18 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 53   ¿He recibido el ingreso? ==> DATABASE C01  When:Dec11'16-15:38:29 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 54   ¿Me han ingresado dinero? ==> DATABASE C01  When:Dec11'16-15:38:45 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 55   Dime mis gastos en transporte ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:39:22 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 56   Dime mis gastos en transporte ==> No comprendo lo que ha dicho.  When:Dec11'16-15:39:24 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 57   Muéstrame mis gastos en transporte junio. ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:39:50 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 58   ¿Cuánto he gastado en transporte público? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:40:12 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 59   ¿Cuánto he gastado en Supermercado? ==> No comprendo lo que ha dicho.  When:Dec11'16-15:41:08 Why:~control.1.0   F:1 
+Start: user:sergi bot:dory ip: rand:116 (~introductions) 59 ==> Hola!  When:Dec11'16-15:41:44 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:31:23 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:41:08 Why:~introductions.0.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~introductions) 60   Dime mis gastos en transporte ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:41:53 Why:~control.1.0   F:2 
+Command: :build dory
+Start: user:sergi bot:dory ip: rand:117 (~introductions) 60 ==> Bienvenido!  When:Dec11'16-15:41:59 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:41:58 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:41:53 Why:~introductions.1.0.~control.0.0 
+Respond: user:sergi bot:dory ip: (~introductions) 61   Dime mis gastos en transporte ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:42:01 Why:~control.1.0   F:1 
+Command: :build dory
+Start: user:sergi bot:dory ip: rand:120 (~introductions) 61 ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:42:13 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec11'16-15:42:12 0:Dec11'16-15:09:27 F:1481465862-8.1.0 P:Dec11'16-15:42:01 Why:~control.1.0 
+Respond: user:sergi bot:dory ip: (~introductions) 62   Dime mis gastos en transporte ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:42:17 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 63   Mostrar todos los ingresos de efectivo ==> DATABASE C01 efectivo  When:Dec11'16-15:42:44 Why:~ingresar.0.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 64   Tengo más ingresos que gastos? � ==> DATABASE C01  When:Dec11'16-15:43:17 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 65   Puedo verlo en un gráfico? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:43:23 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 66   Quiero ver un gráfico. ==> No comprendo lo que ha dicho.  When:Dec11'16-15:43:34 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 67   Mostrar sólo los ingresos de mi cuenta. ==> DATABASE C01  When:Dec11'16-15:44:11 Why:~ingresar.0.0.~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 68   ¿Cuánto he ingresado? ==> DATABASE C01  When:Dec11'16-15:44:20 Why:~ingresar.0.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 69   ¿Me han ingresado dinero? ==> DATABASE C01  When:Dec11'16-15:44:25 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 70   Ver mis gastos en revistas y prensa. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:44:35 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 71   Dime cuanto he ingresado ==> DATABASE C01  When:Dec11'16-15:44:42 Why:~ingresar.0.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 72   Mostrar todos lo gastos de Cuotas y Suscripciones ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:44:49 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 73   ¿Cuánto he gastado en ropa? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:44:58 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 74   ¿Cuánto he gastado en banco? ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:45:14 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 75   ¿Cuánto he gastado en transferencias? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:45:18 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 76   ¿Cuánto he gastado en agua? ==> No comprendo lo que ha dicho.  When:Dec11'16-15:45:23 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 77   ¿Cuánto he gastado en alimentación? ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:45:27 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 78   ¿Cuánto he gastado en medicamentos? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:45:32 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 79   ¿Comparame cuánto he gastado en restaurantes? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:46:09 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 80   ¿Muéstrame cuánto he gastado este mes? ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:46:15 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 81   ¿Cuánto he gastado en agosto? ==> No comprendo lo que ha dicho.  When:Dec11'16-15:46:20 Why:~control.1.0   F:67 
+Respond: user:sergi bot:dory ip: (~ingresar) 82   ¿Cuánto he gastado en teléfono? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:46:50 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 83   ¿Cuánto he gastado en móvil? ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:46:55 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 84   ¿Cuánto me queda por gastar?  ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:47:01 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 85   ¿Cuánto he pagado en iTunes este mes? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:47:27 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 86   ¿He pagado mi cuenta de Spotify? ==> No comprendo lo que ha dicho.  When:Dec11'16-15:47:33 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 87   ¿He cobrado la nómina? ==> DATABASE C01 nómina  When:Dec11'16-15:47:45 Why:~ingresar.1.0.~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~ingresar) 88   Ver la nómina de mayo. ==> No comprendo lo que ha dicho.  When:Dec11'16-15:47:58 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 89   ¿Ya he cobrado? ==> DATABASE C01  When:Dec11'16-15:48:15 Why:~ingresar.1.0.~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~ingresar) 90   ¿Me ha llegado la nómina? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:48:26 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 91   ¿Calculame lo que he cobrado en nómina este año? ==> DATABASE C01 nómina  When:Dec11'16-15:48:41 Why:~ingresar.0.0.~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 92   Cobros del trimestre. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:48:55 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 93   ¿Cuánto gasté en diciembre? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:49:14 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 94   ¿Cuánto he gastado en teléfono? ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:49:32 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~compararj) 95   Comparame gastos en general ==> DATABASE C04  When:Dec11'16-15:49:43 Why:~compararj.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~compararj) 96   Comparame gastos de este mes ==> DATABASE C04  When:Dec11'16-15:49:57 Why:~compararj.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~compararj) 97   Comparame gastos de prensa ==> DATABASE C04  When:Dec11'16-15:50:15 Why:~compararj.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~ingresar) 98   Ingresos realizados en es último mes. ==> DATABASE C01  When:Dec11'16-15:50:29 Why:~ingresar.1.0.~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 99   En que actividad he gastado más este més? ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:50:43 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~ingresar) 100   Quiero añadir un módulo a mis finanzas. ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:50:53 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~recibos) 101   Quiero cambiar el número de cuenta en el que tengo domiciliados los recibos. ==> DATABASE C00  When:Dec11'16-15:51:24 Why:~recibos.1.0.~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~recibos) 102   ¿Cómo puedo conseguir un descuento en una domiciliación? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:52:01 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~recibos) 103   Quiero el recibo de Telefónica del último mes. ==> DATABASE C00  When:Dec11'16-15:52:08 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~sald) 104   Consultar saldo ==> DATABASE C03  When:Dec11'16-15:52:46 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~sald) 105   Ver saldo actual ==> DATABASE C03  When:Dec11'16-15:52:56 Why:~sald.0.0.~control.1.0   F:0 
+Respond: user:sergi bot:dory ip: (~sald) 106   ¿Cómo puedo conocer mi saldo? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:53:06 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~sald) 107   Consultas y modificaciones ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:53:56 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~sald) 108   Quiero hacer una transferencia nueva copiando los datos de transferencias anteriores ==> No consigue entender lo que me está diciendo.  When:Dec11'16-15:54:03 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~sald) 109   ¿Puedo retirar dinero de un cajero con código? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:54:17 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~sald) 110   Tengo problemas para gestionar mis movimientos. ==> No comprendo lo que ha dicho.  When:Dec11'16-15:54:53 Why:~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~sald) 111   ¿Tengo tarjeta de crédito? ==> No comprendo lo que ha dicho.  When:Dec11'16-15:55:30 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~sald) 112   ¿Qué tarjeta puedo tener? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:55:34 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~tarjeta) 113   ¿Que debo hacer si he perdido la tarjeta? ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec11'16-15:55:43 Why:~tarjeta.1.0.~control.1.0   F:2 
+Respond: user:sergi bot:dory ip: (~tarjeta) 114   ¿Cómo pido un nuevo PIN? ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:55:55 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~tarjeta) 115   ¿Tengo una hipoteca en curso? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec11'16-15:56:22 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~tarjeta) 116   hipoteca ==> No comprendo lo que ha dicho.  When:Dec11'16-15:56:32 Why:~control.1.0   F:1 
+Respond: user:sergi bot:dory ip: (~tarjeta) 117   ¿Cómo me descargo la app? ==> No entiendo lo que me quiere decir.  When:Dec11'16-15:56:44 Why:~control.1.0   F:1 

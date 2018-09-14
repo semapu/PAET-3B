@@ -1,0 +1,33 @@
+﻿Start: user:gerard bot:dory ip: rand:1103 (~introductions) 0 ==> Bienvenido!  When:Dec03'16-11:11:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec02'16-18:00:07 0:Dec03'16-11:11:56 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+No such bot  gerard -  -  status: defaultbot word not found   in topic_gerard_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+No such bot  gerard -  -  status: defaultbot word not found   in topic_gerard_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+No such bot  gerard -  -  status: defaultbot word not found   in topic_gerard_anonymous.txt at 0: ^anonymous
+    
+No such bot  gerard -  -  status: defaultbot word not found   in topic_gerard_anonymous.txt at 1: ^anonymous
+    Command: :build dory
+No such bot  gerard -  -  status: defaultbot word not found   in topic_gerard_anonymous.txt at 0: ^anonymous
+    Command: :build dory
+Start: user:gerard bot:dory ip: rand:1105 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Dec03'16-11:18:58 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec03'16-11:18:57 0:Dec03'16-11:11:56 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Respond: user:gerard bot:dory ip: (~sald) 1   quanto me queda de saldo ==> DATABASE C03  When:Dec03'16-11:19:08 Why:~sald.1.0.~control.1.0   F:0 
+Respond: user:gerard bot:dory ip: (~sald) 2   muestrame quanto saldo tengo ==> DATABASE C03  When:Dec03'16-11:19:17 Why:~sald.0.0.~control.1.0   F:0 
+Respond: user:gerard bot:dory ip: (~sald) 3   que saldo me queda ==> DATABASE C03  When:Dec03'16-11:19:20 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~sald) 4   saldo ==> No comprendo lo que ha dicho.  When:Dec03'16-11:19:24 Why:~control.1.0   F:0 
+Respond: user:gerard bot:dory ip: (~sald) 5   ensenyame el saldo ==> No consigue entender lo que me está diciendo.  When:Dec03'16-11:19:30 Why:~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~sald) 6   enseñame el salod ==> No entiendo lo que me quiere decir.  When:Dec03'16-11:19:37 Why:~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~sald) 7   enseñame el saldo ==> DATABASE C03  When:Dec03'16-11:19:42 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~sald) 8   quiero ver el saldo ==> DATABASE C03  When:Dec03'16-11:19:54 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~sald) 9   como voy de saldo ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec03'16-11:20:02 Why:~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~recibos) 10   quiero domiciliar un recibo ==> Per poder domiciliar el pagament d'un rebut, haurà de procedir, primer de tot, al seu pagament des d'un dels següents apartats de l'operativa Comptes > Pagaments i impostos  When:Dec03'16-11:20:17 Why:~recibos.0.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~recibos) 11   recibo ==> Puede especificar que tipo de recibo desea ver?  When:Dec03'16-11:23:44 Why:~recibos.1.0.~control.1.0   F:0 
+Respond: user:gerard bot:dory ip: (~recibos) 12   recibo movistar ==> Puede especificar que tipo de recibo desea ver?  When:Dec03'16-11:23:50 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~recibos) 13   ensenyame el ultimo recibo del mes ==> Puede especificar que tipo de recibo desea ver?  When:Dec03'16-11:41:40 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~recibos) 14   domiciliar recibo ==> Per poder domiciliar el pagament d'un rebut, haurà de procedir, primer de tot, al seu pagament des d'un dels següents apartats de l'operativa Comptes > Pagaments i impostos  When:Dec03'16-11:42:00 Why:~recibos.0.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~recibos) 15   ultimo recibo del mes ==> Puede especificar que tipo de recibo desea ver?  When:Dec03'16-11:42:08 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~tarjeta) 16   quiero personalizar mi tarjeta ==> Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight  When:Dec03'16-11:42:48 Why:~tarjeta.2.0.~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~tarjeta) 17   me olvide el pin ==> No comprendo lo que ha dicho.  When:Dec03'16-11:42:56 Why:~control.1.0   F:1 
+Respond: user:gerard bot:dory ip: (~tarjeta) 18   se me ha olvidado el pin ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec03'16-11:43:16 Why:~control.1.0   F:1 
+Start: user:gerard bot:dory ip: rand:1121 (~introductions) 18 ==> Hola!  When:Dec19'16-19:19:24 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-18:23:45 0:Dec03'16-11:11:56 F:1480761728-14.1.0.8.1.0 P:Dec03'16-11:43:16 Why:~introductions.0.0.~control.0.0 
+Respond: user:gerard bot:dory ip: (~introductions) 19   exit ==> No consigue entender lo que me está diciendo.  When:Dec19'16-19:19:28 Why:~control.1.0   F:2 

@@ -1,0 +1,40 @@
+USERS/topic__dory.txt
+jul2116 Dec03'16-13:30:15 Dec03'16-13:33:41 0 |
+2 10 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~introductions ~keywordless ~ingresar #pending
+~preguntas + 1 s-YXb ea 1 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=: >
+$cs_control_main=~control
+$cs_token=512
+$cs_bot=Dory
+$cs_randindex=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ isdjf
+ hola
+ que tal?
+ como está mi saldo?
+ mi saldo es negativo?
+ me han ingresado una transferencia en mi cuenta?
+ puedo tener una entrevista con el director de mi oficina?
+ una reunión con el director?
+ puedo aumentar el saldo de mi visa?
+ mi visa!!!!!
+#`end user
+ ¿Tienes alguna pregunta?
+ Hola!
+ Hola de nuevo.
+ No comprendo lo que ha dicho.
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+ DATABASE C01 transferencia
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ No entiendo lo que me quiere decir.
+#`end chatbot

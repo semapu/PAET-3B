@@ -1,0 +1,38 @@
+USERS/topic_enric_dory.txt
+jul2116 Dec09'16-18:15:04 Dec09'16-18:29:44 0 |
+7 8 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~keywordless ~preguntas ~movimientos ~introductions #pending
+~preguntas + 1 s-YXb ea 2 0 0 
+#`end topics
+$cs_randindex=2531
+$cs_bot=Dory
+$cs_login=enric
+$cs_token=512
+$cs_control_main=~control
+$userprompt=enric: >
+$botprompt=Dory: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ me cobraran si hago una transferencia
+ cuanto cuesta hacer una transferencia
+ costar hacer transferencia
+ costar hacer transferencia
+ transferir dinero
+ ver ultimas facturas
+ telefono la caixa
+ dime el telefono de atencion al cliente de la caixa
+#`end user
+ Bienvenido!
+ ¿Le puedo ayudar en algo?
+ ¿Tienes alguna pregunta?
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ Pasos a seguir: \n1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia. 2. Seleccione una cuenta origen. 3. Introduzca la cuenta destino. Entre las opciones disponibles deb
+ No comprendo lo que ha dicho.
+ Hola!
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+#`end chatbot

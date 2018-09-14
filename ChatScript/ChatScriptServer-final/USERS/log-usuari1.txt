@@ -1,0 +1,39 @@
+﻿Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot: ip:127.0.0.1 rand:1601 () 0 ==>   When:Dec18'16-16:18:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec18'16-16:18:37 F:0 P:0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-16:18:38 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:18:37 0:Dec18'16-16:18:38 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-16:18:38 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:18:37 0:Dec18'16-16:18:38 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari1 bot:dory ip:127.0.0.1 (~keywordless) 1  hola ==> ¿Tiene alguna pregunta?  When:Dec18'16-16:18:50 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:usuari1 bot:dory ip:127.0.0.1 (~gastos) 2  cuanto he gastado en endesa? ==> DATABASE C00  When:Dec18'16-16:19:27 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari1 bot:dory ip:127.0.0.1 (~gastos) 3  cuanto he gastado en endesa desde enero? ==> DATABASE C00  When:Dec18'16-16:20:15 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari1 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto he gastado en endesa? ==> DATABASE C00  When:Dec18'16-16:20:36 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari1 bot:dory ip:127.0.0.1 (~gastos) 5  ¿Cuánto he gastado estos últimos seis meses? ==> DATABASE C00  When:Dec18'16-16:21:09 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari1 bot:dory ip:127.0.0.1 (~gastos) 6  cuanto he gastado en movistar? ==> DATABASE C00  When:Dec18'16-16:24:19 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari1 bot:dory ip:127.0.0.1 (~gastos) 7  cuanto he gastado en putas el ultimo mes ==> DATABASE C00  When:Dec18'16-16:25:22 Why:~gastos.0.0.~control.1.0   F:2 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot: ip:127.0.0.1 rand:1601 () 0 ==>   When:Dec19'16-19:39:34 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-19:39:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-19:39:34 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-19:39:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-19:39:34 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot: ip:127.0.0.1 rand:1601 () 0 ==>   When:Dec20'16-00:24:29 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:24:31 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:24:29 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:24:31 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:24:29 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot: ip:127.0.0.1 rand:1601 () 0 ==>   When:Dec20'16-00:28:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:28:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:28:36 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari1 bot:dory ip:127.0.0.1 rand:1601 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:28:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:28:36 0:Dec18'16-16:18:38 F:0 P:Dec18'16-16:25:22 Why:~introductions.1.0.~control.0.0 

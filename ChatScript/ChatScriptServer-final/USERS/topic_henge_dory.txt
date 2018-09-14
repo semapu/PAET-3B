@@ -1,0 +1,79 @@
+USERS/topic_henge_dory.txt
+jul2116 Dec02'16-17:33:33 Dec02'16-17:52:59 1480696871-8.1.0 |
+1 28 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~preguntas ~tarjeta ~sald ~prestamos #pending
+~prestamos + 1 FRz=3 ka m 0 0 
+~preguntas + 1 s-YXb ea 0 0 0 
+#`end topics
+$cs_randindex=1654
+$cs_bot=Dory
+$cs_login=henge
+$cs_token=512
+$cs_control_main=~control
+$userprompt=henge: >
+$botprompt=Dory: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ sip
+ cual es la tasa de interes de las cuentas de ahorros?
+ que coste tiene el uso de la linea abierta
+ como bloqueo una tarjeta
+ quiero bloquear la tarjeta
+ como puedo bloquear la tarjeta?
+ me han robado la tarjeta
+ me robaron la tarjeta
+ quiero personalizar la tarjeta
+ como personalizo la tarjeta
+ aun no he recibido la tarjeta
+ quando recibire la tarjeta
+ quiero activar la tarjeta
+ como puedo activar mi tarjeta
+ no recuerdo mi pon
+ no recuerdo mi pin
+ quiero ver mi saldo
+ mostrar saldo que hay en la cuenta
+ cuanto me queda en el saldo
+ condiciones del prestamo
+ cuales son las condiciones de mi prestamo
+ como puedo pedir un prestamo
+ quiero pedir un prestamo
+ pedir un prestamo
+ pedir prestamo
+ como pedir prestamo
+ como puedp pedir un prestamo
+ como puedo pedir un prestamo
+#`end user
+ Bienvenido!
+ ¿Tienes alguna pregunta?
+ No entiendo lo que me quiere decir.
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.
+ Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.
+ Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.
+ Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de 
+ No comprendo lo que ha dicho.
+ Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight
+ No comprendo lo que ha dicho.
+ Recibirás la tarjeta por correo ordinario una vez finalizado el proceso de alta. El correo ordinario puede tardar hasta dos semanas.
+ No consigue entender lo que me está diciendo.
+ Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas? \n1. Busca un cajero Caixabank \n2. Introduce la tarjeta y elige tu PIN \n3. Actívala mediante un SMS que
+ Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas? \n1. Busca un cajero Caixabank \n2. Introduce la tarjeta y elige tu PIN \n3. Actívala mediante un SMS que
+ No comprendo lo que ha dicho.
+ No entiendo lo que me quiere decir.
+ DATABASE C03
+ No consigue entender lo que me está diciendo.
+ DATABASE C03
+ No comprendo lo que ha dicho.
+ Para saber el estado de sus prestamos o creditos, acceda al apartado Préstamos > Mis préstamos, y seleccione el contrato que desee consultar. \nEn función del tipo de producto que tenga contratado 
+ NO FUNCIONA L'ENLLAÇ
+ No consigue entender lo que me está diciendo.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ No entiendo lo que me quiere decir.
+#`end chatbot

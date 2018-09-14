@@ -1,0 +1,46 @@
+﻿Start: user:g bot:dory ip: rand:3483 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-11:50:52 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:38:16 0:Dec18'16-11:50:52 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+Start: user:g bot:dory ip: rand:3485 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Dec18'16-11:50:55 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-11:50:54 0:Dec18'16-11:50:52 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Command: :reset user
+Start: user:g bot:dory ip: rand:3483 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-11:50:58 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-11:50:54 0:Dec18'16-11:50:52 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:g bot:dory ip: (~preguntas) 1   cuanto me he gastado en algo? ==> ¿Tienes alguna pregunta?  When:Dec18'16-11:51:06 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~preguntas) 2   cuanto me he gastado en comida? ==> No entiendo lo que me quiere decir.  When:Dec18'16-11:51:10 Why:~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~preguntas) 3   cuanto yo me he gastar en comida? ==> No comprendo lo que ha dicho.  When:Dec18'16-11:51:49 Why:~control.1.0   F:2 
+Respond: user:g bot:dory ip: (~preguntas) 4   cuanto gastar en comida? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec18'16-11:51:53 Why:~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~preguntas) 5   cuanto gastar en endesa ==> No consigue entender lo que me está diciendo.  When:Dec18'16-11:51:59 Why:~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~preguntas) 6   cuánto gastar en endesa ==> No entiendo lo que me quiere decir.  When:Dec18'16-11:52:08 Why:~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~preguntas) 7   cuanto he gastado ==> No comprendo lo que ha dicho.  When:Dec18'16-11:52:49 Why:~control.1.0   F:0 
+Respond: user:g bot:dory ip: (~preguntas) 8   cuanto gastado ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec18'16-11:52:52 Why:~control.1.0   F:1 
+Command: :build dory
+Start: user:g bot:dory ip: rand:3491 (~introductions) 8 ==> Hola!  When:Dec18'16-11:53:12 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-11:53:11 0:Dec18'16-11:50:52 F:0 P:Dec18'16-11:52:52 Why:~introductions.0.0.~control.0.0 
+Command: :reset user
+Start: user:g bot:dory ip: rand:3483 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-11:53:15 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-11:53:11 0:Dec18'16-11:50:52 F:0 P:Dec18'16-11:52:52 Why:~introductions.1.0.~control.0.0 
+Respond: user:g bot:dory ip: (~preguntas) 1   cuanto gastar en comida ==> ¿Tienes alguna pregunta?  When:Dec18'16-11:53:19 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~preguntas) 2   sí ==> Adelante, dígame.  When:Dec18'16-11:53:21 Why:~preguntas.1.1   F:0 
+Respond: user:g bot:dory ip: (~preguntas) 3   cuanto me he gastado en comida? ==> No comprendo lo que ha dicho.  When:Dec18'16-11:53:26 Why:~control.1.0   F:1 
+Command: :build dory
+Start: user:g bot:dory ip: rand:3486 (~introductions) 3 ==> Hola!  When:Dec18'16-11:53:51 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-11:53:49 0:Dec18'16-11:50:52 F:0 P:Dec18'16-11:53:26 Why:~introductions.0.0.~control.0.0 
+Respond: user:g bot:dory ip: (~gastos) 4   cuanto me he gastado en telefono ==> Nada.  When:Dec18'16-11:53:55 Why:~gastos.0.0.~control.1.0   F:1 
+Command: :build dory
+Start: user:g bot:dory ip: rand:3489 (~introductions) 4 ==> No consigue entender lo que me está diciendo.  When:Dec18'16-11:54:24 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-11:54:23 0:Dec18'16-11:50:52 F:0 P:Dec18'16-11:53:55 Why:~control.1.0 
+Respond: user:g bot:dory ip: (~introductions) 5   cuanto gastar ==> No consigue entender lo que me está diciendo.  When:Dec18'16-11:54:26 Why:~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~ingresar) 6   he cobrado ==> DATABASE C01  When:Dec18'16-11:56:22 Why:~ingresar.1.0.~control.1.0   F:0 
+Respond: user:g bot:dory ip: (~oficina) 7   acudir a la oficina ==> Si te identificas con tu DNI en una oficina de CaixaBank, además podrás realizar las siguientes operaciones que ahora mismo no puedes realizar por motivos de seguridad:  - Ingresar en efectivo en cajero más de 600€ mensuales usando la tarjeta  - Ingresar en efectivo en cajero más de 1000€ anuales sin usar la tarjeta  - Realizar transferencias internacionales o transferencias nacionales en otra divisa diferente al euro  When:Dec18'16-11:56:44 Why:~oficina.1.0.~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~ahorro) 8   como hacer transferencia nacional  ==> Pasos a seguir:  1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia. 2. Seleccione una cuenta origen. 3. Introduzca la cuenta destino. Entre las opciones disponibles debe escoger una cuenta de otra entidad e introducir la cuenta en formato IBAN o CCC. 4. Introduzca el importe de la transferencia. 5. Introduzca los datos adicionales que (concepto, beneficiario). Si pulsa sobre el enlace "Informe los datos adicionales que desee" podrá informar más datos adicionales, entre ellos su identificación como remitente. Si lo requiere la cuenta origen y/o la cuenta destino estará obligado a informar los datos opcionales referencias Q43. 6. Seleccione si desea enviar un aviso al beneficiario vía SMS o correo electrónico, conforme usted ha solicitado una transferencia a su favor. Esta opción tiene un precio de servicio asociado de 0,30 € por (impuestos indirectos no incluidos). A continuación, si desea recibir un justificante de la operación podrá marcar la casilla correspondiente. Antes de continuar con la operación, podrá leer detenidamente los Términos y Condiciones de la operación que desea realizar. Pulse el botón "Continuar". En la pantalla siguiente podrá visualizar un resumen de los datos que haya introducido. Una vez revisados estos datos, podrá confirmar la operación introduciendo la clave que se le solicite de su Tarjeta Línea Abierta. Una vez confirmada la operación se le mostrará la pantalla resultado, la cual podrá imprimir o guardar en formato pdf en su equipo.  When:Dec18'16-11:57:09 Why:~ahorro.2.0.~control.1.0   F:2 
+Respond: user:g bot:dory ip: (~ahorro) 9   cuanto gastar ==> No entiendo lo que me quiere decir.  When:Dec18'16-11:57:15 Why:~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~ahorro) 10   cuanto me he gastado ==> No consigue entender lo que me está diciendo.  When:Dec18'16-11:57:17 Why:~control.1.0   F:1 
+Respond: user:g bot:dory ip: (~tarjeta) 11   robar la tarjeta ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec18'16-11:57:35 Why:~tarjeta.1.0.~control.1.0   F:0 
+Respond: user:g bot:dory ip: (~tarjeta) 12     ==> No comprendo lo que ha dicho.  When:Dec18'16-12:02:07 Why:~control.1.0   F:1 
+Command: :build dory
+Start: user:g bot:dory ip: rand:3497 (~introductions) 12 ==> No comprendo lo que ha dicho.  When:Dec18'16-12:02:11 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:02:10 0:Dec18'16-11:50:52 F:0 P:Dec18'16-12:02:07 Why:~control.1.0 
+Command: :build dory
+Start: user:g bot:dory ip: rand:3497 (~introductions) 12 ==> No comprendo lo que ha dicho.  When:Dec18'16-12:05:40 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:05:39 0:Dec18'16-11:50:52 F:0 P:Dec18'16-12:02:07 Why:~control.1.0 
+Command: :build dory
+Start: user:g bot:dory ip: rand:3497 (~introductions) 12 ==> No comprendo lo que ha dicho.  When:Dec18'16-12:08:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-12:08:36 0:Dec18'16-11:50:52 F:0 P:Dec18'16-12:02:07 Why:~control.1.0 
+Sourcefile Time used 1482059443841 ms for 19 sentences 79 tokens.
+Sourcefile Time used 1482059443841 ms for 19 sentences 79 tokens.
+Sourcefile Time used 1482059443841 ms for 19 sentences 79 tokens.
+Sourcefile Time used 1482059443841 ms for 19 sentences 79 tokens.
+Sourcefile Time used 1482059443841 ms for 19 sentences 79 tokens.
+Sourcefile Time used 1482059443841 ms for 19 sentences 79 tokens.
+Sourcefile Time used 1482059443841 ms for 19 sentences 79 tokens.

@@ -1,0 +1,6 @@
+﻿failed to connect to server
+ 4 - called myexit at Fri Sep 23 16:00:48 2016
+failed to connect to server
+ 4 - called myexit
+failed to connect to server
+ 4 - called myexit

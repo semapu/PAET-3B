@@ -1,0 +1,6 @@
+﻿Start: user:ghah bot:dory ip: rand:2751 (~introductions) 0 ==> Bienvenido!  When:Dec02'16-17:31:22 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:46:15 0:Dec02'16-17:31:22 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:ghah bot:dory ip: (~introductions) 1   hola ==>   When:Dec02'16-17:31:24   F:0 
+Command: :build dory
+Start: user:ghah bot:dory ip: rand:2752 (~introductions) 1 ==> Hola!  When:Dec02'16-17:31:28 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec02'16-17:31:26 0:Dec02'16-17:31:22 F:0 P:Dec02'16-17:31:24 Why:~introductions.0.0.~control.0.0 
+Respond: user:ghah bot:dory ip: (~preguntas) 2   perfecto ==> ¿Tienes alguna pregunta?  When:Dec02'16-17:31:29 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:ghah bot:dory ip: (~keywordless) 3   puedo sacar dinero en el extranjero? ==> Para sacar dinero en el extranjero...  When:Dec02'16-17:31:38 Why:~keywordless.16.0.~control.1.0   F:2 

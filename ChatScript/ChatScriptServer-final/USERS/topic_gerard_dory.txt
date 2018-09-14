@@ -1,0 +1,61 @@
+USERS/topic_gerard_dory.txt
+jul2116 Dec03'16-11:11:56 Dec19'16-19:19:28 1480761728-14.1.0.8.1.0 |
+19 19 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~sald ~recibos ~tarjeta ~introductions #pending
+~preguntas + 1 s-YXb ea 0 0 0 
+#`end topics
+$cs_randindex=1103
+$cs_bot=Dory
+$cs_login=gerard
+$cs_token=512
+$cs_control_main=~control
+$userprompt=gerard: >
+$botprompt=Dory: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ quanto me queda de saldo
+ muestrame quanto saldo tengo
+ que saldo me queda
+ saldo
+ ensenyame el saldo
+ enseñame el salod
+ enseñame el saldo
+ quiero ver el saldo
+ como voy de saldo
+ quiero domiciliar un recibo
+ recibo
+ recibo movistar
+ ensenyame el ultimo recibo del mes
+ domiciliar recibo
+ ultimo recibo del mes
+ quiero personalizar mi tarjeta
+ me olvide el pin
+ se me ha olvidado el pin
+ exit
+#`end user
+ Bienvenido!
+ ¿Tienes alguna pregunta?
+ DATABASE C03
+ DATABASE C03
+ DATABASE C03
+ No comprendo lo que ha dicho.
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+ DATABASE C03
+ DATABASE C03
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ Per poder domiciliar el pagament d'un rebut, haurà de procedir, primer de tot, al seu pagament des d'un dels següents apartats de l'operativa Comptes > Pagaments i impostos
+ Puede especificar que tipo de recibo desea ver?
+ Puede especificar que tipo de recibo desea ver?
+ Puede especificar que tipo de recibo desea ver?
+ Per poder domiciliar el pagament d'un rebut, haurà de procedir, primer de tot, al seu pagament des d'un dels següents apartats de l'operativa Comptes > Pagaments i impostos
+ Puede especificar que tipo de recibo desea ver?
+ Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ Hola!
+ No consigue entender lo que me está diciendo.
+#`end chatbot

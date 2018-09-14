@@ -1,0 +1,20 @@
+USERS/topic_usuari1_dory.txt
+jul2116 Dec18'16-16:18:38 Dec18'16-16:25:22 0 |
+1 0 ~introductions ~Mb P0z2#Is*Ok3  DY 0 20 20 0 # start, input#, rejoindertopic,rejoinderid (a:  ( Gracias ) Un placer, ¿en qué puedo ayudarle? ),checksum
+~introductions #pending
+#`end topics
+$botprompt=Dory: 
+$userprompt=usuari1: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=usuari1
+$cs_bot=Dory
+$cs_randindex=1601
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Bienvenido!
+#`end chatbot

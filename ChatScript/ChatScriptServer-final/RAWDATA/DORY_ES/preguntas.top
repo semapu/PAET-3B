@@ -1,0 +1,15 @@
+
+TOPIC: ~preguntas repeat (pregunta preguntas preguntar duda dudas hola)
+
+u: (pregunta) ^keep() 
+Adelante, dígame.
+
+t: ¿Tienes alguna pregunta?
+    #! sí
+    a: ( ~sí ) Adelante, dígame.
+
+    #! never
+    a: ( ~no ) De acuerdo, ¿le puedo ayudar en algo? 
+        b: ( ~sí ) Adelante, dígame.
+
+        b: ( ~no ) De acuerdo, me quedo esperando por si más tarde le puedo ayudar.

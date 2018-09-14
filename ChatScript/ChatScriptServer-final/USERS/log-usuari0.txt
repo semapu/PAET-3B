@@ -1,0 +1,517 @@
+﻿Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-19:53:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-16:44:07 0:Dec16'16-19:53:56 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-19:53:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-16:44:07 0:Dec16'16-19:53:56 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola ==> Hola de nuevo.  When:Dec16'16-19:53:59 Why:~keywordless.3.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 2  tengo una pregunta ==> Adelante, dígame.  When:Dec16'16-19:54:03 Why:~preguntas.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  cuanto me he gastado en spotify desde enero? ==> DATABASE C00  When:Dec16'16-19:54:09 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 4  cuanto me he gastado en gasolina desde enero? ==> ¿Tienes alguna pregunta?  When:Dec16'16-19:54:21 Why:~preguntas.1.0.~control.1.0   F:2 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:08:59 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-16:44:07 0:Dec16'16-19:53:56 F:0 P:Dec16'16-19:54:21 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:08:59 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-16:44:07 0:Dec16'16-19:53:56 F:0 P:Dec16'16-19:54:21 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  gracias ==> Un placer.  When:Dec16'16-20:09:02 Why:~keywordless.6.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 2  tengo una pregunta ==> Adelante, dígame.  When:Dec16'16-20:09:09 Why:~preguntas.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  cuanto me he gastado desde enero en spotify? ==> DATABASE C00  When:Dec16'16-20:09:15 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 4  cuanto me he gastado desde enero en endesa? ==> ¿Tienes alguna pregunta?  When:Dec16'16-20:09:23 Why:~preguntas.1.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 5    ==> No consigue entender lo que me está diciendo.  When:Dec16'16-20:09:27 Why:~control.1.0   F:78 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:09:30 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-16:44:07 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:27 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 1    ==> ¿Tienes alguna pregunta?  When:Dec16'16-20:09:32 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 2    ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec16'16-20:09:38 Why:~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  cuanto me he gastado desde enero en spotify? ==> DATABASE C00  When:Dec16'16-20:09:43 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto me he gastado desde enero en spotify ==> No entiendo lo que me quiere decir.  When:Dec16'16-20:09:50 Why:~control.1.0   F:2 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:09:53 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-16:44:07 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:50 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 1  cuanto me he gastado desde enero en spotify ==> DATABASE C00  When:Dec16'16-20:09:54 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 2  cuanto me he gastado desde enero en spotify ==> ¿Tienes alguna pregunta?  When:Dec16'16-20:09:55 Why:~preguntas.1.0.~control.1.0   F:2 
+Command: :build dory
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:08 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 () 3  hola ==>   When:Dec16'16-20:10:13   F:0 
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:19 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 () 3  af ==>   When:Dec16'16-20:10:24   F:0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:31 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:33 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:34 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:36 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:38 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:40 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:10:42 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:11:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:11:38 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:11:37 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:11:38 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:11:37 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:09:55 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola ==> ¿Le puedo ayudar en algo?  When:Dec16'16-20:11:41 Why:~keywordless.30.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  sí ==> Dígame.  When:Dec16'16-20:11:45 Why:~keywordless.30.1   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  cuánto me he gastado en gasolina desde enero? ==> DATABASE C00  When:Dec16'16-20:11:57 Why:~gastos.0.0.~control.1.0   F:2 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:12:13 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:11:57 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:12:16 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:13 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:11:57 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:12:16 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:13 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:11:57 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola ==> ¿Le puedo ayudar en algo?  When:Dec16'16-20:12:23 Why:~keywordless.30.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  sí ==> Dígame.  When:Dec16'16-20:12:24 Why:~keywordless.30.1   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 3  ¿Cómo realizo transferencias nacionales? ==> ¿Tienes alguna pregunta?  When:Dec16'16-20:12:29 Why:~preguntas.1.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:12:55 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:12:29 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:12:57 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:55 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:12:29 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:12:57 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:55 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:12:29 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola ==> ¿Le puedo ayudar en algo?  When:Dec16'16-20:13:00 Why:~keywordless.30.0.~control.1.0   F:1 
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:211 (~introductions) 1 ==> Hola!  When:Dec16'16-20:13:00 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:55 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:13:00 Why:~introductions.0.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  si ==> ¿Tiene alguna pregunta?  When:Dec16'16-20:13:03 Why:~keywordless.30.0.~control.1.0   F:1 
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:214 (~preguntas) 2 ==> ¿Tienes alguna pregunta?  When:Dec16'16-20:13:03 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:55 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:13:03 Why:~preguntas.1.0.~control.1.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 3  no ==> De acuerdo, ¿le puedo ayudar en algo?  When:Dec16'16-20:13:06 Why:~preguntas.1.2   F:1 
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:215 (~introductions) 3 ==> No entiendo lo que me quiere decir.  When:Dec16'16-20:13:06 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:55 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:13:06 Why:~control.1.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~introductions) 4  no ==> No entiendo lo que me quiere decir.  When:Dec16'16-20:13:11 Why:~control.1.0   F:1 
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:216 (~introductions) 4 ==> No consigue entender lo que me está diciendo.  When:Dec16'16-20:13:11 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:12:55 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:13:11 Why:~control.1.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:20:48 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:13:11 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:20:50 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:20:48 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:13:11 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:20:50 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:20:48 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:13:11 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~introductions) 1  gracias ==> Un placer, ¿en qué puedo ayudarle?  When:Dec16'16-20:20:52 Why:~introductions.1.1   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 2  tengo una pregunta ==> Adelante, dígame.  When:Dec16'16-20:20:56 Why:~preguntas.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 3  como puedo activar mi tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?  1. Busca un cajero Caixabank  2. Introduce la tarjeta y elige tu PIN  3. Actívala mediante un SMS que te llegará a tu móvil  When:Dec16'16-20:21:18 Why:~tarjeta.4.0.~control.1.0   F:3 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto me he gastado en gasolina este año? ==> DATABASE C00  When:Dec16'16-20:21:32 Why:~gastos.0.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec16'16-20:23:14 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:21:32 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:23:16 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:23:14 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:21:32 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:23:16 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:23:14 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:21:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola ==> ¿Le puedo ayudar en algo?  When:Dec16'16-20:23:19 Why:~keywordless.30.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  sí ==> Dígame.  When:Dec16'16-20:23:21 Why:~keywordless.30.1   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  cuánto he gastado desde enero en gasolina? ==> DATABASE C00  When:Dec16'16-20:23:29 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto he gastado desde enero en endesa? ==> DATABASE C00 endesa  When:Dec16'16-20:23:40 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 5  cuando he gastado este año en luz? ==> ¿Tienes alguna pregunta?  When:Dec16'16-20:23:50 Why:~preguntas.1.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 6  cuanto he gastado en endesa? ==> DATABASE C00 endesa  When:Dec16'16-20:24:13 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~movimientos) 7  ¿Cuánto cuesta hacer una transferencia internacional? ==> *Dependiendo del tipo de transferencia que usted quiera realizar: - Si realiza la transferencia a otra cuenta de la Caixa, no se cobrarà ningun tipo de comision. - Si realiza la transferencia a una cuenta de otra entidad, depende de blablabla  When:Dec16'16-20:24:19 Why:~movimientos.2.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 8  He perdido mi tarjeta ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec16'16-20:24:28 Why:~tarjeta.1.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 9  Quiero bloquear mi tarjeta ==> Para bloqueo de tarjetas, llame al 900 323 232 o por Línea Abierta, si dispone de este servicio.  When:Dec16'16-20:24:33 Why:~tarjeta.0.0.~control.1.0   F:3 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 10  ¿Como personalizar mi tarjeta? ==> Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight  When:Dec16'16-20:24:37 Why:~tarjeta.2.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~oficina) 11  ¿A qué oficina debo ir? ==> Puede ir a la oficina...  When:Dec16'16-20:24:42 Why:~oficina.2.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~oficina) 12  Dame el número de la oficina más cercana ==> Para buscar la oficina mas cercana, consulte el siguiente enlace: https://www4.caixabank.es/apl/localizador/caixamaps/index es.html  When:Dec16'16-20:24:47 Why:~oficina.3.0.~control.1.0   F:3 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec17'16-17:35:36 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:24:47 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:35:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:35:36 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:24:47 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:35:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:35:36 0:Dec16'16-19:53:56 F:0 P:Dec16'16-20:24:47 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola ==> ¿Le puedo ayudar en algo?  When:Dec17'16-17:35:39 Why:~keywordless.30.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~prestamos) 2  cuales son las condiciones de mi actual prestamo? ==> Para saber el estado de sus prestamos o creditos, acceda al apartado Préstamos > Mis préstamos, y seleccione el contrato que desee consultar.  En función del tipo de producto que tenga contratado puede visualizar los siguientes datos:  Para Préstamos:  Cuadro de amortización: le muestra el detalle del plan de amortización de su préstamo. Recibos pagados: le muestra el detalle de todos aquellos recibos que haya pagado desde la fecha que especifique. Recibos no pagados: le muestra la lista de los recibos que todavía no ha pagado y le permite efectuar el pago de cada uno de ellos o de varios a la (este pago se hace por orden de antigüedad, del más antiguo al más reciente). Para Hipotecas y Créditos Abiertos:  Todas las disposiciones: le muestra la lista de todas las disposiciones, tanto las vigentes como las canceladas. Disposiciones vigentes: le muestra una lista de las disposiciones vigentes detallando los siguientes datos para cada una: la fecha de constitución, vencimientos, capital concedido, saldo, cuota y interés. Disposiciones canceladas: le muestra la lista de disposiciones que han sido canceladas anticipadamente o que han vencido el periodo por el cual se solicitaron. Recibos pagados desde una fecha: le muestra el detalle de todos aquellos recibos que haya pagado desde la fecha que especifique. Recibos no pagados: le muestra la lista de los recibos que todavía no ha pagado y le permite efectuar el pago de cada uno de ellos o de varios a la (este pago se hace por orden de antigüedad, del más antiguo al más reciente). Para Cuentas de crédito:  Liquidaciones: le muestra la relación de liquidaciones hechas, de la cuenta de crédito seleccionado, clasificadas por el "periodo de liquidación". Si desea conocer al detalle toda la información relacionada con los préstamos y créditos comercializados por CaixaBank, clique en el siguiente enlace:  https://www.caixabank.es/particular/prestamoshipotecas/prestamoshipotecas es.html  When:Dec17'16-17:35:45 Why:~prestamos.0.0.~control.1.0   F:3 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec17'16-17:37:10 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:35:45 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:37:11 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:37:10 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:35:45 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:37:11 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:37:10 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:35:45 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola! ==> ¿Le puedo ayudar en algo?  When:Dec17'16-17:37:14 Why:~keywordless.30.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 2  ¿Cuáles son las condiciones de mi actual préstamo? ==> ¿Tienes alguna pregunta?  When:Dec17'16-17:37:24 Why:~preguntas.1.0.~control.1.0   F:3 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~prestamos) 3  cuales son las condiciones de mi actual prestamo? ==> Para saber el estado de sus prestamos o creditos, acceda al apartado Préstamos > Mis préstamos, y seleccione el contrato que desee consultar.  En función del tipo de producto que tenga contratado puede visualizar los siguientes datos:  Para Préstamos:  Cuadro de amortización: le muestra el detalle del plan de amortización de su préstamo. Recibos pagados: le muestra el detalle de todos aquellos recibos que haya pagado desde la fecha que especifique. Recibos no pagados: le muestra la lista de los recibos que todavía no ha pagado y le permite efectuar el pago de cada uno de ellos o de varios a la (este pago se hace por orden de antigüedad, del más antiguo al más reciente). Para Hipotecas y Créditos Abiertos:  Todas las disposiciones: le muestra la lista de todas las disposiciones, tanto las vigentes como las canceladas. Disposiciones vigentes: le muestra una lista de las disposiciones vigentes detallando los siguientes datos para cada una: la fecha de constitución, vencimientos, capital concedido, saldo, cuota y interés. Disposiciones canceladas: le muestra la lista de disposiciones que han sido canceladas anticipadamente o que han vencido el periodo por el cual se solicitaron. Recibos pagados desde una fecha: le muestra el detalle de todos aquellos recibos que haya pagado desde la fecha que especifique. Recibos no pagados: le muestra la lista de los recibos que todavía no ha pagado y le permite efectuar el pago de cada uno de ellos o de varios a la (este pago se hace por orden de antigüedad, del más antiguo al más reciente). Para Cuentas de crédito:  Liquidaciones: le muestra la relación de liquidaciones hechas, de la cuenta de crédito seleccionado, clasificadas por el "periodo de liquidación". Si desea conocer al detalle toda la información relacionada con los préstamos y créditos comercializados por CaixaBank, clique en el siguiente enlace:  https://www.caixabank.es/particular/prestamoshipotecas/prestamoshipotecas es.html  When:Dec17'16-17:37:31 Why:~prestamos.0.0.~control.1.0   F:4 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec17'16-17:37:55 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:37:31 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:37:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:37:55 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:37:31 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:37:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:37:55 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:37:31 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  Hola ==> ¿Le puedo ayudar en algo?  When:Dec17'16-17:37:58 Why:~keywordless.30.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec17'16-17:38:16 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:37:58 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:38:18 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:38:16 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:37:58 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec17'16-17:38:18 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec17'16-17:38:16 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:37:58 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  Hola ==> ¿Le puedo ayudar en algo?  When:Dec17'16-17:38:19 Why:~keywordless.30.0.~control.1.0   F:0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec18'16-16:07:33 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:38:19 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-16:07:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:07:33 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:38:19 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-16:07:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:07:33 0:Dec16'16-19:53:56 F:0 P:Dec17'16-17:38:19 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  Hola Dory ==> ¿Le puedo ayudar en algo?  When:Dec18'16-16:07:43 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  Si ==> Dígame.  When:Dec18'16-16:07:46 Why:~keywordless.31.1   F:99 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~informacio) 3  ¿Como puedo tener información sobre planes de pensiones? ==> ¿Qué información desea obtener?  When:Dec18'16-16:08:11 Why:~informacio.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 4  Sobre planes de pensiones ==> ¿Tienes alguna pregunta?  When:Dec18'16-16:08:25 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 5  ¿Como puedo actualizar mis datos? ==> No consigue entender lo que me está diciendo.  When:Dec18'16-16:08:33 Why:~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 6  ¿Como personalizar mi tarjeta? ==> Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight  When:Dec18'16-16:08:39 Why:~tarjeta.2.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 7  ¿Como puedo darme de alta la tarjeta? ==> Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas?  1. Busca un cajero Caixabank  2. Introduce la tarjeta y elige tu PIN  3. Actívala mediante un SMS que te llegará a tu móvil  When:Dec18'16-16:09:05 Why:~tarjeta.4.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 8  ?? ==> No comprendo lo que ha dicho.  When:Dec18'16-16:09:11 Why:~control.1.0   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 9  como me gusta hacer el pino, tengo que hace coses u jno magrada estudiar ploro perque es una caca ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec18'16-16:12:22 Why:~control.1.0   F:3 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec18'16-16:32:15 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec18'16-16:12:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-16:32:17 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:32:15 0:Dec16'16-19:53:56 F:0 P:Dec18'16-16:12:22 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-16:32:17 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:32:15 0:Dec16'16-19:53:56 F:0 P:Dec18'16-16:12:22 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  Hola ==> ¿Le puedo ayudar en algo?  When:Dec18'16-16:32:36 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  gracias ==> De nada!  When:Dec18'16-16:32:46 Why:~keywordless.5.0.~control.1.0   F:0 
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:212 (~introductions) 2 ==> Hola!  When:Dec18'16-16:32:55 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:32:15 0:Dec16'16-19:53:56 F:0 P:Dec18'16-16:32:46 Why:~introductions.0.0.~control.0.0 
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:214 (~preguntas) 2 ==> ¿Tienes alguna pregunta?  When:Dec18'16-16:33:05 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-16:32:15 0:Dec16'16-19:53:56 F:0 P:Dec18'16-16:32:46 Why:~preguntas.1.0.~control.1.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  ¿Cuánto he gastado este mes en gasolina? ==> DATABASE C00  When:Dec18'16-16:33:34 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto he gastado en endesa? ==> DATABASE C00  When:Dec18'16-16:34:31 Why:~gastos.0.0.~control.1.0   F:0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec18'16-17:45:43 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec18'16-16:34:31 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-17:45:44 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-17:45:43 0:Dec16'16-19:53:56 F:0 P:Dec18'16-16:34:31 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 1  :	reset	u_ser	. ==> ¿Tienes alguna pregunta?  When:Dec18'16-17:45:53 Why:~preguntas.1.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec18'16-17:48:29 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec18'16-17:45:53 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-17:48:31 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-17:48:29 0:Dec16'16-19:53:56 F:0 P:Dec18'16-17:45:53 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 1  :	reset	u_ser	. ==> ¿Tienes alguna pregunta?  When:Dec18'16-17:48:40 Why:~preguntas.1.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  hola	. ==> ¿Tiene alguna pregunta?  When:Dec18'16-17:48:55 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 3  sí	. ==> Dígame.  When:Dec18'16-17:49:13 Why:~keywordless.31.1   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto	haber	gastar	desde	[??:??/1/??:??.??:??]	en	en_d_esa	?	. ==> DATABASE C00  When:Dec18'16-17:49:31 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 5  cuanto	haber	gastar	desde	[??:??/1/??:??.??:??]	en	gasolina	?	. ==> DATABASE C00  When:Dec18'16-17:49:54 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 6  cuanto	haber	gastar	desde	[??:??/1/??:??.??:??]	en	m_o_vi_star	?	. ==> DATABASE C00  When:Dec18'16-17:50:34 Why:~gastos.0.0.~control.1.0   F:2 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec18'16-18:00:48 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec18'16-17:50:34 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-18:00:49 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-18:00:48 0:Dec16'16-19:53:56 F:0 P:Dec18'16-17:50:34 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-18:00:49 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-18:00:48 0:Dec16'16-19:53:56 F:0 P:Dec18'16-17:50:34 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~introductions) 1  gracias	. ==> Un placer, ¿en qué puedo ayudarle?  When:Dec18'16-18:01:03 Why:~introductions.1.1   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 2  tener	uno	pregunta	. ==> Adelante, dígame.  When:Dec18'16-18:01:19 Why:~preguntas.0.0.~control.1.0   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~ahorro) 3  ¿	cómo	realizar	transferencia	nacional	?	. ==> Pasos a seguir:  1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia. 2. Seleccione una cuenta origen. 3. Introduzca la cuenta destino. Entre las opciones disponibles debe escoger una cuenta de otra entidad e introducir la cuenta en formato IBAN o CCC. 4. Introduzca el importe de la transferencia. 5. Introduzca los datos adicionales que (concepto, beneficiario). Si pulsa sobre el enlace "Informe los datos adicionales que desee" podrá informar más datos adicionales, entre ellos su identificación como remitente. Si lo requiere la cuenta origen y/o la cuenta destino estará obligado a informar los datos opcionales referencias Q43. 6. Seleccione si desea enviar un aviso al beneficiario vía SMS o correo electrónico, conforme usted ha solicitado una transferencia a su favor. Esta opción tiene un precio de servicio asociado de 0,30 € por (impuestos indirectos no incluidos). A continuación, si desea recibir un justificante de la operación podrá marcar la casilla correspondiente. Antes de continuar con la operación, podrá leer detenidamente los Términos y Condiciones de la operación que desea realizar. Pulse el botón "Continuar". En la pantalla siguiente podrá visualizar un resumen de los datos que haya introducido. Una vez revisados estos datos, podrá confirmar la operación introduciendo la clave que se le solicite de su Tarjeta Línea Abierta. Una vez confirmada la operación se le mostrará la pantalla resultado, la cual podrá imprimir o guardar en formato pdf en su equipo.  When:Dec18'16-18:01:41 Why:~ahorro.2.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto	haber	gastar	en	m_o_vi_star	?	. ==> DATABASE C00  When:Dec18'16-18:02:02 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 5  cuanto	haber	gastar	en	en_d_esa	?	. ==> DATABASE C00  When:Dec18'16-18:02:34 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~ingresar) 6  cuanto	me	haber	ingresar	de	salar_i	?	. ==> DATABASE C01  When:Dec18'16-18:02:59 Why:~ingresar.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 7  cuanto	haber	gastar	en	v_oda_fon_e	?	. ==> DATABASE C00  When:Dec18'16-18:03:38 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 8  cuanto	haber	gastar	desde	[??:??/1/??:??.??:??]	hasta	[??:??/3/??:??.??:??]	en	en_d_esa	?	. ==> DATABASE C00  When:Dec18'16-18:03:55 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 9  cuanto	haber	gastar	desde	[??:??/1/??:??.??:??]	en	en_d_esa	?	. ==> DATABASE C00  When:Dec18'16-18:04:14 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 10  cuanto	haber	gastar	desde	2011	en	en_d_esa	?	. ==> DATABASE C00  When:Dec18'16-18:04:36 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 11  cuanto	haber	gastar	desde	hacer	3	año	en	en_d_esa	?	. ==> DATABASE C00  When:Dec18'16-18:05:03 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 12  cuanto	haber	gastar	en	en_d_esa	?	. ==> DATABASE C00  When:Dec18'16-18:05:19 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 13  gracia	. ==> ¿Tienes alguna pregunta?  When:Dec18'16-18:05:32 Why:~preguntas.1.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec18'16-18:06:01 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:05:32 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-18:06:02 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-18:06:01 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:05:32 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-18:06:02 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-18:06:01 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:05:32 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~movimientos) 1  ¿	cuánto	costar	hacer	uno	transferencia	internacional	?	. ==> *Dependiendo del tipo de transferencia que usted quiera realizar: - Si realiza la transferencia a otra cuenta de la Caixa, no se cobrarà ningun tipo de comision. - Si realiza la transferencia a una cuenta de otra entidad, depende de blablabla  When:Dec18'16-18:06:28 Why:~movimientos.2.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec18'16-18:08:50 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:06:28 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-18:08:51 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-18:08:50 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:06:28 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec18'16-18:08:51 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec18'16-18:08:50 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:06:28 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~movimientos) 1  ¿	cuánto	costar	hacer	uno	transferencia	internacional	?	. ==> *Dependiendo del tipo de transferencia que usted quiera realizar: - Si realiza la transferencia a otra cuenta de la Caixa, no se cobrarà ningun tipo de comision. - Si realiza la transferencia a una cuenta de otra entidad, depende de blablabla  When:Dec18'16-18:09:06 Why:~movimientos.2.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec19'16-18:23:45 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:09:06 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-18:23:46 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-18:23:45 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:09:06 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-18:23:46 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-18:23:45 0:Dec16'16-19:53:56 F:0 P:Dec18'16-18:09:06 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola	. ==> ¿Le puedo ayudar en algo?  When:Dec19'16-18:23:59 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 2  cuanto	haber	gastar	desde	[??:??/1/??:??.??:??]	en	m_o_vi_star	?	. ==> DATABASE C00  When:Dec19'16-18:24:16 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  cuanto	haber	gastar	desde	[??:??/1/??:??.??:??]	en	en_d_esa	. ==> DATABASE C00  When:Dec19'16-18:24:42 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  cuanto	haber	gastar	en	en_d_esa	?	. ==> DATABASE C00  When:Dec19'16-18:25:20 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 5  ¿	cuánto	haber	gastar	este	mes	?	. ==> DATABASE C00  When:Dec19'16-18:33:53 Why:~gastos.0.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec19'16-19:25:54 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec19'16-18:33:53 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-19:25:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-19:25:54 0:Dec16'16-19:53:56 F:0 P:Dec19'16-18:33:53 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-19:25:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-19:25:54 0:Dec16'16-19:53:56 F:0 P:Dec19'16-18:33:53 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~ahorro) 1  ¿	cómo	realizar	transferencia	internacional	?	. ==> Pasos a seguir:  1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia. 2. Seleccione una cuenta origen. 3. Introduzca la cuenta destino. Entre las opciones disponibles debe escoger una cuenta de otra entidad e introducir la cuenta en formato IBAN o CCC. 4. Introduzca el importe de la transferencia. 5. Introduzca los datos adicionales que (concepto, beneficiario). Si pulsa sobre el enlace "Informe los datos adicionales que desee" podrá informar más datos adicionales, entre ellos su identificación como remitente. Si lo requiere la cuenta origen y/o la cuenta destino estará obligado a informar los datos opcionales referencias Q43. 6. Seleccione si desea enviar un aviso al beneficiario vía SMS o correo electrónico, conforme usted ha solicitado una transferencia a su favor. Esta opción tiene un precio de servicio asociado de 0,30 € por (impuestos indirectos no incluidos). A continuación, si desea recibir un justificante de la operación podrá marcar la casilla correspondiente. Antes de continuar con la operación, podrá leer detenidamente los Términos y Condiciones de la operación que desea realizar. Pulse el botón "Continuar". En la pantalla siguiente podrá visualizar un resumen de los datos que haya introducido. Una vez revisados estos datos, podrá confirmar la operación introduciendo la clave que se le solicite de su Tarjeta Línea Abierta. Una vez confirmada la operación se le mostrará la pantalla resultado, la cual podrá imprimir o guardar en formato pdf en su equipo.  When:Dec19'16-19:26:11 Why:~ahorro.2.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 2  haber	perder	mi	tarjeta	. ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec19'16-19:26:52 Why:~tarjeta.1.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  ¿	cuánto	haber	gastar	en	endesa	desde	[??:??/1/??:??.??:??]	?	. ==> DATABASE C00  When:Dec19'16-19:28:05 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  ¿	cuánto	haber	gastar	en	endesa	desde	[??:??/1/??:??.??:??]	?	. ==> DATABASE C00  When:Dec19'16-19:33:12 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~ingresar) 5  recibir	m_o_vi_star	. ==> DATABASE C01  When:Dec19'16-19:34:05 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 6  gastar	m_o_vi_star	. ==> ¿Tienes alguna pregunta?  When:Dec19'16-19:34:21 Why:~preguntas.1.0.~control.1.0   F:75 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 7  cuanto	haber	gastar	en	m_o_vi_star	?	. ==> DATABASE C00  When:Dec19'16-19:34:43 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 8  cuanto	haber	gastar	en	spot_i_f_y	desde	[??:??/2/??:??.??:??]	?	. ==> DATABASE C00  When:Dec19'16-19:35:07 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 9  gastar	m_o_vi_star	desde	[??:??/1/??:??.??:??]	?	. ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec19'16-19:35:59 Why:~control.1.0   F:3 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 10  haber	gastar	m_o_vi_star	desde	[??:??/1/??:??.??:??]	?	. ==> No entiendo lo que me quiere decir.  When:Dec19'16-19:36:25 Why:~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 11  cuanto	gastar	m_o_vi_star	desde	[??:??/1/??:??.??:??]	?	. ==> DATABASE C00  When:Dec19'16-19:36:45 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 12  haber	perder	mi	tarjeta	. ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec19'16-20:22:01 Why:~tarjeta.1.0.~control.1.0   F:56 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 13  perder	mi	tarjeta	. ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec19'16-20:22:21 Why:~tarjeta.1.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec19'16-23:42:05 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec19'16-20:22:21 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-23:42:07 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-23:42:05 0:Dec16'16-19:53:56 F:0 P:Dec19'16-20:22:21 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec19'16-23:42:07 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec19'16-23:42:05 0:Dec16'16-19:53:56 F:0 P:Dec19'16-20:22:21 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 1  cuanto	me	haber	gastar	desde	[??:??/1/??:??.??:??]	en	mercado	?	. ==> DATABASE C00  When:Dec19'16-23:42:29 Why:~gastos.0.0.~control.1.0   F:11 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 2  cuanto	me	haber	gastar	desde	el	[??:1/1/2011:??.??:??]	hasta	el	[??:2/2/2012:??.??:??]	en	en_d_esa	. ==> DATABASE C00  When:Dec20'16-00:01:48 Why:~gastos.0.0.~control.1.0   F:46 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  cuanto	me	haber	gastar	desde	[??:??/1/??:??.??:??]	en	en_d_esa	?	. ==> DATABASE C00  When:Dec20'16-00:02:55 Why:~gastos.0.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:26:51 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:26:52 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:26:51 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:26:52 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:26:51 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:27:08 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:27:09 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:27:08 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:27:09 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:27:08 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:27:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:27:36 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:27:35 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:27:36 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:27:35 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:02:55 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola	dory	!	. ==> ¿Le puedo ayudar en algo?  When:Dec20'16-00:27:53 Why:~keywordless.31.0.~control.1.0   F:20 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 2  ¿	como	personalizar	mi	tarjeta	?	. ==> Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight  When:Dec20'16-00:28:19 Why:~tarjeta.2.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 3  haber	perder	mi	tarjeta	. ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec20'16-00:28:47 Why:~tarjeta.1.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 4  gracias	!	. ==> Un placer.  When:Dec20'16-00:29:03 Why:~keywordless.5.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:29:36 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:29:03 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:29:38 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:29:36 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:29:03 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:29:38 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:29:36 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:29:03 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:29:54 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:29:03 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:29:55 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:29:54 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:29:03 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:29:55 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:29:54 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:29:03 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola	!	. ==> ¿Le puedo ayudar en algo?  When:Dec20'16-00:30:18 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 2  cuanto	me	haber	gastar	en	spot_i_f_y	?	. ==> DATABASE C00  When:Dec20'16-00:30:44 Why:~gastos.0.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 3  me	poder	dar	el	balance	de	este	mes	?	. ==> ¿Tienes alguna pregunta?  When:Dec20'16-00:31:22 Why:~preguntas.1.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 4  reset	. ==> No entiendo lo que me quiere decir.  When:Dec20'16-00:31:42 Why:~control.1.0   F:16 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 5  e_xi_t	. ==> No consigue entender lo que me está diciendo.  When:Dec20'16-00:31:54 Why:~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:32:19 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:31:54 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:32:20 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:32:19 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:31:54 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:32:20 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:32:19 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:31:54 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola	dory	!	. ==> ¿Le puedo ayudar en algo?  When:Dec20'16-00:32:39 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~ingresar) 2  ¿	haber	cobrar	ya	?	. ==> DATABASE C01  When:Dec20'16-00:32:59 Why:~ingresar.1.0.~control.1.0   F:1 
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:212 (~introductions) 2 ==> Hola!  When:Dec20'16-00:33:22 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:32:19 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:32:59 Why:~introductions.0.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 3  ¿	cuánto	haber	gastar	este	último	6	mes	?	. ==> DATABASE C00  When:Dec20'16-00:34:11 Why:~gastos.0.0.~control.1.0   F:1 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:34:33 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:34:11 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:34:34 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:34:33 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:34:11 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-00:34:34 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:34:33 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:34:11 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 1  cuanto	haber	gastar	en	spot_i_f_y	?	. ==> DATABASE C00  When:Dec20'16-00:35:22 Why:~gastos.0.0.~control.1.0   F:2 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:38:54 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:38:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:38:54 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:38:58 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:00 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:38:58 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:04 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:06 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:04 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:08 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:10 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:08 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:12 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:14 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:12 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:16 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:19 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:17 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:22 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:26 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:23 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:28 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:32 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:28 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:33 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:33 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:39 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:37 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:42 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:44 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:42 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:46 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:49 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:47 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:51 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:54 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:52 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:39:56 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:39:59 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:39:56 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:01 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:40:04 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:40:02 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:06 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:40:09 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:40:07 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:12 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:40:14 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:40:12 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:16 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:40:19 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:40:17 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:22 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:40:25 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:40:23 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:27 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:40:29 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:40:28 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:32 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido! ¿Qué hace hablando conmigo a estas horas?  When:Dec20'16-00:40:35 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-00:40:32 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-00:40:37 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot: ip:127.0.0.1 rand:210 () 0 ==>   When:Dec20'16-11:21:09 Version:6.83 Build0:Jul31'16-13:45:49 Build1: 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 
+Command: :build DORY
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-11:21:10 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-11:21:09 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Command: :reset user
+Start: user:usuari0 bot:dory ip:127.0.0.1 rand:210 (~introductions) 0 ==> Bienvenido!  When:Dec20'16-11:21:10 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec20'16-11:21:09 0:Dec16'16-19:53:56 F:0 P:Dec20'16-00:35:22 Why:~introductions.1.0.~control.0.0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 1  hola	!	. ==> ¿Le puedo ayudar en algo?  When:Dec20'16-11:21:27 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~keywordless) 2  sí	por_favor	. ==> Dígame.  When:Dec20'16-11:21:44 Why:~keywordless.31.1   F:0 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~tarjeta) 3  haber	perder	mi	tarjeta	. ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec20'16-11:22:02 Why:~tarjeta.1.0.~control.1.0   F:2 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~gastos) 4  y	otro	cosa	,	cuanto	me	haber	gastar	en	spot_i_f_y	desde	[??:??/1/??:??.??:??]	?	. ==> DATABASE C00  When:Dec20'16-11:22:25 Why:~gastos.0.0.~control.1.0   F:3 
+Respond: user:usuari0 bot:dory ip:127.0.0.1 (~preguntas) 5  gracia	!	. ==> ¿Tienes alguna pregunta?  When:Dec20'16-11:22:42 Why:~preguntas.1.0.~control.1.0   F:1 

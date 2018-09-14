@@ -1,0 +1,22 @@
+﻿Start: user:gga bot:dory ip: rand:2538 (~introductions) 0 ==> Bienvenido!  When:Nov29'16-15:39:39 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:11:56 0:Nov29'16-15:39:39 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build dory
+Start: user:gga bot:dory ip: rand:2540 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Nov29'16-15:39:44 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:39:41 0:Nov29'16-15:39:39 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Respond: user:gga bot:dory ip: (~preguntas) 1   como puedo abrir una cuenta ==> No consigue entender lo que me está diciendo.  When:Nov29'16-15:39:47 Why:~control.1.0  
+Respond: user:gga bot:dory ip: (~preguntas) 2   como puedo abrir una cuenta ==> No comprendo lo que ha dicho.  When:Nov29'16-15:39:52 Why:~control.1.0  
+Command: :reset user
+Start: user:gga bot:dory ip: rand:2538 (~introductions) 0 ==> Bienvenido!  When:Nov29'16-15:39:54 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:39:41 0:Nov29'16-15:39:39 F:0 P:Nov29'16-15:39:52 Why:~introductions.1.0.~control.0.0 
+Respond: user:gga bot:dory ip: (~preguntas) 1   como puedo abrir una cuenta ==> ¿Tienes alguna pregunta?  When:Nov29'16-15:39:58 Why:~preguntas.1.0.~control.1.0  
+Command: :build dory
+Start: user:gga bot:dory ip: rand:2539 (~introductions) 1 ==> Hola!  When:Nov29'16-15:41:35 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:41:33 0:Nov29'16-15:39:39 F:0 P:Nov29'16-15:39:58 Why:~introductions.0.0.~control.0.0 
+Respond: user:gga bot:dory ip: (~keywordless) 2   como abrir una cuenta ==> Para abrir una cuenta de ahorros debe...  When:Nov29'16-15:41:40 Why:~keywordless.3.0.~control.1.0  
+Respond: user:gga bot:dory ip: (~preguntaslineaabierta) 3   como el usuario linea abierta una no pertenece ==> Para inhabilitar...  When:Nov29'16-15:42:19 Why:~preguntaslineaabierta.2.0.~control.1.0  
+Respond: user:gga bot:dory ip: (~prestamos) 4   como puedo pedir un prestamo ==> Para pedir un prestamo...  When:Nov29'16-15:42:30 Why:~prestamos.3.0.~control.1.0  
+Command: :build dory
+Start: user:gga bot:dory ip: rand:2544 (~introductions) 4 ==> No entiendo lo que me quiere decir.  When:Nov29'16-15:44:31 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:44:28 0:Nov29'16-15:39:39 F:0 P:Nov29'16-15:42:30 Why:~control.1.0 
+Respond: user:gga bot:dory ip: (~prestamos) 5   como puedo pedir un prestamo ==> No entiendo lo que me quiere decir.  When:Nov29'16-15:44:35 Why:~control.1.0  
+Command: :build dory
+Start: user:gga bot:dory ip: rand:2545 (~introductions) 5 ==> No consigue entender lo que me está diciendo.  When:Nov29'16-15:45:50 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:45:47 0:Nov29'16-15:39:39 F:0 P:Nov29'16-15:44:35 Why:~control.1.0 
+Respond: user:gga bot:dory ip: (~prestamos) 6   como puedo pedir un prestamo ==> No consigue entender lo que me está diciendo.  When:Nov29'16-15:45:54 Why:~control.1.0  
+Respond: user:gga bot:dory ip: (~prestamos) 7   f ==> No entiendo lo que me quiere decir.  When:Nov29'16-15:46:10 Why:~control.1.0  
+Command: :build dory
+Start: user:gga bot:dory ip: rand:2547 (~introductions) 7 ==> No comprendo lo que ha dicho.  When:Nov29'16-15:46:17 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov29'16-15:46:15 0:Nov29'16-15:39:39 F:0 P:Nov29'16-15:46:10 Why:~control.1.0 

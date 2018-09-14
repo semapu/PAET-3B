@@ -1,0 +1,27 @@
+USERS/topic_ghah_dory.txt
+jul2116 Dec02'16-17:31:22 Dec02'16-17:31:38 0 |
+2 3 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~preguntas ~keywordless #pending
+~preguntas + 1 s-YXb ea 2 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=ghah: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=ghah
+$cs_bot=Dory
+$cs_randindex=2751
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ perfecto
+ puedo sacar dinero en el extranjero?
+#`end user
+ Bienvenido!
+ Hola!
+ ¿Tienes alguna pregunta?
+ Para sacar dinero en el extranjero...
+#`end chatbot

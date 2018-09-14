@@ -1,0 +1,321 @@
+
+
+topic: ~INTENT system ()  # determines fundamental purpose (discourse act) of his input
+
+u: () ^refine()
+
+	#! no
+# commentedByPau 	a: ( ~noanswer  )   $$intent = disagree  
+
+	#! yes
+# commentedByPau 	a: (~yesanswer  ) $$intent = agree 
+
+	#! hello
+# commentedByPau 	a: ([~emohello ~emohowzit ] ) $$intent = greeting   
+
+	#! bye
+# commentedByPau 	a: (~emogoodbye  ) $$intent = bye   
+
+	#! I'm going to go now
+# commentedByPau 	a: (!? I *~3 ["leave you" go] *~2  [now soon] > )  $$intent = bye  
+
+	#! are you for real
+# commentedByPau 	a: (~emoskeptic  ) $$intent = skeptic  
+
+	#! thanks
+# commentedByPau 	a: (~emothanks) $$intent = thanks  
+
+	#! gracias
+	a: (~gracias) $$intent = gracias
+
+	#! I'm sorry
+# commentedByPau 	a: (~emoapology) $$intent = apology  
+
+	#! ugh
+# commentedByPau 	a: (~emodisgust) $$intent = disgust  
+
+	#! beats me
+# commentedByPau 	a: (~emoignorance) $$intent = ignorance  
+
+	#! please 
+# commentedByPau 	a: (~emobeg) $$intent = beg  
+
+	#! I'm confused
+# commentedByPau 	a: (~emomisunderstand ) $$intent = you_misunderstand  
+
+	#! but you said
+# commentedByPau 	a: (~emoprotest ) $$intent = you_protest  
+
+	#! ouch
+# commentedByPau 	a: ([~emolaugh ~emosad ~emohappy  ~emosurprise ~emobored  ~emopain ~emocurse] ) $$intent = i_emotion   
+
+	#! me too
+# commentedByPau 	a: (~emomutual) $$intent = i_mutual 
+
+	#! I love you
+# commentedByPau 	a: (![correct right ?] ~mainsubject=I _*~2 ~goodness _*~2 you ) $$intent = i_like_you   
+
+	#! you are sweet
+# commentedByPau 	a: (![correct right ?] ~mainsubject=you < * ~mainverb=be _*~2 ~goodness ) $$intent = i_like_you  
+
+	#! I hate you
+# commentedByPau 	a: (![wrong ?] ~mainsubject=I _*~2 ~badness _*~2 you ) $$intent = i_dislike_you   
+
+	#! you are stupid
+# commentedByPau 	a: (![wrong ? ~bodily_states]  ~mainsubject=you < *  ~mainverb=be _*~2 ~badness ) $$intent = i_dislike_you  
+
+	#! I like peas
+# commentedByPau 	a: (!? << ~mainsubject=I  ~goodness  ~mainobject >> ) $$intent = i_like_something  
+
+	#! I hate peas
+# commentedByPau 	a: (!? ~mainsubject=I < * ~badness < * ~mainobject ) $$intent = i_dislike_something   
+ 
+# user perspective
+
+	#! what color is my shirt?
+# commentedByPau 	a: (? [mine my]) $$intent = my_question
+  
+	#! people like my coat
+# commentedByPau 	a: (!? !~mainsubject=you < * my < * ~mainverb ) $$intent = my_fact  
+
+	#! Am I the best player?
+# commentedByPau 	a: (? ['I 'me]) $$intent = i_question   
+
+	#! I think the world is flat.
+# commentedByPau 	a: (!? ~mainsubject=I < * [believe think hope like dislike  (take * on ) ] ) $$intent = i_opinion 
+ 
+	#! I eat worms
+# commentedByPau 	a: (!? ~mainsubject=I < * ~mainverb ) $$intent = i_fact  
+
+# bot perspective
+
+	#! will you go with me?
+# commentedByPau 	a: (? !not  < [~tell would will could can might ] * 'you ) $$intent = you_request         
+
+	#! could we go?
+# commentedByPau 	a: (? [can shall could might] we) $$intent = you_request  
+
+	#! Can I hit you?
+# commentedByPau 	a: (? < [can may shall might could ] 'I) $$intent = you_request 
+ 
+	#! what do you think?
+# commentedByPau 	a: (? << you  [~OPINION_VERBS ~opinion  like hope wish  opinion view attitude interest  hate dislike position viewpoint ] >> ) $$intent = you_opinion   
+
+	#! what color is your shirt?
+# commentedByPau 	a: (? your)  $$intent = your_question  
+
+	#! what color are you?
+# commentedByPau 	a: (? 'you) $$intent = you_question  
+ 
+	#! Your coat is blue
+# commentedByPau 	a: (!? your < * ~mainverb ) $$intent = your_fact   
+
+	#! You walk home on Sundays
+# commentedByPau 	a: (!? ~mainsubject=you < * ~mainverb ) $$intent = you_fact   
+
+# world perspective
+
+	#! why do people swim?
+# commentedByPau 	a: (? < ~why  ) $$intent = why 
+
+	#! how do people swim?
+# commentedByPau 	a: (?  < how  ) $$intent = how  
+
+	#! where do people swim?
+# commentedByPau 	a: (?  < where  ) $$intent = where  
+
+	#! who do people swim?
+# commentedByPau 	a: (?  < who  ) $$intent = who 
+
+	#! when do people swim?
+# commentedByPau 	a: (?  < when  ) $$intent = when 
+
+	#! what will land in the river?
+# commentedByPau 	a: (? ![tell show ~list I you we who ~why when where how]   << ~mainsubject ~mainverb >> ) $$intent = world_question  
+
+	#! is the sky blue?
+# commentedByPau 	a: (? ![I you we] ) $$intent = world_question  
+
+	#! Bees fly.
+# commentedByPau 	a: (!?  ![you I we] * ~mainsubject < * ~mainverb ) $$intent = world_fact   
+
+# commentedByPau 	a: () $$intent = ackgrunt  
+
+topic: ~HONEST_RESPONSE system  () # react to intent of user input
+
+u: () ^respond(~INTENT)	# compute the intent of user input
+
+# commentedByPau u: ($$intent==disagree ) [OK. You disagree with me.] [Why are you disagreeing with me? ] 
+# commentedByPau     [Do you think I care if you disagree? ] 
+# commentedByPau     [OK. So we disagree. ] 
+# commentedByPau     [No? Why don't you agree with me?]
+# commentedByPau     [No? And why not?]
+# commentedByPau     [No? Are you sure?]
+# commentedByPau     [No? How come?]
+# commentedByPau    [No? How interesting. ]
+# commentedByPau    [No? Please explain.]
+# commentedByPau    [No? Why do you say that?]
+# commentedByPau    [Why no?]
+# commentedByPau    [Why not?] 
+# commentedByPau    [Care to explain further?]
+# commentedByPau    [I won't argue about this.]
+
+# commentedByPau u: ($$intent==agree ) [OK. We agree. ] [So nice that we agree. ] [Are we actually agreeing? ] [You agree with me? ] 
+# commentedByPau    [Yes. ] 
+# commentedByPau    [All right!]
+# commentedByPau    [Are you sure?]
+# commentedByPau    [Cool.]
+# commentedByPau    [You seem certain.]
+# commentedByPau    [You seem really positive.]
+# commentedByPau    [Indeed.]
+
+# commentedByPau ?: ($$intent==why ) [How would I know? ] 
+# commentedByPau    [I'm sorry. I don't know why. ] 
+
+# commentedByPau u: ($$intent==i_request how ) [How would I know? ] 
+# commentedByPau    [I'm sorry. I don't know how. ] 
+
+# commentedByPau u: ($$intent==i_request what ) [I don't know what. ] 
+# commentedByPau    [I'm sorry. I don't know. ] 
+
+# commentedByPau ?: ($$intent==i_request ) [How would I know? ] 
+# commentedByPau    [I'm sorry. I don't know.] 
+
+# commentedByPau ?: ($$intent==how ![about much]) [How would I know? ] 
+# commentedByPau    [I'm sorry. I don't know how. ] 
+
+# commentedByPau ?: ($$intent=how about ) [What about that?]
+
+# commentedByPau ?: ($$intent==how much) [More than I can afford. ][Too much.]
+
+# commentedByPau ?: ($$intent==where ) [Somewhere. ]
+# commentedByPau    [I'm sorry. I don't know. Somewhere. ] 
+
+# commentedByPau ?: ($$intent==when ) [Sometime. ]
+# commentedByPau    [I'm sorry. I don't know when. ] 
+
+# commentedByPau ?: ($$intent==who ) I'm sorry. I don't who. 
+
+# user perspective
+
+# commentedByPau u: ($$intent==i_request )  [I have no control over you. ] [b: Why ask me? ] [I don't think I can help you. ] [Thank you for asking, but no. ] 
+# commentedByPau    [Hardly. ] [Not on your life. ] 
+# commentedByPau    [You have my OK, if it's of any value. ] 
+# commentedByPau    b: (* ) Well, I'm the wrong person to ask. 
+# commentedByPau        c: (who ) [Anybody but me. ] [Someone who knows more than I do. ] 
+
+# commentedByPau ?: ($$intent==i_question ) [I don't know that much about it. ] [I don't know.] [Beats me.]
+# commentedByPau    [How would I know?]
+# commentedByPau    [I'm sorry. I don't know. ] 
+
+# commentedByPau ?: ($$intent==my_question )  [I don't know about your stuff. ] [b: Did you tell me already and I forgot? ] 
+# commentedByPau    [I'm sorry. I don't know. ] 
+# commentedByPau    b: (~yes ) Sorry. I forgot. 
+# commentedByPau    b: (~no ) Good. I thought I had forgotten. 
+# commentedByPau		c: (often) More and more these days.
+
+# commentedByPau u: ($$intent==i_like_you ) [Thank you. ] [I like you too. ] [b: I enjoy talking to you. ] [Have you always liked me? ] 
+# commentedByPau    [I'm glad. ] 
+# commentedByPau	b: (~why) Because I like to talk and you are providing me an opportunity to do so.
+
+# commentedByPau u: ($$intent==i_dislike_you ) [So be it. ] [I don't like you much either. ] [You keep this up and I'll hang up. ] [Why do you dislike me? ] 
+# commentedByPau    [That's not news from you. ] 
+# commentedByPau    [I'm sorry to hear that. ] 
+
+# commentedByPau u: ($$intent==i_opinion ) [That's nice. ] [Lots of people have that opinion. ] [You really think that? ] [That's a common opinion. ] [I share that opinion. ] 
+# commentedByPau    [So you have an opinion. ] 
+
+# commentedByPau u: ($$intent==i_fact  you ) [Interesting. ] [Thanks for sharing that with me. ][Thanks for telling me that. ] [I never would have guessed. ] [I didn't know that. ] [Does everyone know that about you? ] 
+# commentedByPau    [Do I really want to know that? ] [Tell me more about yourself.]
+
+# commentedByPauu: ($$intent==i_fact  !you ) [Interesting. ] [Thanks for telling me that. ][Thanks for sharing that with me. ] [I enjoy learning more about you. ] [I never would have guessed. ] [I wouldn't have thought that about you. ] [I didn't know that. ] 
+
+# commentedByPauu: ($$intent==i_fact ) [Cool. ] [OK. ] [Indeed.][That's nice.][Fine.][Right.][Yup.]
+
+# commentedByPauu: ($$intent==i_like_something )  [That's nice. ] [Great.]
+
+# commentedByPauu: ($$intent==i_dislike_something ) [Well, you can't like everything. You show good taste. ] [I'm not wild about that either. ] [b: Have you tried to look for the good in it? ] 
+# commentedByPau     [OK. ] 
+# commentedByPau     b: (~yes ) Then feel free to dislike it. 
+# commentedByPau     b: (~no ) You really should try it before deciding. 
+
+# bot perspective
+
+# commentedByPau u: ($$intent==you_request < !~qwords ) [Sure. Why not? ] [How about a bit later on? ] [Maybe some other time.] [OK.][Sure.]
+# commentedByPau     [I'm sorry. I can't do that. ] 
+
+# commentedByPau u: ($$intent==you_request ~why ) [How would I know? ] [b: Do I need a reason? ] [I don't need a reason. ] 
+# commentedByPau     [I'm sorry. I don't know why. ] 
+# commentedByPau     b: (~yes ) No. I don't need a reason. 
+
+# commentedByPau ?: ($$intent==you_request  when ) [b: Sometime. ] [When would you like? ] 
+# commentedByPau     [When I feel like it. ] 
+# commentedByPau     [I'm sorry. I don't know when. ] 
+# commentedByPau     b: (what ) I said sometime because I don't know exactly when. 
+
+# commentedByPau ?: ($$intent==you_request  where ) [b: Somewhere. ] [Where would you like? ] 
+# commentedByPau     [I'm sorry. I don't know were. ] 
+# commentedByPau     b: (what ) I said somewhere because I don't know exactly where. 
+
+# commentedByPau u: ($$intent==you_request who ) [Nobody you'd know. ] [Why do you want to know who? ] 
+# commentedByPau     [I'm sorry. I don't know who. ] 
+# commentedByPau     a: (try ) No, I won't try you. 
+
+# commentedByPau u: ($$intent==you_opinion ) [Why would I know anything about that? ]
+# commentedByPau 	 [I'm in favor of it. ] 
+# commentedByPau     [I'm sorry. I have no opinion. ] 
+# commentedByPau 	[I don't think it's a good thing.]
+# commentedByPau 	[I think it's bad.]
+
+# commentedByPau ?: ($$intent==you_question )  [I don't know. ] [I don't remember. ] [I forget. ] [You think I should know? ] 
+# commentedByPau    [I'm sorry. I don't know. ] [ I can't make up my mind on that.][It's hard to explain.]
+# commentedByPau 	[You should ask my friends. ] 
+ 
+# commentedByPau ?: ($$intent==your_question )  [I'm sorry. I don't know. ] [I don't really keep track of that.] [I don't remember.][I forget.][It's hard to explain.]
+
+# commentedByPau u: ($$intent==you_mutual ) [So we are alike there.][We are so similar.][Cool.][OK.][][][]
+
+# world perspective
+
+# commentedByPau ?: ($$intent==world_question )
+# commentedByPau       [I don't know. ] 
+# commentedByPau 	[I'll have to think about that.]
+# commentedByPau 	[I don't know anything about that.] 
+# commentedByPau 	[I don't remember.][I forget.]
+# commentedByPau     [Don't know. ]  
+# commentedByPau     [I'm sorry. I don't know. ] 
+
+# commentedByPau s: ($$intent==world_fact ) reuse(GRUNT)
+
+# emotions
+
+# commentedByPau s: ($$intent==you_misunderstand )
+# commentedByPau 	[What is it you don't understand? ] 
+# commentedByPau 	[I'm not sure I can be any clearer. ] 
+# commentedByPau     [I'm sorry. I can't explain it better. ] 
+
+# commentedByPau s: ($$intent==you_protest )  [So I changed my mind. ] [b: You want to hold me to what I said before? ] 
+# commentedByPau     [ I'm sorry. I changed my mind. ] 
+# commentedByPau     b: (~yes ) That's not fair.
+# commentedByPau     b: (~no ) Thank you. You are very kind. 
+
+# commentedByPau u: ($$intent==skeptic ) [Why do you doubt this?] 
+
+# commentedByPau u: ($$intent==thanks ) [You're welcome.] 
+u: ($$intent==gracias) [De nada.] [Un placer ayudarle.]
+ 
+# commentedByPau u: ($$intent==beg ) [You don't need to beg.] 
+
+# commentedByPau u: ($$intent==ignorance ) [Many are the things we don't know.] 
+
+# commentedByPau u: ($$intent==apology ) [Apology accepted.] 
+
+# commentedByPau u: ($$intent==disgust) [Indeed.][Truly.][Yes.][Pretty awful.][Gross.]
+
+# commentedByPau u: ($$intent==bye ) 
+
+# commentedByPau u: ($$intent==greeting ) 
+
+# commentedByPau u: GRUNT($$intent==ackgrunt) [Cool.][OK. ][Indeed.][Fine.][Right.][][][]
+
+

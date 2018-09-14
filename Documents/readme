@@ -1,0 +1,36 @@
+
+Tunel:
+	sergi@sergi-HP:~$ ssh d5lnx29  -L 11111:localhost:11111
+	contrasenya: besmart13
+
+
+> sudo lsof -i :8080
+COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME
+java 4474 juan 137u IPv6 61764 0t0 TCP *:http-alt (LISTEN)
+Luego matamos el proceso con
+> kill -9 4474
+
+
+Quan dona 403 error a la pagina web
+chmod a+rx .
+ls -lat
+
+
+Connexio https --> connexió http segura. Chrome requereix de connexions segures per tal de poder utilitzar el micrcrofon
+	https://d5imas2.upc.es/asr-html/CaixaBank.html
+
+**Arrancar server:
+	Després a una finestra de terminal executar "ssh -L 8887:localhost:8887 d5lnx29", anar a la carpeta Pau/paet/java_poc i des d'aquí (IMPORTANT, només funciona si ho executes des d'aquí, perquè si no no troba l'arxiu palabras.txt) fer "java -jar dist/paet.jar".
+
+Després a una altra finestra de terminal connectarse normal amb l'ssh i iniciar chatscript amb "./LinuxChatScript64 local:1024".
+
+I amb el navegador accedir a "http://147.83.50.73/asr-html/CaixaBank.html".
+
+En principi hauria de funcionar. Quan es clica "OpenChat" a la finestra de terminal on s'executa el servidor hauria d'aparèixer la nova connexió.
+
+Aquí intento fer-li preguntes q necessitin de la base de dades però per ara sempre m'ha fallat. Li he enviat un correu al Gerard pq s'ho miri.
+
+Machine learning:
+	-https://medium.freecodecamp.com/chatscript-for-beginners-chatbots-developers-c58bb591da8#.23yshoauy
+	
+	-

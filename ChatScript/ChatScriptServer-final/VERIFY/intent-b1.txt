@@ -1,0 +1,8 @@
+﻿     ~intent.0.1 #! no
+     ~intent.0.1 #! yes
+     ~intent.0.1 #! hello
+     ~intent.0.1 #! bye
+     ~intent.0.1 #! I'm going to go now
+     ~intent.0.1 #! are you for real
+     ~intent.0.1 #! thanks
+     ~intent.0.1 #! gracias

@@ -1,0 +1,51 @@
+USERS/topic_ivan_dory.txt
+jul2116 Dec02'16-17:59:50 Dec16'16-16:45:16 0 |
+5 13 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~introductions ~keywordless ~gastos ~sald #pending
+~preguntas + 1 s-YXb ea 3 0 0 
+~gastos + 1 KSKgDIs*Ok3 ia 7 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=ivan: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=ivan
+$cs_bot=Dory
+$cs_randindex=2631
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hola
+ hola
+ Cuanto he gastado en Telefonica el ultimo mes?
+ _build dory
+ Hola
+ Qué tal?
+ Cuanto he gastado el último mes?
+ Donde puedo ver mi saldo?
+ Cual es mi saldo?
+ Mi saldo
+ ¿Cuanto he gastado en Endesa el último mes'
+ ¿Cuanto he gastado en endesa?
+ cuanto he gastado en endesa?
+#`end user
+ Bienvenido!
+ Hola de nuevo.
+ Hola!
+ Hola de nuevo.
+ DATABASE C00
+ ¿Tienes alguna pregunta?
+ No entiendo lo que me quiere decir.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ Hola de nuevo.
+ No comprendo lo que ha dicho.
+ DATABASE C00
+ DATABASE C03
+ DATABASE C03
+ No consigue entender lo que me está diciendo.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ No consigue entender lo que me está diciendo.
+#`end chatbot

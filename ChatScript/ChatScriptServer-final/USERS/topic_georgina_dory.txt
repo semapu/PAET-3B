@@ -1,0 +1,35 @@
+USERS/topic_georgina_dory.txt
+jul2116 Dec07'16-22:04:07 Dec08'16-01:07:50 1481145765-8.1.0 |
+1 126 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~preguntas ~gastos ~informacio ~ingresar ~recibos ~sald ~tarjeta ~keywordless ~prestamos #pending
+~informacio + 1 FgCN@ ia v 0 0 
+~preguntas + 1 s-YXb ea 1 0 0 
+~gastos + 1 zr#^O ia k 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=georgina: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=Georgina
+$cs_bot=Dory
+$cs_randindex=647
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ ¿Puedo configurar a Dory?
+ ¿Cómo puedo hacer una reclamación?
+ ¿Han aprobado mi solicitud?
+ exit
+ (quit)
+ quit
+#`end user
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+#`end chatbot

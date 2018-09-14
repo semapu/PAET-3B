@@ -1,0 +1,148 @@
+# this is the topic for anything that has no obvious topic. 
+# it is called directly from the control script when everything else fails.
+
+topic: ~keywordless keep repeat()
+
+#! what is your name 
+u: ( ~como te llamas ) Me llamo Dory.
+u: ( dime tu nombre ) Me llamo Dory.
+u: ( ~cual es tu nombre ) Me llamo Dory.
+
+u: (Hola) 
+Hola de nuevo.
+	a: (Hola) 
+		¿Por qué repite usted la palabra "hola"?
+			b: (Hola) 
+				¿No cree que ya es suficiente?
+
+u: ( [quien quién] eres)
+Soy Dory, un smarbot diseñado para ayudarle en sus temas de banca.
+
+u: ( ~repeatme) 
+¿Por qué repite lo que yo digo?
+
+# Gracias
+u: (~gracias)
+[De nada!]
+[Un placer.]
+
+u: (<< número numero telefono caixa>>) 
+El número de atención al cliente de la Caixa es el 900 323 232
+
+u: (puntos estrella)
+Actualmente tiene 0 puntos estrella.
+
+u: (<< domiciliar nómina >>)
+NO FUNCIONA EL LINK
+
+u: (<< edad mínima cuenta >>)
+La edad mínima varia en función del tipo de cuenta que se quiere solicitar.
+
+u: (<< penalización domiciliar nómina >>)
+Si tiene...
+
+u: (<< IBAN mi cuenta >>)
+El IBAN de su cuenta es el 
+
+u: (<< dar alta cuenta >>)
+¿Es usted cliente de de CaixaBank?
+	a: (~si) Como es usted cliente...
+	a: (~no) Ya que usted no es cliente...
+
+u: (<< dar alta otro titular >>) 
+Para dar de altra a otro titular...
+
+u: (cuenta compartida) 
+Para crear una cuenta compartida...
+
+u: (~sacar * ~saldo * [~extranjero "~otro país"])
+Para sacar dinero en el extranjero...
+
+# Gerard...
+# Que deberia saber sobre el tae
+u: (~cuanto ~deber ~saber ~sobre el tae)
+El tae es...
+
+# Como puedo actualizar mis datos
+u: (~como ~poder actualizar [los mis] [dato datos])
+Para actualizar sus datos debe...
+
+# Cómo acceder al Servicio de Línea Abierta
+u: (~como * ~acceder [al "a los"] [servicio servicios] de * ~linea Abierta)
+Para acceder a la Linea Aierta...
+
+u: (ventajas * cliente * internet)
+Todos los nuevos clientes por internet tendrán gratis:\n
+- Cuenta corriente sin comisiones de mantenimiento ni de administración.
+\n
+- Tarjeta sin cuotas anuales.
+\n
+- Acceso a Línea Abierta, la banca a distancia de CaixaBank.
+\n
+- Red de más de 9.600 cajeros gratis para clientes en reintegros con tarjetas comercializadas por CaixaBank.
+\n
+
+u: (rellenado * formulario * no * correo)
+Si hace menos de 72 horas que rellenaste el formulario, recibirás los documentos en tu correo electrónico en las próximas horas.
+\n
+Si hace más de 72 horas y aún no los has recibido:
+\n
+- Comprueba la carpeta  de correo no deseado/spam
+\n
+- Contacta con nosotros en el teléfono 902 322 492 para validar que el correo electrónico que indicaste en la solicitud es correcto.
+
+u: (recibido * e-mail * hacer) 
+Comprueba que los documentos son correctos y fírmalos. Una vez hecho esto, por favor, ponte en contacto llamando al teléfono 902 322 492 de lunes a viernes entre las 9 y las 21 h para que un mensajero pase a recogerlos donde y cuando tú decidas sin coste alguno para ti.
+
+u: (consultar * estado * solicitud)
+Podrás conocer el estado de tu solicitud en cualquier momento desde aquí: \n
+http://www.laCaixa.es/consultarestado
+
+u: (no * utilizar * cuenta)
+Podrás consultar el estado de tu solicitud desde aquí: http://www.laCaixa.es/consultarestado para conocer los próximos pasos que debes realizar.
+\n
+Si hace más de dos semanas que enviaste la documentación y todavía no has recibido ningún comunicado con los próximos pasos, por favor, comprueba la bandeja de correo no deseado de tu correo electrónico para validar si te hemos enviado un e-mail.
+\n
+Podrás acceder a tu nueva cuenta una vez hayamos recibido toda la documentación completa.
+
+u: (acceder * línea abierta) 
+Una vez que el alta se haya completado correctamente, recibirás vía correo electrónico el identificador de acceso a Línea Abierta. Para poder acceder a este servicio, deberás introducir la clave (PIN1) que elegiste en el momento de rellenar tu solicitud en www.laCaixa.es
+\n
+Si no recuerdas la clave (PIN1), deberás dirigirte a cualquiera de nuestras oficinas para que te faciliten una clave nueva.
+\n
+Para poder operar, recibirás vía correo ordinario la tarjeta de coordeComs.
+
+u: (problemas * subir * imágenes) 
+Si tienes problemas para subir la imagen de tu documento de identidad, consulta las recomendaciones para subir la imagen para garantizar que podamos validar correctamente tu documentación.
+
+u: (no * imágenes * documento) 
+Si estás realizando tu solicitud a través de tablet, la mayoría de modelos de tablet permiten hacer la captura de imagen al seleccionar la opción “Examinar” del formulario.
+\n
+Si estás realizando tu solicitud a través de ordenador de sobremesa o portátil, con el botón “Examinar” podrás seleccionar una imagen que tengas guardada en tu ordenador.  Puedes generar la imagen de tu documento de identidad a través de algún medio externo como cámara de fotos, smartphone o escáner, y guardarla en tu ordenador para completar este formulario de solicitud. Algunos ordenadores disponen de cámaras tipo webcam o similares con la que también podrías realizar la captura de tu documento de identidad.
+
+u: (debo * informar * cuenta * otra entidad) 
+Es necesario disponer de una cuenta en otra entidad para poder realizar el alta como cliente. Mediante esta cuenta confirmaremos, a distancia, tus datos de identidad.
+\n
+No realizaremos ningún cargo en tu cuenta. Este proceso de validación es totalmente gratuito. El número de cuenta que nos indiques lo utilizaremos únicamente con la finalidad de comprobar tu identidad.
+
+u: (no * cuenta * otra entidad)
+Es necesario disponer de una cuenta en otra entidad para poder realizar el alta como cliente. Mediante esta cuenta confirmaremos, a distancia, tus datos de identidad.
+
+u: (~adios)
+Encantada de haberle ayudado. ¡Hasta pronto!
+
+u: ([~sí hola])
+[¿Tiene alguna pregunta?]
+[¿Le puedo ayudar en algo?]
+	a: (~sí) Dígame.
+		b: (~sí) Adelante.
+			c: (~sí) 
+			[Si sólo me dice esto no puedo ayudarle.]
+			[Me gustaría poder ayudarle.]
+	a: (~no) De acuerdo, me quedo esperando por si más tarde le puedo ayudar.
+
+#!	a: ( hola ) ¿Por qué repite la palabra "hola"?
+#! yes, if user just says OK or yes or continue, then move along and give control to bot
+#!u: (~sí) ^keep() $$topic = ~preguntas # current topic gets to continue
+
+	

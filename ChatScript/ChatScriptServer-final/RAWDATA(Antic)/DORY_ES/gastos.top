@@ -1,0 +1,15 @@
+TOPIC: ~GASTOS repeat deprioritize (~gastar)
+
+u: (~cuánto * ~gastar * _{~tipo_gasto})
+DATABASE C00 '_0
+
+u: (~cuanto * ~gastar )
+DATABASE
+
+# Me puedo gastar 1000€
+u: (~poder ~gastar)
+DATABASE C03
+
+u: (~mostrar todas * ~gastar)
+DATABASE C00
+

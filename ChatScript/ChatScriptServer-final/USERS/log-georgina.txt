@@ -1,0 +1,127 @@
+﻿Start: user:georgina bot:dory ip: rand:647 (~introductions) 0 ==> Bienvenido!  When:Dec07'16-22:04:07 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec03'16-13:30:21 0:Dec07'16-22:04:07 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:georgina bot:dory ip: (~preguntas) 1   build dory ==> ¿Tienes alguna pregunta?  When:Dec07'16-22:04:28 Why:~preguntas.1.0.~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~preguntas) 2   �muestrame el saldo actual ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:05:37 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 3   muéstrame  el saldo actual ==> DATABASE C03  When:Dec07'16-22:06:38 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 4   ¿cuanto saldo tengo? ==> DATABASE C03  When:Dec07'16-22:09:09 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 5   Muéstrame todas mis facturas ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:09:47 Why:~control.1.0   F:3 
+Respond: user:georgina bot:dory ip: (~ingresar) 6   me han ingresado la nómina? ==> DATABASE C01 nómina  When:Dec07'16-22:11:11 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 7   �Quiero saber si he cobrado ==> DATABASE C01  When:Dec07'16-22:12:04 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 8   ¿Me cobrarán si hago una transferéncia? ==> ¿Tiene alguna pregunta?  When:Dec07'16-22:12:59 Why:~keywordless.31.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 9    ¿Me cobrarán si hago una transferéncia? ==> Dígame.  When:Dec07'16-22:13:11 Why:~keywordless.31.1   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 10   ¿cuanto cuestra hacer una transferéncia? ==> No comprendo lo que ha dicho.  When:Dec07'16-22:15:20 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 11   ¿Cuanto cuesta hacer una transferencia? ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:16:01 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 12   Quiero hacer un ingreso ==> DATABASE C01  When:Dec07'16-22:17:29 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 13   Ver últimas facturas ==> No comprendo lo que ha dicho.  When:Dec07'16-22:18:32 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 14   ¿Cual es el cajero más cercano? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-22:22:07 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~ingresar) 15   ¿Cúal es el cajero más cercano? ==> No consigue entender lo que me está diciendo.  When:Dec07'16-22:22:45 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~ingresar) 16   ¿Cuál es mi sucursal?  ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:27:30 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 17   Díme el telefono de laCaixa ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:27:54 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 18   Díme el teléfono de atención al cliente de la Caixa ==> No consigue entender lo que me está diciendo.  When:Dec07'16-22:28:21 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 19   He olvidado el PIN ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-22:28:47 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~gastos) 20   ¿Cuánto he gastado en Zara? ==> DATABASE C00  When:Dec07'16-22:30:25 Why:~gastos.0.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~gastos) 21   Mostrar gastos en Zara ==> No consigue entender lo que me está diciendo.  When:Dec07'16-22:31:02 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~gastos) 22   quiero ver gráficamente mis gastos ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:31:48 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~gastos) 23   Ver gráficamente gastos de transporte ==> No comprendo lo que ha dicho.  When:Dec07'16-22:35:47 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~gastos) 24   Muéstrame los cajeros de Barcelona ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-22:38:24 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 25   ¿He cobrado ya? ==> DATABASE C01  When:Dec07'16-22:44:41 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 26   Quiero ver todas las compras que haya realizado en ropa en dos mil trece ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:45:53 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~ingresar) 27   ¿He gastado mucho este més? ==> No comprendo lo que ha dicho.  When:Dec07'16-22:48:11 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 28   ¿Tengo dinero en la cuenta? ==> No comprendo lo que ha dicho.  When:Dec07'16-22:48:45 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~ingresar) 29   ¿tengo deudas? ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:48:52 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 30   ¿estoy en número rojos? ==> No consigue entender lo que me está diciendo.  When:Dec07'16-22:49:04 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~informacio) 31   Quiero contratar un plan de pensiones, damé información ==> ¿Qué información desea obtener?  When:Dec07'16-22:51:04 Why:~informacio.0.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~informacio) 32   de plan de pensiones ==> No comprendo lo que ha dicho.  When:Dec07'16-22:51:15 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~informacio) 33   Quiero contratar un plan de pensiones ==> No comprendo lo que ha dicho.  When:Dec07'16-22:51:24 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 34   ¿Cuantos puntos estrella tengo? ==> Actualmente tiene 0 puntos estrella.  When:Dec07'16-22:53:37 Why:~keywordless.8.0.~control.1.0   F:0 
+Respond: user:georgina bot:dory ip: (~keywordless) 35   No me funciona la linea abierta ==> No consigue entender lo que me está diciendo.  When:Dec07'16-22:54:21 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 36   Quiero personalizar mi targeta ==> No entiendo lo que me quiere decir.  When:Dec07'16-22:54:56 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 37    Quiero personalizar mi tarjeta ==> Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight  When:Dec07'16-22:55:17 Why:~tarjeta.2.0.~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 38   ¿Cuesta dinero personalizar mi targeta? ==> No comprendo lo que ha dicho.  When:Dec07'16-22:55:38 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 39   ¿Cuesta dinero personalizar mi tarjeta? ==> Para personalizar su tarjeta, debe ir al siguiente enlace: http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777216/121406c1bc2dab-947c-42db-9ddd-6290bf5675d1/180093770/HTML/180093770#_highlight  When:Dec07'16-22:56:06 Why:~tarjeta.2.0.~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 40   ¿Puedo domicilar mi nómina? ==> No consigue entender lo que me está diciendo.  When:Dec07'16-22:57:58 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 41    ¿Puedo domiciliar mi nómina? ==> NO FUNCIONA EL LINK  When:Dec07'16-22:58:18 Why:~keywordless.9.0.~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 42   Visualizar gastos en cuotas de los últimos cinco años ==> No consigue entender lo que me está diciendo.  When:Dec07'16-22:59:05 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 43   ¿He pagado la sscripción al Marca? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-23:00:01 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 44   ¿He pagado la suscripción al Marca? ==> No comprendo lo que ha dicho.  When:Dec07'16-23:00:17 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 45   ¿Me han cobrado los libros? ==> DATABASE C01  When:Dec07'16-23:00:32 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 46   ¿He cobrado el paro? ==> DATABASE C01  When:Dec07'16-23:01:02 Why:~ingresar.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 47   ¿Cuánto he retirado del cajero? ==> No comprendo lo que ha dicho.  When:Dec07'16-23:01:18 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~ingresar) 48   Ver mis gastos en Marzo  ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-23:01:50 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 49   ¿Cuantos recibos tengo pendientes? ==> Puede especificar que tipo de recibo desea ver?  When:Dec07'16-23:02:23 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 50   de teleéfono ==> No comprendo lo que ha dicho.  When:Dec07'16-23:02:36 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 51   Quiero cambiar el número de cuenta  ==> No comprendo lo que ha dicho.  When:Dec07'16-23:04:00 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 52   ¿Cómo pagar impuestos? ==> No consigue entender lo que me está diciendo.  When:Dec07'16-23:04:29 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 53   Ver el recibo de este mes por el RACC ==> Puede especificar que tipo de recibo desea ver?  When:Dec07'16-23:05:07 Why:~recibos.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 54   RACC ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-23:05:16 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 55   Coche ==> No consigue entender lo que me está diciendo.  When:Dec07'16-23:05:24 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~recibos) 56   Quiero contratar una póliza ==> No entiendo lo que me quiere decir.  When:Dec07'16-23:06:17 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~recibos) 57   Quiero información de Seguros la Caixa ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-23:06:48 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 58   ¿Cuánto dinero tengo? ==> DATABASE C03  When:Dec07'16-23:07:24 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 59   Dime el saldo actual ==> DATABASE C03  When:Dec07'16-23:07:41 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 60    tasa de interés que me cobrará por el saldo ==> DATABASE C03  When:Dec07'16-23:08:06 Why:~sald.0.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 61   Quiero traspasar mi cuenta ==> No consigue entender lo que me está diciendo.  When:Dec07'16-23:08:23 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~sald) 62   �Ver mis últimos movimientos ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-23:17:01 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 63   No me permite consultar mis cuentas ==> No consigue entender lo que me está diciendo.  When:Dec07'16-23:19:51 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 64   Me han robado la targeta ==> No entiendo lo que me quiere decir.  When:Dec07'16-23:21:45 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~sald) 65   ¿Cuánto he ganado este mes? ==> No entiendo lo que me quiere decir.  When:Dec07'16-23:22:54 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 66    Me han robado la tarjeta ==> Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de tarjetas 900,444,333 o por Línea Abierta, si dispone de este servicio.  When:Dec07'16-23:23:09 Why:~tarjeta.1.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 67   Quiero hacerme una tarjeta de crédito ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec07'16-23:23:40 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 68   ¿Cuantas tarjetas tengo? ==> No comprendo lo que ha dicho.  When:Dec07'16-23:24:17 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 69   Quiero darme de baja ==> No consigue entender lo que me está diciendo.  When:Dec07'16-23:24:38 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 70   Puedo anular un pago ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:03:01 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 71   ¿Tengo mi tarjeta asegurada? ==> No comprendo lo que ha dicho.  When:Dec08'16-00:03:49 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 72   ¿Qué es el CCV? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:04:29 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 73   Quiero bloquear mis tarjetas ==> No comprendo lo que ha dicho.  When:Dec08'16-00:05:12 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 74   Quiero realizar una operación con PayPal ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:12:40 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 75   ¿Cuanto tarda en realizarse una transferencia? ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:13:32 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 76   ¿Cuantas operaciones he realizado este mes? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:15:31 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 77   ¿C�ómo cambio mi contraseña? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:16:13 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 78   Quiero información sobre línea abierta ==> No comprendo lo que ha dicho.  When:Dec08'16-00:17:04 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 79   Quiero pedir cita en una oficina la Caixa ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:17:55 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 80   He bloqueda mi linea Abierta ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:18:40 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 81   He bloqueado mi línea abierta ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:18:51 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~tarjeta) 82   ¿Quiero enviar SMS a mi móbil por cada pago ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:19:54 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 83   Quiero enviar SMS a mi móbil por cada pago ==> No comprendo lo que ha dicho.  When:Dec08'16-00:19:59 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 84   Quiero ver los cobros de la Seguridad Social ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:22:13 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 85   ¿Cúal es el seguro de permanencia de la Caixa? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:22:54 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 86   Mostrar todas mis cuentas ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:23:36 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~tarjeta) 87   ¿Cómo consigo mi número de cuenta? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:35:37 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 88   Quiero dar de alta a mi marido de la cuenta conjunta ==> ¿Es usted cliente de de CaixaBank?  When:Dec08'16-00:36:23 Why:~keywordless.13.0.~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 89   Sí ==> ¿Le puedo ayudar en algo?  When:Dec08'16-00:36:28 Why:~keywordless.31.0.~control.1.0   F:0 
+Respond: user:georgina bot:dory ip: (~keywordless) 90   Quiero dar de alta a mi marido de la cuenta conjunta ==> ¿Es usted cliente de de CaixaBank?  When:Dec08'16-00:36:39 Why:~keywordless.13.0.~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 91   Quiero abrir una cuenta para mi negocio ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:37:33 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 92   ¿Cómo consigo mi numero de cuenta? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:37:50 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 93   ¿Como puedo ahorrar? ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:39:11 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 94   Ver mis finanzas ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:39:40 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 95   Quiero hacerme cliente! ==> No comprendo lo que ha dicho.  When:Dec08'16-00:40:04 Why:~control.1.0   F:0 
+Respond: user:georgina bot:dory ip: (~keywordless) 96   Quiero hacerme un carnet Jove ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:40:42 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~keywordless) 97   Hay limite en mi tageta de crédito? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:41:08 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 98   ¿Hay límite en mi tarjeta de crédito? ==> No comprendo lo que ha dicho.  When:Dec08'16-00:41:25 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~keywordless) 99   Es seguro ver mis cuentas por Internet? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:41:42 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 100   Quiero solicitar un préstamo ==> NO FUNCIONA L'ENLLAÇ  When:Dec08'16-00:42:10 Why:~prestamos.2.0.~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 101   ¿Cómo mejorar mi péstamo�? ==> No comprendo lo que ha dicho.  When:Dec08'16-00:42:47 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 102   Cómo mejorar mi p�réstamo? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:43:03 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 103   Puedo anular mi p�réstamo sin compromiso? ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:43:41 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 104   Quiero un préstamo para mis estudios ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:44:28 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 105   ¿Quiero solicitar una hipoteca ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:45:02 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 106   ¿Tiene mi seguro cobertura de hogar? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:52:20 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 107   �Quiero olicitar un seguro ==> No comprendo lo que ha dicho.  When:Dec08'16-00:52:38 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 108   Quiero solicitar un seguro  ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:52:54 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 109   ¿Me queda algún préstamo por pagar? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:53:31 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 110   Muéstrame gráficamente el ahorro de este año ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:54:05 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 111   ¿Que ventajas me ofrece hacerme de la Caixa? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:56:19 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 112   Quiero información sobre fondos de inversión ==> No comprendo lo que ha dicho.  When:Dec08'16-00:56:48 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 113   ¿Quiero descargarme la app ==> No comprendo lo que ha dicho.  When:Dec08'16-00:57:19 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 114   Acceder a la bolsa abierta ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-00:57:54 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 115   Operar com mis acciones ==> No consigue entender lo que me está diciendo.  When:Dec08'16-00:58:17 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 116   Existe alguna promoción actualmente? ==> No entiendo lo que me quiere decir.  When:Dec08'16-00:58:53 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 117   Quiero contratar seguro Adeslas ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-01:00:07 Why:~control.1.0   F:0 
+Respond: user:georgina bot:dory ip: (~prestamos) 118   Quiero ver como sería mi plan de jubilación. ==> No comprendo lo que ha dicho.  When:Dec08'16-01:00:56 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 119   ¿Como usar este Bot? ==> No entiendo lo que me quiere decir.  When:Dec08'16-01:01:20 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 120   ¿No me reconoce la voz el Bot? ==> No consigue entender lo que me está diciendo.  When:Dec08'16-01:01:41 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 121   ¿Puedo configurar a Dory? ==> No entiendo lo que me quiere decir.  When:Dec08'16-01:01:58 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 122   ¿Cómo puedo hacer una reclamación? ==> No consigue entender lo que me está diciendo.  When:Dec08'16-01:02:47 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 123   ¿Han aprobado mi solicitud? ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Dec08'16-01:03:23 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 124   exit ==> No comprendo lo que ha dicho.  When:Dec08'16-01:07:43 Why:~control.1.0   F:1 
+Respond: user:georgina bot:dory ip: (~prestamos) 125   (quit) ==> No consigue entender lo que me está diciendo.  When:Dec08'16-01:07:48 Why:~control.1.0   F:2 
+Respond: user:georgina bot:dory ip: (~prestamos) 126   quit ==> No entiendo lo que me quiere decir.  When:Dec08'16-01:07:50 Why:~control.1.0   F:1 

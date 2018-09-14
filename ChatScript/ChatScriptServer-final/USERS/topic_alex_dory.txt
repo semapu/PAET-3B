@@ -1,0 +1,46 @@
+USERS/topic_alex_dory.txt
+jul2116 Dec14'16-13:56:20 Dec14'16-15:37:18 1481723705-14.1.0.8.1.0 |
+1 101 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~preguntas ~gastos ~ingresar ~prestamos ~sald ~movimientos ~oficina ~ahorro ~keywordless ~recibos #pending
+~ahorro + 1 Hi0=F gi j1 0 0 
+~preguntas + 1 s-YXb ea 0 0 0 
+~gastos + 1 KSKgDIs*Ok3 ia 5 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=alex: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=Alex
+$cs_bot=Dory
+$cs_randindex=786
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ cuantas cuentas tengo
+ como puedo añadir un titular a la cuenta
+ como realizo transferencias nacionales
+ como realizo transferencias internacionales
+ como puedo ahorrar
+ que es un prestamo
+ que es el tae
+ como puedo actualizar mis datos
+ como contrato una hipoteca
+ como puedo contratar una hipoteca
+ como recibo mi recibo
+#`end user
+ Para crear una cuenta compartida...
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ Para poder añadir o dar de baja titulares u otras figuras legales en su cuenta debe dirigirse a su Acceso al buscador de oficinas de CaixaBank.
+ Pasos a seguir: \n1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia. 2. Seleccione una cuenta origen. 3. Introduzca la cuenta destino. Entre las opciones disponibles deb
+ 1. Acceda a Cuentas > Internacional > Transferencias y traspasos > Al extranjero > Nueva emisión 2. Cumplimente el formulario con los siguientes datos que se le solicitan: \nDatos generales de la tra
+ No comprendo lo que ha dicho.
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ Para actualizar sus datos debe...
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No consigue entender lo que me está diciendo.
+ DATABASE C00
+#`end chatbot

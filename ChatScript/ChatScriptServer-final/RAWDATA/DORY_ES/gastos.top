@@ -1,0 +1,12 @@
+TOPIC: ~GASTOS repeat (~gastar)
+
+u: (~cuánto * ~gastar) ^keep()
+DATABASE C00
+
+# Me puedo gastar 1000€
+u: (~poder ~gastar) ^keep()
+DATABASE C03
+
+u: (~mostrar * ~gastar) ^keep()
+DATABASE C00
+

@@ -1,0 +1,74 @@
+TOPIC: ~AHORRO repeat(ahorro cuenta ~transferencia)
+
+# Cómo abro una cuenta de ahorros
+u: (~como * ~abrir [una unas] [cuenta cuentas])^keep()
+Para poder dar de alta una nueva cuenta a través de Línea Abierta, debe cumplir las siguientes condiciones:
+\n
+Ser usuario particular y residente en el Estado español.
+Tener activada la modalidad operativa de Línea Abierta. Si no es así, en el documento ¿Cómo puedo obtener la modalidad operativa de Línea Abierta? le informamos cómo obtenerla.
+Ser ya titular de alguna cuenta corriente o de ahorro de CaixaBank.
+Proceso de alta:
+\n
+Acceda a Cuentas > Solicitar nuevas cuentas.
+Pulse el botón "Contratar" del tipo de cuenta que desee contratar.
+En el formulario de alta deberá introducir los datos siguientes:
+Titularidad de la cuenta: usted es el titular único por defecto de la nueva cuenta, pero podrá añadir más titulares copiando la relación de titularidad de alguna de las cuentas de las que ya dispone. Para ello, marque la opción "Quiero añadir más titulares", y en la lista de relaciones contractuales que se le muestra, seleccione la que desee copiar (*).
+Podrá seleccionar la oficina gestora que desee.
+Marque la opción "Quiero una tarjeta de débito asociada a la nueva cuenta corriente" si desea asociar una nueva tarjeta de débito a su nueva cuenta. Podrá seleccionar si desea que se le envíe la tarjeta a su domicilio o si desea recogerla en la oficina gestora (la misma que ha especificado en el paso anterior).
+
+# Cómo puedo añadir un titular a la cuenta
+u: (~como * ~poder ~añadir [un unos] titular * a [la las] [cuenta cuentas])^keep()
+Para poder añadir o dar de baja titulares u otras figuras legales en su cuenta debe dirigirse a su Acceso al buscador de oficinas de CaixaBank.
+
+u: (~como ~hacer ~transferencia [nacional nacionales internacional internacionales])^keep()
+Pasos a seguir:
+\n
+1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia.
+2. Seleccione una cuenta origen.
+3. Introduzca la cuenta destino. Entre las opciones disponibles debe escoger una cuenta de otra entidad e introducir la cuenta en formato IBAN o CCC.
+4. Introduzca el importe de la transferencia.
+5. Introduzca los datos adicionales que desee (concepto, beneficiario). Si pulsa sobre el enlace "Informe los datos adicionales que desee" podrá informar más datos adicionales, entre ellos su identificación como remitente. Si lo requiere la cuenta origen y/o la cuenta destino estará obligado a informar los datos opcionales referencias Q43.
+6. Seleccione si desea enviar un aviso al beneficiario vía SMS o correo electrónico, conforme usted ha solicitado una transferencia a su favor. Esta opción tiene un precio de servicio asociado de 0,30 € por envio (impuestos indirectos no incluidos).
+A continuación, si desea recibir un justificante de la operación podrá marcar la casilla correspondiente.
+Antes de continuar con la operación, podrá leer detenidamente los Términos y Condiciones de la operación que desea realizar.
+Pulse el botón "Continuar".
+En la pantalla siguiente podrá visualizar un resumen de los datos que haya introducido. Una vez revisados estos datos, podrá confirmar la operación introduciendo la clave que se le solicite de su Tarjeta Línea Abierta.
+Una vez confirmada la operación se le mostrará la pantalla resultado, la cual podrá imprimir o guardar en formato pdf en su equipo.
+
+u: (~cuánto * ~costar * ~transferencia [nacional nacionales ])^keep()
+No hay diferencia entre transferencias nacionales e internacionales, la comision es la misma. Tenga en cuenta que transferencias a otras cuentas de La Caixa, no hay ningun tipo de comision
+\n
+                  							  %      Minimo
+Orden individual  							 0.40    3.95€
+Orden en transmisión o soporte magnético     0.30    3.00€
+\n
+Si la transferéncia es urgente, entonces:
+                  							  %      Minimo
+Orden individual o soporte magentico		 1.00    20.00€
+Continuarà...
+
+u: (~como ~hacer ~transferencia [nacional nacionales internacional internacionales])^keep()
+1. Acceda a Cuentas > Internacional > Transferencias y traspasos > Al extranjero > Nueva emisión
+2. Cumplimente el formulario con los siguientes datos que se le solicitan:
+\n
+Datos generales de la transferencia
+- Cuenta origen
+- Motivo del pago (campo opcional)
+- Importe
+- Divisa
+- País del beneficiario
+- Precios del servicio y gastos. Debe escoger a cargo de quien van los precios del servicio y gastos: del solicitante, del beneficiario o ambos.
+- Marque si desea que la transferencia sea emitida según normativa SEPA.
+\n
+Datos del banco destino
+- Deberá introducir el IBAN o en su defecto el número de cuenta. En este segundo caso, será necesario completar la información necesaria para identificar el banco destino introduciendo el país destino y uno de los 3 datos siguientes: código SWIFT o código Banco Destino o Datos banco (nombre, oficina, población).
+3. Fecha de emisión. La transferencia no saldrá de forma inmediata. Si desea cambiar los parámetros de emisión, informe una fecha de emisión posterior al día actual o seleccione la opción que desee dentro del bloque de servicios complementarios.
+4. Si lo desea podrá seleccionar servicios complementarios.
+\n
+A continuación, si se cumplen alguna de las siguientes condiciones, se mostrará una segunda pantalla donde deberá seguir los siguientes pasos:
+\n
+- Si la transferencia es igual o superior a 50.000 euros: debe informar el campo "Código concepto del Banco de España". Si no lo conoce, tendrá que seleccionar el código de mercancías o el de no mercancías. Los siguientes datos (NOF, NIF y Código ISIN): sólo se tendrán que rellenar obligatoriamente en operaciones de valores, fondos de inversión, opciones y futuros, cuentas a residentes en el extranjero.
+- Si dispone de un contrato de Seguro de cambio puede seleccionar si desea aplicarlo.
+- Si dispone de una Línea de riesgo puede informar del número de la línea de riesgo, el importe que desea financiar y el vencimiento del mismo. Se puede financiar total o parcialmente el importe de la transferencia.
+\n
+Accederá a la pantalla de confirmación que le informa si la transferencia se efectuará inmediatamente, o bien requiere de la intervención de la oficina.

@@ -1,0 +1,5 @@
+﻿
+No such bot  ha -  -  status: defaultbot word not found   in topic_ha_anonymous.txt at 1: ^anonymous
+    Command: :build DORY
+Start: user:ha bot:dory ip: rand:2928 (~introductions) 0 ==> Bienvenido!  When:Dec16'16-20:11:24 Version:6.83 Build0:Jul31'16-13:45:49 Build1:Dec16'16-20:11:22 0:Dec16'16-20:11:24 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:ha bot:dory ip: (~keywordless) 1   hola ==> ¿Tiene alguna pregunta?  When:Dec16'16-20:11:25 Why:~keywordless.30.0.~control.1.0   F:1 

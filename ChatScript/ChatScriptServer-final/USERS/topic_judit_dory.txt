@@ -1,0 +1,58 @@
+USERS/topic_judit_dory.txt
+jul2116 Dec06'16-17:26:55 Dec07'16-20:31:14 1481041705-8.1.0 |
+42 47 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~ahorro ~introductions ~tarjeta ~keywordless ~gastos #pending
+~ahorro + 1 Hi0=F ia h 0 0 
+~preguntas + 1 s-YXb ea 4 0 0 
+~gastos + 1 zr#^O ia K 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=judit: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=judit
+$cs_bot=Dory
+$cs_randindex=4031
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ si voy a otro pais, me cobran comision por pagar con targeta?
+ si voy a otro pais, me cobran comision por pagar con targeta?
+ dw
+ maigot
+ cuanto me cobran por sacar dinero en el extranjero?
+ y si pago con targeta en un establecimiento en el extranjero?
+ como activo mi cuenta?
+ como activo mi cuenta?
+ como se activa una cuenta de ahorros?
+ como se crea una cuenta de ahorros?
+ como crear una cuenta de ahorros?
+ como puedo activar mi targeta?
+ como puedo activar mi tarjeta
+ hola
+ como te llamas?
+ cuanto he gastado en apple?
+ este mes cuanto he gastado?
+#`end user
+ No consigue entender lo que me está diciendo.
+ ¿Le puedo ayudar en algo?
+ Dígame.
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ Para sacar dinero en el extranjero...
+ ¿Tiene alguna pregunta?
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ Hola!
+ No comprendo lo que ha dicho.
+ Por seguridad, hasta que actives tus tarjetas, nadie podrá usarlas. ¿Cómo puedes activarlas? \n1. Busca un cajero Caixabank \n2. Introduce la tarjeta y elige tu PIN \n3. Actívala mediante un SMS que
+ Hola de nuevo.
+ Me llamo Dory.
+ DATABASE C00
+ No consigue entender lo que me está diciendo.
+#`end chatbot

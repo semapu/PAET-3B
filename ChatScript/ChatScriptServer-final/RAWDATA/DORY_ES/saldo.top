@@ -1,0 +1,10 @@
+ TOPIC: ~SALD repeat (~saldo)
+
+# Ver el saldo
+u: (<<[~cuánto ~mostrar] {~quedar} ~saldo>>) ^keep()
+DATABASE C03
+
+u: ( ~quedar * ~saldo) ^keep()
+DATABASE C03
+
+# Me puedo gastar 1000€

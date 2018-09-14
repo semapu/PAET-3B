@@ -1,0 +1,25 @@
+TOPIC: ~OFICINA repeat (oficina oficinas cajero)
+
+u: (<<entregar documentos oficina estado>>) ^keep()
+Podrás consultar el estado de tu solicitud desde aquí:
+http://www.laCaixa.es/consultarestado para conocer los próximos pasos que debes realizar.
+
+u: (acudir * oficina) ^keep()
+Si te identificas con tu DNI en una oficina de CaixaBank, además podrás realizar las siguientes operaciones que ahora mismo no puedes realizar por motivos de seguridad:
+\n
+- Ingresar en efectivo en cajero más de 600€ mensuales usando la tarjeta
+\n
+- Ingresar en efectivo en cajero más de 1000€ anuales sin usar la tarjeta
+\n
+-  Realizar transferencias internacionales o transferencias nacionales en otra divisa diferente al euro
+
+u: (<< oficina ~deber ir>>) ^keep()
+Puede ir a la oficina...
+
+u: (<<oficina cercana>>) ^keep()
+Para buscar la oficina mas cercana, consulte el siguiente enlace:
+https://www4.caixabank.es/apl/localizador/caixamaps/index_es.html
+
+u: (<<cajero cercano>>) ^keep()
+Para buscar el cajero mas cercano, consulte el siguiente enlace:
+https://www4.caixabank.es/apl/localizador/caixamaps/index_es.html

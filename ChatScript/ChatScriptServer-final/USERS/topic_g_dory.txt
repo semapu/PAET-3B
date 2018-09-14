@@ -1,0 +1,50 @@
+USERS/topic_g_dory.txt
+jul2116 Dec18'16-11:50:52 Dec18'16-12:02:07 0 |
+13 12 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~gastos ~ingresar ~oficina ~ahorro ~tarjeta ~introductions #pending
+~preguntas + 1 s-YXb ea 2 0 0 
+#`end topics
+$cs_randindex=3483
+$cs_bot=Dory
+$cs_login=g
+$cs_token=512
+$cs_control_main=~control
+$userprompt=g: >
+$botprompt=Dory: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ cuanto gastar en comida
+ sí
+ cuanto me he gastado en comida?
+ cuanto me he gastado en telefono
+ cuanto gastar
+ he cobrado
+ acudir a la oficina
+ como hacer transferencia nacional 
+ cuanto gastar
+ cuanto me he gastado
+ robar la tarjeta
+ 
+#`end user
+ Bienvenido!
+ ¿Tienes alguna pregunta?
+ Adelante, dígame.
+ No comprendo lo que ha dicho.
+ Hola!
+ Nada.
+ No consigue entender lo que me está diciendo.
+ No consigue entender lo que me está diciendo.
+ DATABASE C01
+ Si te identificas con tu DNI en una oficina de CaixaBank, además podrás realizar las siguientes operaciones que ahora mismo no puedes realizar por motivos de seguridad: \n- Ingresar en efectivo en c
+ Pasos a seguir: \n1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia. 2. Seleccione una cuenta origen. 3. Introduzca la cuenta destino. Entre las opciones disponibles deb
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ Si se trata de una pérdida, robo o posible falsificación de alguna de sus tarjetas, además de dirigirse a la oficina, también puede darla de baja a través del teléfono gratuito para bloqueo de 
+ No comprendo lo que ha dicho.
+ No comprendo lo que ha dicho.
+ No comprendo lo que ha dicho.
+ No comprendo lo que ha dicho.
+#`end chatbot

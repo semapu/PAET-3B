@@ -1,0 +1,83 @@
+concept: ~no (negativo error incorrecto no)
+concept: ~sí (afirmativo correcto "de acuerdo" si sí ok okey okay oky oki)
+concept: ~si (~sí)
+concept: ~gracias (gracias agradezco)
+
+concept: ~gastar (gastar gasté gaste gastado gasto gastos pagado pagar pague factura facturas pago recibo recivo)
+concept: ~cuánto (que qué cuanto cuánto ¿cuanto ¿cuánto dime cual cuales)
+concept: ~cuanto (~cuánto)
+concept: ~mostrar (mostrar muestrame muéstrame mostrarme enseñar enséñame enseñame enseñarme ver dime dígame digame decirme consultar consúltame cansultarme)
+concept: ~ingresos (ingresos ingreso ingresar ingresado ingresé ingrese recibir ~cobrar)
+
+concept: ~cobrar (cobrado cobré cobrar cobraran cobran cobre)
+concept: ~quedar (queda quedar)
+concept: ~saldo (saldo dinero dineros euros plata pasta guita)
+concept: ~movimiento (movimientos movimiento)
+
+concept: ~comparar (comparar compara comparame compárame comparacion comparación comparando comparado relación relacion)
+
+concept: ~recibo (recibo recibos)
+concept: ~adios (adios adiós "hasta luego" "hasta pronto" "hasta nunca" "chao") 
+concept: ~tener (tengo tener tenemos)
+
+concept: ~pregunta ( pregunta preguntas cuestión cuestion duda dudas)
+
+
+# AFEGITS Pau
+concept: ~nomina ( nómina nóminas nomina nominas sueldo dueldos paga pagas )
+concept: ~transferir (traer traspasar enviar transferir pasar transmitir ceder trasladar abonar mover )
+concept: ~sacar ( sacar extraer retirar)
+concept: ~otro (otro otros)
+concept: ~país ( pais país paises nacion naciones estado estados)
+concept: ~pais (~país)
+concept: ~otro_país ("otro país" "otra nación" "otros paises" "otros paises")
+concept: ~extranjero ( extranjero extranjera extranjeros extranjeras)
+concept: ~ir ( ir acudir dirigir andar)
+
+
+# Afegits Gerard
+concept: ~datos (datos dato)
+concept: ~recibir (recibir recibo recibido)
+concept: ~como ( como cómo )
+concept: ~cual (cual cuál cuales cuáles)
+concept: ~cuál (~cual)
+concept: ~desde (desde del)
+concept: ~hasta (hasta al)
+concept: ~poder (poder puede puedo lograr logro logra conseguir consigo consigue obtener obtengo obtiene "puede obtener" "puedo obtener" "puede conseguir" "puedo conseguir")
+concept: ~condiciones (condicion condiciones cláusula cláusulas estado estados)
+concept: ~prestamo (prestamo préstamo hipoteca ipoteca "dejar dinero" crédito credito financiación financiacion )
+concept: ~pedir (pedir pido pedido "se puede" solicitar solicita solicitado "se solicita")
+concept: ~coste (coste importe valor costes importes valores precio precios)
+concept: ~deber (debo "se tiene que" "tengo que" "se debe" deber tener)
+concept: ~saber (saber conocer comprender)
+concept: ~sobre (sobre "acerca de" "referente a" "relativo a")
+concept: ~informacion (informacion información)
+concept: ~donde (donde "en donde" adonde "en que")
+concept: ~pension (pension pensiones "planes de pensiones" "plan de pension" jubilacion subsidio subsidios retribucion renta rentas)
+concept: ~fondo (cuenta fondo fondos "fondo de inversión" "fondo de inversion" "fondos de inversion" "fondos de inversión" "cuenta de ahorros" "cuentas de ahorros")
+concept: ~abrir (abrir abro empezar empiezo)
+concept: ~añadir (añadir añado incorporar incorporo agregar agrego ampliar amplio aumentar aumento sumar sumo)
+concept: ~acceder (acceder accedo accede entrar entro entra llegar llego llega)
+concept: ~linea (linea línea)
+concept: ~costar (costar cuesta valer vale)
+concept: ~hacer (hacer crear realizar hago creo realizo)
+concept: ~transferencia (transferencia traspasso pago pago traspassos transferencias)
+concept: ~tasa (tasa comision comisión tarifa tarifas comisiones tasas)
+concept: ~que (que qué)
+concept: ~usar (usar uso utilizar utilizo dispongo disponer )
+concept: ~bloquear (bloquear bloqueo "se bloquea")
+concept: ~robar (perder anular "he perdido" robar robado robaron)
+concept: ~telefono (telefono movistar vodafone orange ono mobil celular)
+concept: ~tipo_ingresos (salario efectivo transferencia transaccion transferencias salarios transacciones cobros ~nomina) # preguntar a mes gent
+concept: ~tipo_gasto (~telefono ~energia ~alimentacion ~ropa)
+concept: ~tipo_gastos (~tipo_gasto)
+concept: ~energia(energia electricidad endesa "gas natural" fecsa iberdrola)
+concept: ~alimentacion(super supermercado alimentacion alimentación dia eroski caprabo mercadona carrefour consum condis badulake badulaque)
+concept: ~olvidar (olvidar olvide "ha olvidado")
+concept: ~ropa (zara ropa mango hm h&m)
+# Gastos/Gastos en ---> C00
+# Ingresos/Ingresos de ---> C01
+# Movimientos/Ingresos y gastos ---> C02
+# Consultar saldo ---> C03
+# Comparar gastos ---> C04
+# Comparar ingresos ---> C05

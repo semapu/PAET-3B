@@ -1,0 +1,500 @@
+﻿ChatScript Version 6.83  compiled Sep 11 2016 22:33:06
+
+>>Reading folder RAWDATA/DORY_ES/
+
+----Reading file keywordless.top
+Reading topic ~keywordless
+*** Warning- line 8 of keywordless.top: nombre is not a known word. Is it misspelled?
+*** Warning- line 9 of keywordless.top: es is not a known word. Is it misspelled?
+*** Warning- line 22 of keywordless.top: quien is not a known word. Is it misspelled?
+*** Warning- line 22 of keywordless.top: quién is not a known word. Is it misspelled?
+*** Warning- line 22 of keywordless.top: eres is not a known word. Is it misspelled?
+*** Warning- line 33 of keywordless.top: número is not a known word. Is it misspelled?
+*** Warning- line 33 of keywordless.top: Word numero only known in opposite case
+*** Warning- line 33 of keywordless.top: telefono is not a known word. Is it misspelled?
+*** Warning- line 33 of keywordless.top: caixa is not a known word. Is it misspelled?
+*** Warning- line 36 of keywordless.top: puntos is not a known word. Is it misspelled?
+*** Warning- line 36 of keywordless.top: Word estrella only known in opposite case
+*** Warning- line 39 of keywordless.top: domiciliar is not a known word. Is it misspelled?
+*** Warning- line 39 of keywordless.top: nómina is not a known word. Is it misspelled?
+*** Warning- line 42 of keywordless.top: edad is not a known word. Is it misspelled?
+*** Warning- line 42 of keywordless.top: mínima is not a known word. Is it misspelled?
+*** Warning- line 42 of keywordless.top: cuenta is not a known word. Is it misspelled?
+*** Warning- line 45 of keywordless.top: penalización is not a known word. Is it misspelled?
+*** Warning- line 51 of keywordless.top: Word dar only known in opposite case
+*** Warning- line 51 of keywordless.top: Word alta only known in opposite case
+*** Warning- line 56 of keywordless.top: otro is not a known word. Is it misspelled?
+*** Warning- line 59 of keywordless.top: compartida is not a known word. Is it misspelled?
+*** Warning- line 70 of keywordless.top: tae is not a known word. Is it misspelled?
+*** Warning- line 74 of keywordless.top: actualizar is not a known word. Is it misspelled?
+*** Warning- line 74 of keywordless.top: Word los only known in opposite case
+*** Warning- line 74 of keywordless.top: dato is not a known word. Is it misspelled?
+*** Warning- line 74 of keywordless.top: datos is not a known word. Is it misspelled?
+*** Warning- line 78 of keywordless.top: al is not a known word. Is it misspelled?
+*** Warning- line 78 of keywordless.top: servicio is not a known word. Is it misspelled?
+*** Warning- line 78 of keywordless.top: servicios is not a known word. Is it misspelled?
+*** Warning- line 81 of keywordless.top: ventajas is not a known word. Is it misspelled?
+*** Warning- line 81 of keywordless.top: cliente is not a known word. Is it misspelled?
+*** Warning- line 92 of keywordless.top: rellenado is not a known word. Is it misspelled?
+*** Warning- line 92 of keywordless.top: formulario is not a known word. Is it misspelled?
+*** Warning- line 92 of keywordless.top: correo is not a known word. Is it misspelled?
+*** Warning- line 101 of keywordless.top: recibido is not a known word. Is it misspelled?
+*** Warning- line 101 of keywordless.top: Substitutes.txt changes e-mail to email anywhere in input
+*** Warning- line 101 of keywordless.top: hacer is not a known word. Is it misspelled?
+*** Warning- line 104 of keywordless.top: consultar is not a known word. Is it misspelled?
+*** Warning- line 104 of keywordless.top: estado is not a known word. Is it misspelled?
+*** Warning- line 104 of keywordless.top: solicitud is not a known word. Is it misspelled?
+*** Warning- line 108 of keywordless.top: utilizar is not a known word. Is it misspelled?
+*** Warning- line 115 of keywordless.top: acceder is not a known word. Is it misspelled?
+*** Warning- line 115 of keywordless.top: línea is not a known word. Is it misspelled?
+*** Warning- line 115 of keywordless.top: Word abierta only known in opposite case
+*** Warning- line 122 of keywordless.top: problemas is not a known word. Is it misspelled?
+*** Warning- line 122 of keywordless.top: subir is not a known word. Is it misspelled?
+*** Warning- line 122 of keywordless.top: imágenes is not a known word. Is it misspelled?
+*** Warning- line 125 of keywordless.top: documento is not a known word. Is it misspelled?
+*** Warning- line 130 of keywordless.top: debo is not a known word. Is it misspelled?
+*** Warning- line 130 of keywordless.top: informar is not a known word. Is it misspelled?
+*** Warning- line 130 of keywordless.top: otra is not a known word. Is it misspelled?
+*** Warning- line 130 of keywordless.top: entidad is not a known word. Is it misspelled?
+*** Warning- line 141 of keywordless.top: Word hola only known in opposite case
+
+----Reading file prestamos.top
+Reading topic ~prestamos
+*** Warning- line 4 of prestamos.top: Word las only known in opposite case
+*** Warning- line 4 of prestamos.top: un is not a known word. Is it misspelled?
+*** Warning- line 4 of prestamos.top: vigente is not a known word. Is it misspelled?
+*** Warning- line 37 of prestamos.top: por is not a known word. Is it misspelled?
+*** Warning- line 37 of prestamos.top: que is not a known word. Is it misspelled?
+*** Warning- line 37 of prestamos.top: Substitutes.txt changes que to queue anywhere in input
+*** Warning- line 42 of prestamos.top: principales is not a known word. Is it misspelled?
+*** Warning- line 42 of prestamos.top: diferencia is not a known word. Is it misspelled?
+*** Warning- line 42 of prestamos.top: diferencias is not a known word. Is it misspelled?
+*** Warning- line 42 of prestamos.top: Word entre only known in opposite case
+
+----Reading file oficina.top
+Reading topic ~oficina
+*** Warning- line 1 of oficina.top: oficina is not a known word. Is it misspelled?
+*** Warning- line 1 of oficina.top: oficinas is not a known word. Is it misspelled?
+*** Warning- line 1 of oficina.top: cajero is not a known word. Is it misspelled?
+*** Warning- line 3 of oficina.top: entregar is not a known word. Is it misspelled?
+*** Warning- line 3 of oficina.top: documentos is not a known word. Is it misspelled?
+*** Warning- line 7 of oficina.top: acudir is not a known word. Is it misspelled?
+*** Warning- line 16 of oficina.top: ir is not a known word. Is it misspelled?
+*** Warning- line 19 of oficina.top: cercana is not a known word. Is it misspelled?
+*** Warning- line 23 of oficina.top: cercano is not a known word. Is it misspelled?
+
+----Reading file comparar.top
+Reading topic ~compararj
+
+----Reading file preguntaslineaabierta.top
+Reading topic ~preguntaslineaabierta
+*** Warning- line 8 of preguntaslineaabierta.top: linea is not a known word. Is it misspelled?
+*** Warning- line 12 of preguntaslineaabierta.top: usuario is not a known word. Is it misspelled?
+*** Warning- line 12 of preguntaslineaabierta.top: usuarios is not a known word. Is it misspelled?
+*** Warning- line 12 of preguntaslineaabierta.top: Word una only known in opposite case
+*** Warning- line 12 of preguntaslineaabierta.top: unas is not a known word. Is it misspelled?
+*** Warning- line 12 of preguntaslineaabierta.top: pertenece is not a known word. Is it misspelled?
+*** Warning- line 12 of preguntaslineaabierta.top: pertenecen is not a known word. Is it misspelled?
+
+----Reading file tarjeta.top
+Reading topic ~tarjeta
+*** Warning- line 1 of tarjeta.top: tarjeta is not a known word. Is it misspelled?
+*** Warning- line 9 of tarjeta.top: personalizar is not a known word. Is it misspelled?
+*** Warning- line 9 of tarjeta.top: personalizo is not a known word. Is it misspelled?
+*** Warning- line 12 of tarjeta.top: cuando is not a known word. Is it misspelled?
+*** Warning- line 12 of tarjeta.top: recibire is not a known word. Is it misspelled?
+*** Warning- line 15 of tarjeta.top: activar is not a known word. Is it misspelled?
+*** Warning- line 24 of tarjeta.top: olvide is not a known word. Is it misspelled?
+*** Warning- line 24 of tarjeta.top: olvidar is not a known word. Is it misspelled?
+
+----Reading file saldo.top
+Reading topic ~sald
+
+----Reading file simplecontrol.top
+Reading outputmacro: ^dory
+Reading table tbl:defaultbot
+Reading topic ~control
+Reading topic ~xpostprocess
+
+----Reading file ahorro.top
+Reading topic ~ahorro
+*** Warning- line 1 of ahorro.top: ahorro is not a known word. Is it misspelled?
+*** Warning- line 4 of ahorro.top: cuentas is not a known word. Is it misspelled?
+*** Warning- line 23 of ahorro.top: nacional is not a known word. Is it misspelled?
+*** Warning- line 23 of ahorro.top: nacionales is not a known word. Is it misspelled?
+*** Warning- line 23 of ahorro.top: internacional is not a known word. Is it misspelled?
+*** Warning- line 23 of ahorro.top: internacionales is not a known word. Is it misspelled?
+
+----Reading file movimientos.top
+Reading topic ~movimientos
+
+----Reading file informacion.top
+Reading topic ~informacio
+*** Warning- line 11 of informacion.top: tarjetas is not a known word. Is it misspelled?
+*** Warning- line 25 of informacion.top: recibir is not a known word. Is it misspelled?
+*** Warning- line 25 of informacion.top: electronico is not a known word. Is it misspelled?
+
+----Reading file introductions.top
+Reading topic ~introductions
+
+----Reading file recibos.top
+Reading topic ~recibos
+*** Warning- line 10 of recibos.top: último is not a known word. Is it misspelled?
+*** Warning- line 10 of recibos.top: ultimos is not a known word. Is it misspelled?
+*** Warning- line 10 of recibos.top: últimos is not a known word. Is it misspelled?
+*** Warning- line 10 of recibos.top: recibo is not a known word. Is it misspelled?
+*** Warning- line 10 of recibos.top: recibos is not a known word. Is it misspelled?
+
+----Reading file ingresar.top
+Reading topic ~ingresar
+
+----Reading file preguntas.top
+Reading topic ~preguntas
+*** Warning- line 2 of preguntas.top: pregunta is not a known word. Is it misspelled?
+*** Warning- line 2 of preguntas.top: preguntas is not a known word. Is it misspelled?
+*** Warning- line 2 of preguntas.top: preguntar is not a known word. Is it misspelled?
+*** Warning- line 2 of preguntas.top: Word duda only known in opposite case
+*** Warning- line 2 of preguntas.top: dudas is not a known word. Is it misspelled?
+
+----Reading file concepts.top
+Reading concept ~no
+*** Warning- line 1 of concepts.top: negativo is not a known word. Is it misspelled?
+*** Warning- line 1 of concepts.top: incorrecto is not a known word. Is it misspelled?
+Reading concept ~sí
+*** Warning- line 2 of concepts.top: afirmativo is not a known word. Is it misspelled?
+*** Warning- line 2 of concepts.top: correcto is not a known word. Is it misspelled?
+*** Warning- line 2 of concepts.top: sí is not a known word. Is it misspelled?
+*** Warning- line 2 of concepts.top: oky is not a known word. Is it misspelled?
+*** Warning- line 2 of concepts.top: oki is not a known word. Is it misspelled?
+Reading concept ~si
+Reading concept ~gracias
+*** Warning- line 4 of concepts.top: Word gracias only known in opposite case
+*** Warning- line 4 of concepts.top: agradezco is not a known word. Is it misspelled?
+Reading concept ~gastar
+*** Warning- line 6 of concepts.top: gastar is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: gasté is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: gaste is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: gastado is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: gasto is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: gastos is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: pagado is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: pagar is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: pague is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: factura is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: facturas is not a known word. Is it misspelled?
+*** Warning- line 6 of concepts.top: Word pago only known in opposite case
+*** Warning- line 6 of concepts.top: recivo is not a known word. Is it misspelled?
+Reading concept ~cuánto
+*** Warning- line 7 of concepts.top: qué is not a known word. Is it misspelled?
+*** Warning- line 7 of concepts.top: cuanto is not a known word. Is it misspelled?
+*** Warning- line 7 of concepts.top: cuánto is not a known word. Is it misspelled?
+*** Warning- line 7 of concepts.top: ¿cuanto is not a known word. Is it misspelled?
+*** Warning- line 7 of concepts.top: ¿cuánto is not a known word. Is it misspelled?
+*** Warning- line 7 of concepts.top: cual is not a known word. Is it misspelled?
+*** Warning- line 7 of concepts.top: cuales is not a known word. Is it misspelled?
+Reading concept ~cuanto
+Reading concept ~mostrar
+*** Warning- line 9 of concepts.top: mostrar is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: muestrame is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: muéstrame is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: mostrarme is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: enseñar is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: enséñame is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: enseñame is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: enseñarme is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: ver is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: dígame is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: digame is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: decirme is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: consúltame is not a known word. Is it misspelled?
+*** Warning- line 9 of concepts.top: cansultarme is not a known word. Is it misspelled?
+Reading concept ~ingresos
+*** Warning- line 10 of concepts.top: ingresos is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: ingreso is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: ingresar is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: ingresado is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: ingresé is not a known word. Is it misspelled?
+*** Warning- line 10 of concepts.top: ingrese is not a known word. Is it misspelled?
+Reading concept ~cobrar
+*** Warning- line 12 of concepts.top: cobrado is not a known word. Is it misspelled?
+*** Warning- line 12 of concepts.top: cobré is not a known word. Is it misspelled?
+*** Warning- line 12 of concepts.top: cobrar is not a known word. Is it misspelled?
+*** Warning- line 12 of concepts.top: cobraran is not a known word. Is it misspelled?
+*** Warning- line 12 of concepts.top: cobran is not a known word. Is it misspelled?
+*** Warning- line 12 of concepts.top: cobre is not a known word. Is it misspelled?
+Reading concept ~quedar
+*** Warning- line 13 of concepts.top: queda is not a known word. Is it misspelled?
+*** Warning- line 13 of concepts.top: quedar is not a known word. Is it misspelled?
+Reading concept ~saldo
+*** Warning- line 14 of concepts.top: saldo is not a known word. Is it misspelled?
+*** Warning- line 14 of concepts.top: Word plata only known in opposite case
+*** Warning- line 14 of concepts.top: guita is not a known word. Is it misspelled?
+Reading concept ~movimiento
+*** Warning- line 15 of concepts.top: movimientos is not a known word. Is it misspelled?
+*** Warning- line 15 of concepts.top: Word movimiento only known in opposite case
+Reading concept ~comparar
+*** Warning- line 17 of concepts.top: comparar is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: compara is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: comparame is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: compárame is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: comparacion is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: comparación is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: comparando is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: comparado is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: relación is not a known word. Is it misspelled?
+*** Warning- line 17 of concepts.top: relacion is not a known word. Is it misspelled?
+Reading concept ~recibo
+Reading concept ~adios
+*** Warning- line 20 of concepts.top: adiós is not a known word. Is it misspelled?
+*** Warning- line 20 of concepts.top: Word chao only known in opposite case
+Reading concept ~tener
+*** Warning- line 21 of concepts.top: tengo is not a known word. Is it misspelled?
+*** Warning- line 21 of concepts.top: tenemos is not a known word. Is it misspelled?
+Reading concept ~pregunta
+*** Warning- line 23 of concepts.top: cuestión is not a known word. Is it misspelled?
+*** Warning- line 23 of concepts.top: cuestion is not a known word. Is it misspelled?
+Reading concept ~nomina
+*** Warning- line 27 of concepts.top: nóminas is not a known word. Is it misspelled?
+*** Warning- line 27 of concepts.top: sueldo is not a known word. Is it misspelled?
+*** Warning- line 27 of concepts.top: dueldos is not a known word. Is it misspelled?
+*** Warning- line 27 of concepts.top: paga is not a known word. Is it misspelled?
+*** Warning- line 27 of concepts.top: pagas is not a known word. Is it misspelled?
+Reading concept ~transferir
+*** Warning- line 28 of concepts.top: traer is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: traspasar is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: enviar is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: transferir is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: pasar is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: transmitir is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: ceder is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: trasladar is not a known word. Is it misspelled?
+*** Warning- line 28 of concepts.top: abonar is not a known word. Is it misspelled?
+Reading concept ~sacar
+*** Warning- line 29 of concepts.top: sacar is not a known word. Is it misspelled?
+*** Warning- line 29 of concepts.top: retirar is not a known word. Is it misspelled?
+Reading concept ~otro
+*** Warning- line 30 of concepts.top: otros is not a known word. Is it misspelled?
+Reading concept ~país
+*** Warning- line 31 of concepts.top: pais is not a known word. Is it misspelled?
+*** Warning- line 31 of concepts.top: país is not a known word. Is it misspelled?
+*** Warning- line 31 of concepts.top: nacion is not a known word. Is it misspelled?
+*** Warning- line 31 of concepts.top: naciones is not a known word. Is it misspelled?
+*** Warning- line 31 of concepts.top: estados is not a known word. Is it misspelled?
+Reading concept ~pais
+Reading concept ~otro_país
+Reading concept ~extranjero
+*** Warning- line 34 of concepts.top: extranjero is not a known word. Is it misspelled?
+*** Warning- line 34 of concepts.top: extranjera is not a known word. Is it misspelled?
+*** Warning- line 34 of concepts.top: extranjeros is not a known word. Is it misspelled?
+*** Warning- line 34 of concepts.top: extranjeras is not a known word. Is it misspelled?
+Reading concept ~ir
+*** Warning- line 35 of concepts.top: dirigir is not a known word. Is it misspelled?
+*** Warning- line 35 of concepts.top: Word andar only known in opposite case
+Reading concept ~datos
+Reading concept ~recibir
+Reading concept ~como
+*** Warning- line 41 of concepts.top: Word como only known in opposite case
+*** Warning- line 41 of concepts.top: cómo is not a known word. Is it misspelled?
+Reading concept ~cual
+*** Warning- line 42 of concepts.top: cuál is not a known word. Is it misspelled?
+*** Warning- line 42 of concepts.top: cuáles is not a known word. Is it misspelled?
+Reading concept ~cuál
+Reading concept ~desde
+*** Warning- line 44 of concepts.top: desde is not a known word. Is it misspelled?
+Reading concept ~hasta
+*** Warning- line 45 of concepts.top: Word hasta only known in opposite case
+Reading concept ~poder
+*** Warning- line 46 of concepts.top: poder is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: puede is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: puedo is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: lograr is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: logro is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: logra is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: conseguir is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: consigo is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: consigue is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: obtener is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: obtengo is not a known word. Is it misspelled?
+*** Warning- line 46 of concepts.top: obtiene is not a known word. Is it misspelled?
+Reading concept ~condiciones
+*** Warning- line 47 of concepts.top: condicion is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: condiciones is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: cláusula is not a known word. Is it misspelled?
+*** Warning- line 47 of concepts.top: cláusulas is not a known word. Is it misspelled?
+Reading concept ~prestamo
+*** Warning- line 48 of concepts.top: prestamo is not a known word. Is it misspelled?
+*** Warning- line 48 of concepts.top: préstamo is not a known word. Is it misspelled?
+*** Warning- line 48 of concepts.top: hipoteca is not a known word. Is it misspelled?
+*** Warning- line 48 of concepts.top: ipoteca is not a known word. Is it misspelled?
+*** Warning- line 48 of concepts.top: crédito is not a known word. Is it misspelled?
+*** Warning- line 48 of concepts.top: credito is not a known word. Is it misspelled?
+*** Warning- line 48 of concepts.top: financiación is not a known word. Is it misspelled?
+*** Warning- line 48 of concepts.top: financiacion is not a known word. Is it misspelled?
+Reading concept ~pedir
+*** Warning- line 49 of concepts.top: pedir is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: pido is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: pedido is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: solicitar is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: solicita is not a known word. Is it misspelled?
+*** Warning- line 49 of concepts.top: solicitado is not a known word. Is it misspelled?
+Reading concept ~coste
+*** Warning- line 50 of concepts.top: coste is not a known word. Is it misspelled?
+*** Warning- line 50 of concepts.top: importe is not a known word. Is it misspelled?
+*** Warning- line 50 of concepts.top: costes is not a known word. Is it misspelled?
+*** Warning- line 50 of concepts.top: importes is not a known word. Is it misspelled?
+*** Warning- line 50 of concepts.top: valores is not a known word. Is it misspelled?
+*** Warning- line 50 of concepts.top: precio is not a known word. Is it misspelled?
+*** Warning- line 50 of concepts.top: precios is not a known word. Is it misspelled?
+Reading concept ~deber
+*** Warning- line 51 of concepts.top: deber is not a known word. Is it misspelled?
+Reading concept ~saber
+*** Warning- line 52 of concepts.top: conocer is not a known word. Is it misspelled?
+*** Warning- line 52 of concepts.top: comprender is not a known word. Is it misspelled?
+Reading concept ~sobre
+*** Warning- line 53 of concepts.top: sobre is not a known word. Is it misspelled?
+Reading concept ~informacion
+*** Warning- line 54 of concepts.top: informacion is not a known word. Is it misspelled?
+*** Warning- line 54 of concepts.top: información is not a known word. Is it misspelled?
+Reading concept ~donde
+*** Warning- line 55 of concepts.top: donde is not a known word. Is it misspelled?
+*** Warning- line 55 of concepts.top: adonde is not a known word. Is it misspelled?
+Reading concept ~pension
+*** Warning- line 56 of concepts.top: pensiones is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: jubilacion is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: subsidio is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: subsidios is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: retribucion is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: renta is not a known word. Is it misspelled?
+*** Warning- line 56 of concepts.top: Word rentas only known in opposite case
+Reading concept ~fondo
+*** Warning- line 57 of concepts.top: fondo is not a known word. Is it misspelled?
+*** Warning- line 57 of concepts.top: fondos is not a known word. Is it misspelled?
+Reading concept ~abrir
+*** Warning- line 58 of concepts.top: abrir is not a known word. Is it misspelled?
+*** Warning- line 58 of concepts.top: abro is not a known word. Is it misspelled?
+*** Warning- line 58 of concepts.top: empezar is not a known word. Is it misspelled?
+*** Warning- line 58 of concepts.top: empiezo is not a known word. Is it misspelled?
+Reading concept ~añadir
+*** Warning- line 59 of concepts.top: añadir is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: añado is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: incorporar is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: incorporo is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: agregar is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: agrego is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: ampliar is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: amplio is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: aumentar is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: aumento is not a known word. Is it misspelled?
+*** Warning- line 59 of concepts.top: sumar is not a known word. Is it misspelled?
+Reading concept ~acceder
+*** Warning- line 60 of concepts.top: accedo is not a known word. Is it misspelled?
+*** Warning- line 60 of concepts.top: entrar is not a known word. Is it misspelled?
+*** Warning- line 60 of concepts.top: entro is not a known word. Is it misspelled?
+*** Warning- line 60 of concepts.top: entra is not a known word. Is it misspelled?
+*** Warning- line 60 of concepts.top: llegar is not a known word. Is it misspelled?
+*** Warning- line 60 of concepts.top: llego is not a known word. Is it misspelled?
+*** Warning- line 60 of concepts.top: llega is not a known word. Is it misspelled?
+Reading concept ~linea
+Reading concept ~costar
+*** Warning- line 62 of concepts.top: cuesta is not a known word. Is it misspelled?
+*** Warning- line 62 of concepts.top: valer is not a known word. Is it misspelled?
+Reading concept ~hacer
+*** Warning- line 63 of concepts.top: crear is not a known word. Is it misspelled?
+*** Warning- line 63 of concepts.top: realizar is not a known word. Is it misspelled?
+*** Warning- line 63 of concepts.top: hago is not a known word. Is it misspelled?
+*** Warning- line 63 of concepts.top: creo is not a known word. Is it misspelled?
+*** Warning- line 63 of concepts.top: realizo is not a known word. Is it misspelled?
+Reading concept ~transferencia
+*** Warning- line 64 of concepts.top: transferencia is not a known word. Is it misspelled?
+*** Warning- line 64 of concepts.top: traspasso is not a known word. Is it misspelled?
+*** Warning- line 64 of concepts.top: traspassos is not a known word. Is it misspelled?
+*** Warning- line 64 of concepts.top: transferencias is not a known word. Is it misspelled?
+Reading concept ~tasa
+*** Warning- line 65 of concepts.top: tasa is not a known word. Is it misspelled?
+*** Warning- line 65 of concepts.top: comision is not a known word. Is it misspelled?
+*** Warning- line 65 of concepts.top: comisión is not a known word. Is it misspelled?
+*** Warning- line 65 of concepts.top: tarifa is not a known word. Is it misspelled?
+*** Warning- line 65 of concepts.top: tarifas is not a known word. Is it misspelled?
+*** Warning- line 65 of concepts.top: comisiones is not a known word. Is it misspelled?
+*** Warning- line 65 of concepts.top: tasas is not a known word. Is it misspelled?
+Reading concept ~que
+Reading concept ~usar
+*** Warning- line 67 of concepts.top: usar is not a known word. Is it misspelled?
+*** Warning- line 67 of concepts.top: uso is not a known word. Is it misspelled?
+*** Warning- line 67 of concepts.top: utilizo is not a known word. Is it misspelled?
+*** Warning- line 67 of concepts.top: dispongo is not a known word. Is it misspelled?
+*** Warning- line 67 of concepts.top: disponer is not a known word. Is it misspelled?
+Reading concept ~bloquear
+*** Warning- line 68 of concepts.top: bloquear is not a known word. Is it misspelled?
+*** Warning- line 68 of concepts.top: bloqueo is not a known word. Is it misspelled?
+Reading concept ~robar
+*** Warning- line 69 of concepts.top: perder is not a known word. Is it misspelled?
+*** Warning- line 69 of concepts.top: anular is not a known word. Is it misspelled?
+*** Warning- line 69 of concepts.top: robar is not a known word. Is it misspelled?
+*** Warning- line 69 of concepts.top: robado is not a known word. Is it misspelled?
+*** Warning- line 69 of concepts.top: robaron is not a known word. Is it misspelled?
+Reading concept ~telefono
+*** Warning- line 70 of concepts.top: movistar is not a known word. Is it misspelled?
+*** Warning- line 70 of concepts.top: vodafone is not a known word. Is it misspelled?
+*** Warning- line 70 of concepts.top: Word ono only known in opposite case
+*** Warning- line 70 of concepts.top: mobil is not a known word. Is it misspelled?
+*** Warning- line 70 of concepts.top: celular is not a known word. Is it misspelled?
+Reading concept ~tipo_ingresos
+*** Warning- line 71 of concepts.top: salario is not a known word. Is it misspelled?
+*** Warning- line 71 of concepts.top: efectivo is not a known word. Is it misspelled?
+*** Warning- line 71 of concepts.top: transaccion is not a known word. Is it misspelled?
+*** Warning- line 71 of concepts.top: salarios is not a known word. Is it misspelled?
+*** Warning- line 71 of concepts.top: transacciones is not a known word. Is it misspelled?
+*** Warning- line 71 of concepts.top: cobros is not a known word. Is it misspelled?
+Reading concept ~tipo_gasto
+Reading concept ~tipo_gastos
+Reading concept ~energia
+*** Warning- line 74 of concepts.top: energia is not a known word. Is it misspelled?
+*** Warning- line 74 of concepts.top: electricidad is not a known word. Is it misspelled?
+*** Warning- line 74 of concepts.top: endesa is not a known word. Is it misspelled?
+*** Warning- line 74 of concepts.top: fecsa is not a known word. Is it misspelled?
+*** Warning- line 74 of concepts.top: iberdrola is not a known word. Is it misspelled?
+Reading concept ~alimentacion
+*** Warning- line 75 of concepts.top: supermercado is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: alimentacion is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: alimentación is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: Word dia only known in opposite case
+*** Warning- line 75 of concepts.top: eroski is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: caprabo is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: mercadona is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: consum is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: condis is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: badulake is not a known word. Is it misspelled?
+*** Warning- line 75 of concepts.top: badulaque is not a known word. Is it misspelled?
+Reading concept ~olvidar
+Reading concept ~ropa
+*** Warning- line 77 of concepts.top: Word zara only known in opposite case
+*** Warning- line 77 of concepts.top: ropa is not a known word. Is it misspelled?
+*** Warning- line 77 of concepts.top: h&m is not a known word. Is it misspelled?
+
+----Reading file gastos.top
+Reading topic ~gastos
+
+<<end folder RAWDATA/DORY_ES
+
+>>Reading folder RAWDATA/QUIBBLE_ES/
+
+----Reading file Paperera
+
+----Reading file quibble.top
+Reading topic ~quibble_all
+
+----Reading file honest.top
+Reading topic ~intent
+Reading topic ~honest_response
+
+<<end folder RAWDATA/QUIBBLE_ES
+*** Warning-  Undefined set or topic ~país" line 62 in keywordless.top
+*** Warning-  Undefined set or topic ~país" line 62 in keywordless.top
+
+WARNING SUMMARY: 
+0 function warnings, 134 spelling warnings, 13 case warnings, 2 substitution warnings,  and 207 more serious warnings
+    
+
+Finished compile
+

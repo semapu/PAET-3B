@@ -1,0 +1,55 @@
+TOPIC: ~MOVIMIENTOS repeat priority (~movimiento ~transferir ~transferencia)
+
+u: (~mostrar _* ~movimientos) ^keep()
+DATABASE C03
+
+u: (~cobrar * ~hacer * ~transferencia)
+*Dependiendo del tipo de transferencia que usted quiera realizar:
+- Si realiza la transferencia a otra cuenta de la Caixa, no se cobrarà ningun tipo de comision.
+- Si realiza la transferencia a una cuenta de otra entidad, depende de blablabla
+
+u: (~cuanto * ~costar * ~hacer * ~transferencia)
+*Dependiendo del tipo de transferencia que usted quiera realizar:
+- Si realiza la transferencia a otra cuenta de la Caixa, no se cobrarà ningun tipo de comision.
+- Si realiza la transferencia a una cuenta de otra entidad, depende de blablabla
+
+# Cómo puedo traer dinero de otra cuenta
+u: (~transferir * dinero) ^keep()
+Pasos a seguir:
+\n
+1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia.
+\n
+2. Seleccione una cuenta origen.
+\n
+3. Introduzca la cuenta destino. Entre las opciones disponibles debe escoger una cuenta de otra entidad e introducir la cuenta en formato IBAN o CCC.
+\n
+4. Introduzca el importe de la transferencia.
+\n
+5. Introduzca los datos adicionales que desee (concepto, beneficiario). Si pulsa sobre el enlace "Informe los datos adicionales que desee" podrá informar más datos adicionales, entre ellos su identificación como remitente. Si lo requiere la cuenta origen y/o la cuenta destino estará obligado a informar los datos opcionales referencias Q43.
+\n
+6. Seleccione si desea enviar un aviso al beneficiario vía SMS o correo electrónico, conforme usted ha solicitado una transferencia a su favor. Esta opción tiene un precio de servicio asociado de 0,30 € por envio (impuestos indirectos no incluidos).
+\n
+A continuación, si desea recibir un justificante de la operación podrá marcar la casilla correspondiente.
+\n
+Antes de continuar con la operación, podrá leer detenidamente los Términos y Condiciones de la operación que desea realizar.
+\n
+Pulse el botón "Continuar".
+\n
+En la pantalla siguiente podrá visualizar un resumen de los datos que haya introducido. Una vez revisados estos datos, podrá confirmar la operación introduciendo la clave que se le solicite de su Tarjeta Línea Abierta.
+\n
+Una vez confirmada la operación se le mostrará la pantalla resultado, la cual podrá imprimir o guardar en formato pdf en su equipo.
+
+u: (~transferir * dinero * ["otra entidad" "otro banco"]) ^keep()
+Pasos a seguir:
+\n
+1. Acceda a Cuentas > Transferencias y traspasos > Hacer ahora una transferencia.
+2. Seleccione una cuenta origen.
+3. Introduzca la cuenta destino. Entre las opciones disponibles debe escoger una cuenta de otra entidad e introducir la cuenta en formato IBAN o CCC.
+4. Introduzca el importe de la transferencia.
+5. Introduzca los datos adicionales que desee (concepto, beneficiario). Si pulsa sobre el enlace "Informe los datos adicionales que desee" podrá informar más datos adicionales, entre ellos su identificación como remitente. Si lo requiere la cuenta origen y/o la cuenta destino estará obligado a informar los datos opcionales referencias Q43.
+6. Seleccione si desea enviar un aviso al beneficiario vía SMS o correo electrónico, conforme usted ha solicitado una transferencia a su favor. Esta opción tiene un precio de servicio asociado de 0,30 € por envio (impuestos indirectos no incluidos).
+A continuación, si desea recibir un justificante de la operación podrá marcar la casilla correspondiente.
+Antes de continuar con la operación, podrá leer detenidamente los Términos y Condiciones de la operación que desea realizar.
+Pulse el botón "Continuar".
+En la pantalla siguiente podrá visualizar un resumen de los datos que haya introducido. Una vez revisados estos datos, podrá confirmar la operación introduciendo la clave que se le solicite de su Tarjeta Línea Abierta.
+Una vez confirmada la operación se le mostrará la pantalla resultado, la cual podrá imprimir o guardar en formato pdf en su equipo.

@@ -1,0 +1,25 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script>
+//Functions
+function getDomain() {var index=location.hostname.indexOf("."); if (index==-1) return location.hostname; return location.hostname.substring(index, location.hostname.length);}
+function setCookie(name, value, date){document.cookie=name + "=" + escape(value) + (date ? "; expires=" + date.toGMTString(date.getTime()) : "") + "; domain=" + getDomain() + "; path=/"; }
+//Vars
+var idioma = null;
+var portal = null;
+var query=this.location.search.substring(1);
+var params=query.split("&");
+//Set Vars
+for (var i = 0; i < params.length; i++) {
+var params2=params[i].split("=");
+if (params2[0]=="idioma") {idioma=params2[1]};
+if (params2[0]=="portal") {portal=params2[1]};
+}
+//WriteCookie
+if(idioma != null){
+setCookie('idioma', idioma, new Date(2055,10,10));
+}
+if(portal!=null){
+setCookie('prefix', portal, new Date(2055,10,10));
+}
+</script>
+</head><body></body></html>

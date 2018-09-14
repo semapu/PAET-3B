@@ -1,0 +1,26 @@
+TOPIC: ~INFORMACIO repeat (~informacion datos ~fondo ~pension)
+u: (~informacion) ^keep()
+¿Qué información desea obtener?
+
+# Dónde puedo obtener información sobre hipotecas
+u: (~donde ~poder ~informacion ~sobre ~prestamo) ^keep()
+Para obtener información sobre los tipos de hipotecas de las que dispone La Caixa, visite este enlace:
+http://caixalo-es-es.custhelp.com/ci/okcsFile/get/16777217/1214064c9aa7a1-e780-43db-916e-744be7d505d9/1458049540/HTML/1458049540#__highlight
+
+# Donde puedo obtener información sobre tarjetas
+u: (~donde ~poder ~informacion ~sobre [tarjeta tarjetas]) ^keep()
+Para obtener información sobre tarjetas, visite este enlace:
+https://www.caixabank.es/particular/tarjetas/subhometarjetas_es.html
+
+# Como puedo tener información sobre planes de pensiones
+u: (~donde ~poder * ~informacion ~sobre ~pension) ^keep()
+Para obtener información sobre planes de pensiones, visite este enlace:
+https://www.caixabank.es/particular/planespensiones/necesidadplanespensiones_es.html
+
+# Tengo un fondo de inversión solicitado
+u: (~tener [un unos] ~fondo ~pedir) ^keep()
+Tiene usted tres fondos de inversion, cerdo capitalista
+
+# Cómo puedes recibir información vía correo electrónico
+u: (~como ~poder recibir ~informacion * correo electronico) ^keep()
+Para recibir información via correo electrónico, debe usted seleccionar en Linea Abierta

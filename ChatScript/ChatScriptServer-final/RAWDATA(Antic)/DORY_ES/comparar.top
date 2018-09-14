@@ -1,0 +1,11 @@
+TOPIC: ~COMPARARj repeat priority (~comparar)
+
+# Comparar ingresos
+u: (~comparar * ~ingresos _{~tipo_ingresos}) ^keep()
+DATABASE C04 '_0
+
+u: (~comparar * ~gastar _{~tipo_gastos}) ^keep()
+DATABASE C04 '_0
+
+# u: ([~cuánto ~mostrar] * ~ingresos _* ~comparar)
+# DATABASE C05 '_0 '_1 '_2'

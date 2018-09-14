@@ -1,0 +1,43 @@
+﻿+ llamas NOUN NOUN_PLURAL GRADE1_2 
++ mis NOUN NOUN_PLURAL 
++ unos NOUN NOUN_PLURAL NOUN_NUMBER 
++ defaultbot 
++ de_acuerdo 
++ dineros NOUN NOUN_PLURAL 
++ euros NOUN NOUN_PLURAL 
++ hasta_luego 
++ hasta_pronto 
++ hasta_nunca 
++ tener MORE_FORM ADJECTIVE ADJECTIVE_NORMAL KINDERGARTEN 
++ nominas NOUN NOUN_PLURAL 
++ extraer MORE_FORM ADJECTIVE ADJECTIVE_NORMAL KINDERGARTEN 
++ paises NOUN NOUN_PLURAL 
++ otra_nación 
++ otros_paises 
++ puede_obtener 
++ puedo_obtener 
++ puede_conseguir 
++ puedo_conseguir 
++ dejar_dinero 
++ se_puede 
++ se_solicita 
++ se_tiene_que 
++ tengo_que 
++ se_debe 
++ acerca_de 
++ referente_a 
++ relativo_a 
++ en_donde 
++ en_que 
++ planes_de_pensiones 
++ plan_de_pension 
++ fondo_de_inversión 
++ fondo_de_inversion 
++ fondos_de_inversion 
++ fondos_de_inversión 
++ cuenta_de_ahorros 
++ cuentas_de_ahorros 
++ se_bloquea 
++ he_perdido 
++ gas_natural 
++ ha_olvidado 

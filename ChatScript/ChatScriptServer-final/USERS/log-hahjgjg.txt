@@ -1,0 +1,93 @@
+﻿Start: user:hahjgjg bot:dory ip: rand:3651 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-14:49:11 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov18'16-16:36:22 0:Nov25'16-14:49:11 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY_ES
+Command: :build DORY_ES
+Command: :build dory_es
+Command: :build dory_es
+Command: :build DORY_ES
+Command: :build DORY_ES
+Start: user:hahjgjg bot:dory ip: rand:3653 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Nov25'16-14:53:03 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:53:01 0:Nov25'16-14:49:11 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Command: :reset user
+Start: user:hahjgjg bot:dory ip: rand:3651 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-14:53:09 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:53:01 0:Nov25'16-14:49:11 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Command: :build DORY_ES
+Start: user:hahjgjg bot:dory ip: rand:3653 (~preguntas) 0 ==> ¿Tienes alguna pregunta?  When:Nov25'16-14:55:25 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:55:22 0:Nov25'16-14:49:11 F:0 P:0 Why:~preguntas.1.0.~control.1.0 
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3653 (~introductions) 0 ==> No entiendo lo que me quiere decir.  When:Nov25'16-14:56:23 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:56:21 0:Nov25'16-14:49:11 F:0 P:0 Why:~control.1.0 
+Command: :reset user
+Start: user:hahjgjg bot:dory ip: rand:3651 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-14:56:25 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:56:21 0:Nov25'16-14:49:11 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~gastos) 1   gastar ==> DATABASE C00  When:Nov25'16-14:56:29 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 2   cuánto me he gastado en telefono ==> ¿Tienes alguna pregunta?  When:Nov25'16-14:56:34 Why:~preguntas.1.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 3   gastar ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-14:56:46 Why:~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 4   gastar ==> No comprendo lo que ha dicho.  When:Nov25'16-14:56:48 Why:~control.1.0  
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3655 (~introductions) 4 ==> Hola!  When:Nov25'16-14:57:38 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:57:35 0:Nov25'16-14:49:11 F:0 P:Nov25'16-14:56:48 Why:~introductions.0.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~gastos) 5   gastar ==> DATABASE C00  When:Nov25'16-14:57:39 Why:~gastos.0.0=REPEAT.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 6   gastar ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-14:57:40 Why:~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 7   gastar ==> No consigue entender lo que me está diciendo.  When:Nov25'16-14:57:41 Why:~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 8   gastar ==> No entiendo lo que me quiere decir.  When:Nov25'16-14:57:42 Why:~control.1.0  
+Command: :build dory_es
+Start: user:hahjgjg bot:dory ip: rand:3661 (~introductions) 8 ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-14:57:54 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:57:35 0:Nov25'16-14:49:11 F:0 P:Nov25'16-14:57:42 Why:~control.1.0 
+Respond: user:hahjgjg bot:dory ip: (~introductions) 9   gastar ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-14:57:58 Why:~control.1.0  
+Command: :reset user
+Start: user:hahjgjg bot:dory ip: rand:3651 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-14:58:01 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-14:57:35 0:Nov25'16-14:49:11 F:0 P:Nov25'16-14:57:58 Why:~introductions.1.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 1   gastra ==> ¿Tienes alguna pregunta?  When:Nov25'16-14:58:03 Why:~preguntas.1.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 2   gastar ==> DATABASE C00  When:Nov25'16-14:58:04 Why:~gastos.0.0=REPEAT.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 3   gastar ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-14:58:06 Why:~control.1.0  
+Command: :build dory
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3654 (~introductions) 3 ==> Hola!  When:Nov25'16-15:08:16 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:08:14 0:Nov25'16-14:49:11 F:0 P:Nov25'16-14:58:06 Why:~introductions.0.0.~control.0.0 
+Command: :reset user
+Start: user:hahjgjg bot:dory ip: rand:3651 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-15:08:20 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:08:14 0:Nov25'16-14:49:11 F:0 P:Nov25'16-14:58:06 Why:~introductions.1.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 1   hola ==> Hola de nuevo.  When:Nov25'16-15:08:21 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 2   gastar ==> DATABASE C00  When:Nov25'16-15:08:22 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 3   gastar ==> ¿Tienes alguna pregunta?  When:Nov25'16-15:08:23 Why:~preguntas.1.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 4   gastr ==> No comprendo lo que ha dicho.  When:Nov25'16-15:08:24 Why:~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 5   gastar ==> No comprendo lo que ha dicho.  When:Nov25'16-15:08:25 Why:~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 6   cuanto me he gastado ==> ¿Puede repetir lo que ha dicho con otras palabras?  When:Nov25'16-15:08:27 Why:~control.1.0  
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3657 (~introductions) 6 ==> Hola!  When:Nov25'16-15:09:23 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:09:20 0:Nov25'16-14:49:11 F:0 P:Nov25'16-15:08:27 Why:~introductions.0.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~gastos) 7   cuanto me he gastado en telefono ==> DATABASE C00  When:Nov25'16-15:09:29 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 8   gastado en pescado ==> DATABASE C00  When:Nov25'16-15:09:32 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 9   gastar ==> DATABASE C00  When:Nov25'16-15:09:34 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 10   gastar ==> DATABASE C00  When:Nov25'16-15:09:35 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 11   gastar ==> DATABASE C00  When:Nov25'16-15:09:36 Why:~gastos.0.0.~control.1.0  
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3664 (~introductions) 11 ==> No consigue entender lo que me está diciendo.  When:Nov25'16-15:14:18 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:14:15 0:Nov25'16-14:49:11 F:0 P:Nov25'16-15:09:36 Why:~control.1.0 
+Command: :reset user
+Start: user:hahjgjg bot:dory ip: rand:3651 (~introductions) 0 ==> Bienvenido!  When:Nov25'16-15:14:22 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:14:15 0:Nov25'16-14:49:11 F:0 P:Nov25'16-15:09:36 Why:~introductions.1.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 1   hola ==> Hola de nuevo.  When:Nov25'16-15:14:23 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 2   hola ==> ¿Por qué repite usted el vocablo "hola"?  When:Nov25'16-15:14:24 Why:~keywordless.3.1  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 3   hola ==> Hola de nuevo.  When:Nov25'16-15:14:26 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 4   hola ==> ¿Por qué repite usted el vocablo "hola"?  When:Nov25'16-15:14:27 Why:~keywordless.3.1  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 5   hola ==> Hola de nuevo.  When:Nov25'16-15:14:28 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 6   hola ==> ¿Por qué repite usted el vocablo "hola"?  When:Nov25'16-15:14:29 Why:~keywordless.3.1  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 7   hola ==> Hola de nuevo.  When:Nov25'16-15:15:22 Why:~keywordless.3.0.~control.1.0  
+Command: :build dory_es
+Start: user:hahjgjg bot:dory ip: rand:3658 (~introductions) 7 ==> Hola!  When:Nov25'16-15:15:28 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:14:15 0:Nov25'16-14:49:11 F:0 P:Nov25'16-15:15:22 Why:~introductions.0.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 8   hola ==> Hola de nuevo.  When:Nov25'16-15:15:29 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 9   hola ==> ¿Por qué repite usted el vocablo "hola"?  When:Nov25'16-15:15:29 Why:~keywordless.3.1  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 10   hola ==> Hola de nuevo.  When:Nov25'16-15:15:30 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 11   hola ==> ¿Por qué repite usted el vocablo "hola"?  When:Nov25'16-15:15:30 Why:~keywordless.3.1  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 12   hola ==> Hola de nuevo.  When:Nov25'16-15:15:31 Why:~keywordless.3.0.~control.1.0  
+Command: :build dory_es
+Start: user:hahjgjg bot:dory ip: rand:3665 (~preguntas) 12 ==> ¿Tienes alguna pregunta?  When:Nov25'16-15:15:53 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:14:15 0:Nov25'16-14:49:11 F:0 P:Nov25'16-15:15:31 Why:~preguntas.1.0.~control.1.0 
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3665 (~introductions) 12 ==> No entiendo lo que me quiere decir.  When:Nov25'16-15:15:57 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:15:55 0:Nov25'16-14:49:11 F:0 P:Nov25'16-15:15:31 Why:~control.1.0 
+Respond: user:hahjgjg bot:dory ip: (~introductions) 13   hhola ==> No entiendo lo que me quiere decir.  When:Nov25'16-15:15:58 Why:~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 14   hola ==> Hola de nuevo.  When:Nov25'16-15:15:59 Why:~keywordless.3.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 15   hola ==> ¿Por qué repite usted la palabra "hola"?  When:Nov25'16-15:15:59 Why:~keywordless.3.1   F:1480083359-4.3.1 
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 16   hola ==> ¿No cree que ya es suficiente?  When:Nov25'16-15:16:01 Why:~keywordless.3.2  
+Respond: user:hahjgjg bot:dory ip: (~keywordless) 17   hola ==> Hola de nuevo.  When:Nov25'16-15:16:04 Why:~keywordless.3.0.~control.1.0  
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3668 (~introductions) 17 ==> Bienvenido!  When:Nov25'16-15:17:08 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:17:06 0:Nov25'16-14:49:11 F:1480083359-4.3.1 P:Nov25'16-15:16:04 Why:~introductions.1.0.~control.0.0 
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 18   pregunta ==> Adelante, dígame.  When:Nov25'16-15:17:09 Why:~preguntas.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 19   pregunta ==> Adelante, dígame.  When:Nov25'16-15:17:10 Why:~preguntas.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~preguntas) 20   pregunta ==> Adelante, dígame.  When:Nov25'16-15:17:12 Why:~preguntas.0.0.~control.1.0  
+Command: :build dory
+Start: user:hahjgjg bot:dory ip: rand:3673 (~preguntas) 20 ==> ¿Tienes alguna pregunta?  When:Nov25'16-15:20:49 Version:6.5a Build0:Jul31'16-13:45:49 Build1:Nov25'16-15:20:46 0:Nov25'16-14:49:11 F:1480083359-4.3.1 P:Nov25'16-15:17:12 Why:~preguntas.1.0.~control.1.0 
+Respond: user:hahjgjg bot:dory ip: (~gastos) 21   ¿Cuánto he gastado este mes? ==> DATABASE C00  When:Nov25'16-15:21:09 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 22   Muestrame los gastos de teléfono de Enero a Marzo.   ==> DATABASE C00  When:Nov25'16-15:23:36 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 23   ¿Cuánto  he gastado este mes el gasolina? ==> DATABASE C00  When:Nov25'16-15:23:43 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 24   Ver las facturas de teléfono de 2015 y 2016. ==> DATABASE C00  When:Nov25'16-15:23:48 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 25   Comparame lo que he gastado en los últimos tres años en gasolina. ==> DATABASE C00  When:Nov25'16-15:24:51 Why:~gastos.0.0.~control.1.0  
+Respond: user:hahjgjg bot:dory ip: (~gastos) 26   comparar gastos ==> DATABASE C00  When:Nov25'16-15:25:09 Why:~gastos.0.0.~control.1.0  
+Command: :build dory:es

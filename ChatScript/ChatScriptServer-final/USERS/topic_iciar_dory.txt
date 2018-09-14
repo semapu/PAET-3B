@@ -1,0 +1,69 @@
+USERS/topic_iciar_dory.txt
+jul2116 Dec11'16-12:02:45 Dec11'16-12:09:38 1481454348-7.0.0.8.1.0 |
+17 23 0 DY 0 20 20 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~preguntas ~gastos ~sald ~introductions ~keywordless ~recibos #pending
+~preguntas + 1 s-YXb ea 3 0 0 
+~gastos + 1 KSKgDIs*Ok3 ia 4 0 0 
+#`end topics
+$botprompt=Dory: 
+$userprompt=iciar: >
+$cs_control_main=~control
+$cs_token=512
+$cs_login=iciar
+$cs_bot=Dory
+$cs_randindex=1545
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ Hola
+ que tal?
+ si
+ cuanto me he gastado en gasolina?
+ cuanto gaste en zara?
+ cuanto gaste en zara en febrero?
+ Factura de la luz
+ me puedes enseñar la factura de
+ [A[B
+ quiero ver mis facturas de enero
+ quiero ver mis facturas
+ quiero ver mi saldo
+ quiero ver cuanto tengo en la cuenta
+ cuanto tengo en la cuenta?
+ cuanto dinero tengo en la cuenta?
+ cuanto dinero gaste en zara?
+ hola?
+ cuanto me queda en la cuenta?
+ soy pobre?
+ tengo 100 euros?
+ quiero ver los recibos de la luz
+ quiero ver el recibo
+ como puedo hacer una transferencia?
+#`end user
+ Bienvenido!
+ Hola de nuevo.
+ ¿Tienes alguna pregunta?
+ Adelante, dígame.
+ DATABASE C00
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+ No consigue entender lo que me está diciendo.
+ No entiendo lo que me quiere decir.
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No entiendo lo que me quiere decir.
+ DATABASE C03
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ DATABASE C03
+ DATABASE C03
+ Hola!
+ Hola de nuevo.
+ No comprendo lo que ha dicho.
+ ¿Puede repetir lo que ha dicho con otras palabras?
+ No comprendo lo que ha dicho.
+ DATABASE C00
+ DATABASE C00
+ ¿Puede repetir lo que ha dicho con otras palabras?
+#`end chatbot

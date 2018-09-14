@@ -1,0 +1,13 @@
+TOPIC: ~PREGUNTASLINEAABIERTA repeat("linea Abierta" )
+
+# Cuál es la tasa de interés de las cuentas de ahorros
+u: (~cuál [es son] [la las] ~tasa de [la las] ~fondo) ^repeat()
+La tasa de interes de las cuentas de ahorros es de...
+
+# Qué coste tiene el uso de Línea Abierta
+u: (~que ~coste ~tener [el los] ~usar * linea Abierta) ^repeat()
+El coste de usar la linea Abierta es de zero euros
+
+# Cómo inhabilito el usuario de Línea Abierta, de una persona que ya no pertenece a nuestra empresa
+u: (~como * [el los] [usuario usuarios] * linea Abierta * [una unas] * no [pertenece pertenecen]) ^repeat()
+Para inhabilita
